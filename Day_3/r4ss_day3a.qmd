@@ -1,0 +1,700 @@
+---
+format: 
+  revealjs:
+    css: ../styles.css
+    slide-number: true
+    show-slide-number: all
+    preview-links: auto
+    self-contained: true
+    progress: true
+    history: true
+    hash-type: number
+    theme: default
+    code-block-background: true
+    highlight-style: zenburn
+    code-link: false
+    code-copy: true
+    pagetitle: "R4SS Day 3A"
+    author-meta: "Jeffrey Girard"
+    date-meta: "2022-07-27"
+---
+
+::: {.my-title}
+# [Introduction to R]{.blue} <br />for Social Scientists
+
+::: {.my-grey}
+[Workshop Day 3A | 2022-07-27]{}<br />
+[Jeffrey M. Girard | Pitt Methods]{}
+:::
+
+![](../img/proud_coder_357EDD.svg){.absolute bottom=0 right=0 width=400}
+:::
+
+<!-- Model I -->
+
+# Model I
+
+## Data Verification {.smaller}
+
+::: {.columns .pv4}
+::: {.column width="60%"}
+-   It's always a good idea to start with [verification]{.b .blue}
+
+::: {.fragment .mt1}
+-   Check that your variables are the [correct type]{.b .green}
+    -   Configure your [factors]{.b .green}' levels and labels
+    -   Establish ordinal factors' ordering
+    -   Explicitly set your [missing values]{.b .green} to NA
+:::
+
+::: {.fragment .mt1}
+-   Check variables' [extrema]{.b .green} and [distributions]{.b .green}
+    -   Check for erroneous and outlying values
+    -   Check the shape of continuous distributions
+    -   Check the overlap of categorical levels
+:::
+:::
+
+::: {.column .tc .pv5 width="40%"}
+{{< li zqwicaxf trigger=loop delay=3000 colors=secondary:#2a76dd class=rc >}}
+:::
+:::
+
+::: footer
+\[3A\] Model I
+:::
+
+## Data Verification Live Coding
+
+```{r}
+#| echo: true
+#| eval: false
+#| error: true
+#| code-line-numbers: false
+
+# SETUP:
+
+library(tidyverse)
+library(datawizard)
+
+salaries <- read_csv("salaries.csv")
+
+# ==============================================================================
+
+# LESSON: First, set all your categorical variables to factors
+
+salaries
+
+salaries <- 
+  salaries |> 
+  mutate(across(c(rank, discipline, sex), factor)) |> 
+  print()
+
+# ==============================================================================
+
+# LESSON: Then check the summary statistics for problems
+
+summary(salaries)
+
+describe_distribution(salaries)
+
+data_tabulate(salaries, exclude = is.numeric)
+
+# ==============================================================================
+
+# LESSON: Finally, check for empty level-combinations
+
+salaries |> 
+  group_by(rank, discipline, sex) |> 
+  summarize(n = n()) |> 
+  arrange(n)
+```
+
+::: footer
+\[3A\] Model I
+:::
+
+## Distribution Geoms {.smaller}
+
+::: {.columns .pv4}
+::: {.column width="60%"}
+-   [Variable distributions]{.b .blue} are critical in data analysis
+    -   What are the most and least [common values]{.b .green}?
+    -   What are the [extrema]{.b .green} (min and max values)?
+    -   Are there any [outliers]{.b .green} or impossible values?
+    -   How much [spread]{.b .green} is there in the variable?
+    -   What [shape]{.b .green} does the distribution take?
+
+::: {.fragment .mt1}
+-   Visualization is a quick way to [assess]{.b .green} this
+    -   They can also [communicate]{.b .green} it to others
+:::
+:::
+
+::: {.column .tc .pv5 width="40%"}
+{{< li wovwohsm trigger=loop delay=3000 colors=secondary:#2a76dd class=rc >}}
+:::
+:::
+
+::: footer
+\[3A\] Model I
+:::
+
+## Distribution Live Coding
+
+```{r}
+#| echo: true
+#| eval: false
+#| error: true
+#| code-line-numbers: false
+
+# SETUP: We will need tidyverse and an example dataset
+
+library(tidyverse)
+
+salaries <- read_csv("salaries.csv")
+
+# ==============================================================================
+
+# USECASE: Creating histograms
+
+ggplot(salaries, aes(x = salary)) + 
+  geom_histogram()
+
+ggplot(salaries, aes(x = salary)) + 
+  geom_histogram(bins = 20)
+
+ggplot(salaries, aes(x = salary)) + 
+  geom_histogram(binwidth = 2)
+
+ggplot(salaries, aes(x = salary)) + 
+  geom_histogram(binwidth = 2, color = "red", size = 1)
+
+ggplot(salaries, aes(x = salary)) + 
+  geom_histogram(binwidth = 2, color = "red", size = 1, fill = "white")
+
+# ==============================================================================
+
+# USECASE: Creating density plots
+
+ggplot(salaries, aes(x = salary)) + geom_density()
+
+ggplot(salaries, aes(x = salary)) + 
+  geom_density(color = "red", size = 1, fill = "white")
+
+# ==============================================================================
+
+# USECASE: Creating box plots
+
+ggplot(salaries, aes(x = salary)) + geom_boxplot()
+
+ggplot(salaries, aes(x = salary, y = rank)) + 
+  geom_boxplot(varwidth = TRUE)
+
+# ==============================================================================
+
+# USECASE: Creating bar plots to count categorical variables
+
+ggplot(salaries, aes(x = rank)) + geom_bar()
+
+# ==============================================================================
+
+# PITFALL: Don't try to create histograms for categorical variables
+
+ggplot(salaries, aes(x = rank)) + geom_histogram() #error
+```
+
+::: footer
+\[3A\] Model I
+:::
+
+## Correlations {.smaller}
+
+::: {.columns .pv4}
+::: {.column width="60%"}
+-   [Correlations]{.b .blue} $(r)$ quantify the strength of the [linear relationship]{.b .green} between two variables from $-1$ to $+1$
+    -   $r\rightarrow-1$: as $x$ increases, $y$ decreases
+    -   $r\rightarrow0$: as $x$ increases, $y$ doesn't change
+    -   $r\rightarrow+1$: as $x$ increases, $y$ also increases
+
+::: {.fragment .mt1}
+-   Correlations may be the focus of statistical inference or just useful descriptive summaries
+:::
+
+::: {.fragment .mt1}
+-   We can easily estimate many [different types]{.b .green} of correlation coefficients in R
+:::
+:::
+
+::: {.column .tc .pv5 width="40%"}
+{{< li nbdmfygb trigger=loop delay=3000 colors=secondary:#2a76dd class=rc >}}
+:::
+:::
+
+::: footer
+\[3A\] Model I
+:::
+
+## Correlations Live Coding
+
+```{r}
+#| echo: true
+#| eval: false
+#| error: true
+#| code-line-numbers: false
+
+# SETUP: Load the used packages (if needed) and read in the example dataset
+
+library(tidyverse)
+library(correlation)
+
+salaries <- read_csv("salaries.csv")
+
+# ==============================================================================
+
+# LESSON: The standard correlation test in R
+
+cor.test(salaries$salary, salaries$yrs.since.phd)
+
+# ==============================================================================
+
+# TIP: Fancier correlations with the {correlation} package (from {easystats})
+
+correlation(salaries)
+
+# ==============================================================================
+
+# LESSON: Creating a graphical model plot (requires installing some packages)
+
+correlation(salaries) |> plot()
+
+# ==============================================================================
+
+# LESSON: Creating and plotting the correlation matrix
+
+correlation(salaries) |> summary()
+
+correlation(salaries) |> summary() |> plot()
+
+correlation(salaries) |> summary(redundant = TRUE) |> plot()
+
+# ==============================================================================
+
+# p-value adjustments
+
+correlation(salaries, p_adjust = "none") # very liberal
+
+correlation(salaries, p_adjust = "bonferroni") # very conservative
+
+correlation(salaries, p_adjust = "holm") # recommended
+
+# ==============================================================================
+
+# LESSON: Other correlation methods
+
+correlation(salaries, method = "kendall") # rank correlation
+
+correlation(salaries, method = "blomqvist") # similar to kendall but better
+
+correlation(salaries, method = "distance") # linear and nonlinear relationships
+```
+
+::: footer
+\[3A\] Model I
+:::
+
+## Comparing Two Groups {.smaller}
+
+::: {.columns .pv4}
+::: {.column width="60%"}
+-   A fundamental task in science is comparing the [centrality]{.b .green} of two groups' distributions
+    -   It is common to compare means or medians
+
+::: {.fragment .mt1}
+-   [Independent]{.b .blue} groups are [separate]{.b .green}
+    -   Comparisons are [between]{.b .green} subjects
+    -   *Did students in New York or students in California spend more time on social media?*
+:::
+
+::: {.fragment .mt1}
+-   [Dependent]{.b .blue} groups are [paired]{.b .green}
+    -   Comparisons are [within]{.b .green} subjects
+    -   *Did the students in my class spend more time on social media during the winter or the summer?*
+:::
+:::
+
+::: {.column .tc .pv5 width="40%"}
+{{< li wfkxiwtw trigger=loop delay=3000 colors=secondary:#2a76dd class=rc >}}
+:::
+:::
+
+::: footer
+\[3A\] Model I
+:::
+
+## Independent Groups Live Coding
+
+```{r}
+#| echo: true
+#| eval: false
+#| error: true
+#| code-line-numbers: false
+
+# SETUP: Load the used packages (if needed) and read in the example dataset
+
+library(tidyverse)
+library(statsExpressions)
+library(ggstatsplot)
+
+salaries <- read_csv("salaries.csv")
+
+# ==============================================================================
+
+# USECASE: Let's compare the salaries across the two disciplines
+
+two_sample_test(
+  data = salaries, 
+  x = discipline, 
+  y = salary, 
+  type = "parametric"
+)
+
+# ==============================================================================
+
+# LESSON: We can also estimate each group's means by swapping the function
+
+centrality_description(
+  data = salaries,
+  x = discipline, 
+  y = salary, 
+  type = "parametric"
+)
+
+# ==============================================================================
+
+# LESSON: Nonparametric does not assume a normal distribution of y
+
+two_sample_test(
+  data = salaries, 
+  x = discipline, 
+  y = salary, 
+  type = "nonparametric"
+)
+
+centrality_description(
+  data = salaries, 
+  x = discipline, 
+  y = salary, 
+  type = "nonparametric"
+)
+
+# ==============================================================================
+
+# TIP: Calculate the test results and generate a plot using {ggstatsplot}
+
+ggbetweenstats(
+  data = salaries, 
+  x = discipline, 
+  y = salary, 
+  type = "parametric"
+)
+
+ggbetweenstats(
+  data = salaries, 
+  x = discipline, 
+  y = salary, 
+  type = "nonparametric"
+)
+```
+
+::: footer
+\[3A\] Model I
+:::
+
+## Dependent Groups Live Coding
+
+```{r}
+#| echo: true
+#| eval: false
+#| error: true
+#| code-line-numbers: false
+
+# SETUP: Load the used packages (if needed) and read in the example dataset
+
+library(tidyverse)
+library(statsExpressions)
+library(ggstatsplot)
+
+interpersonal <- read_csv("interpersonal.csv")
+interpersonal
+
+# ==============================================================================
+
+# LESSON: Be sure to set paired to TRUE and provide a subject.id
+
+two_sample_test(
+  data = interpersonal,
+  x = time,
+  y = problems,
+  paired = TRUE,
+  subject.id = patient,
+  type = "parametric"
+)
+
+centrality_description(
+  data = interpersonal,
+  x = time,
+  y = problems,
+  type = "parametric"
+)
+
+# ==============================================================================
+
+# LESSON: There is a nonparametric version of this too
+
+two_sample_test(
+  data = interpersonal,
+  x = time,
+  y = problems,
+  paired = TRUE,
+  subject.id = patient,
+  type = "nonparametric"
+)
+
+centrality_description(
+  data = interpersonal,
+  x = time,
+  y = problems,
+  type = "nonparametric"
+)
+
+# ==============================================================================
+
+# TIP: No need to add paired because we are switching to ggwithinstats()
+
+ggwithinstats(
+  data = interpersonal, 
+  x = time, 
+  y = problems,
+  subject.id = patient,
+  type = "parametric"
+)
+
+ggwithinstats(
+  data = interpersonal, 
+  x = time, 
+  y = problems,
+  subject.id = patient,
+  type = "nonparametric"
+)
+```
+
+## Comparing Many Groups {.smaller}
+
+::: {.columns .pv4}
+::: {.column width="60%"}
+-   We may also compare [more than two]{.b .green} groups
+    -   Independent vs. dependent still applies
+
+::: {.fragment .mt1}
+-   An [omnibus test]{.b .blue} asks *whether* groups are different
+    -   If significant, one or more group is different
+:::
+
+::: {.fragment .mt1}
+-   [Posthoc tests]{.b .blue} ask *how* groups are different
+    -   Pairwise tests compare each pair of groups
+    -   They are often "gated" behind omnibus tests
+    -   With many groups, *p*-values are adjusted
+:::
+:::
+
+::: {.column .tc .pv5 width="40%"}
+{{< li dugfwxlj trigger=loop delay=3000 colors=secondary:#2a76dd class=rc >}}
+:::
+:::
+
+::: footer
+\[3A\] Model I
+:::
+
+## Many Independent Live Coding
+
+```{r}
+#| echo: true
+#| eval: false
+#| error: true
+#| code-line-numbers: false
+
+# SETUP: Load the used packages (if needed) and read in the example dataset
+
+library(tidyverse)
+library(statsExpressions)
+library(ggstatsplot)
+
+salaries <- read_csv("salaries.csv")
+
+# ==============================================================================
+
+# USECASE: Let's compare the salaries across the three ranks
+
+oneway_anova(
+  data = salaries,
+  x = rank,
+  y = salary,
+  type = "parametric"
+)
+
+centrality_description(
+  data = salaries,
+  x = rank,
+  y = salary,
+  type = "parametric"
+)
+
+oneway_anova(
+  data = salaries,
+  x = rank,
+  y = salary,
+  type = "nonparametric"
+)
+
+# ==============================================================================
+
+# USECASE: Let's compare the salaries between each pair of ranks
+
+pairwise_comparisons(
+  data = salaries,
+  x = rank,
+  y = salary,
+  type = "parametric"
+)
+
+pairwise_comparisons(
+  data = salaries,
+  x = rank,
+  y = salary,
+  type = "nonparametric"
+)
+
+# ==============================================================================
+
+# TIP: Do it all (overall and pairwise tests) with ggbetweenstats
+
+ggbetweenstats(
+  data = salaries, 
+  x = rank, 
+  y = salary,
+  type = "parametric"
+)
+
+ggbetweenstats(
+  data = salaries, 
+  x = rank, 
+  y = salary,
+  type = "nonparametric"
+)
+```
+
+::: footer
+\[3A\] Model I
+:::
+
+## Many Dependent Live Coding
+
+```{r}
+#| echo: true
+#| eval: false
+#| error: true
+#| code-line-numbers: false
+
+# SETUP: Load the used packages (if needed) and read in the example dataset
+
+library(tidyverse)
+library(statsExpressions)
+library(ggstatsplot)
+
+elicitation <- read_csv("elicitation.csv")
+elicitation
+
+# ==============================================================================
+
+# USECASE: Let's compare the amusement self-reports across the four tasks
+
+oneway_anova(
+  data = elicitation,
+  x = Task,
+  y = Amused,
+  paired = TRUE,
+  subject.id = Subject,
+  type = "parametric"
+)
+
+centrality_description(
+  data = elicitation,
+  x = Task,
+  y = Amused,
+  type = "parametric"
+)
+
+oneway_anova(
+  data = elicitation,
+  x = Task,
+  y = Amused,
+  paired = TRUE,
+  subject.id = Subject,
+  type = "nonparametric"
+)
+
+# ==============================================================================
+
+# USECASE: Let's compare the amusement self-reports between each pair of tasks
+
+pairwise_comparisons(
+  data = elicitation,
+  x = Task,
+  y = Amused,
+  paired = TRUE,
+  subject.id = Subject,
+  type = "parametric"
+)
+
+pairwise_comparisons(
+  data = elicitation,
+  x = Task,
+  y = Amused,
+  paired = TRUE,
+  subject.id = Subject,
+  type = "nonparametric"
+)
+
+# ==============================================================================
+
+# TIP: Do it all (overall and pairwise tests) with ggwithinstats
+
+ggwithinstats(
+  data = elicitation,
+  x = Task,
+  y = Amused,
+  paired = TRUE,
+  subject.id = Subject,
+  type = "parametric"
+)
+
+ggwithinstats(
+  data = elicitation,
+  x = Task,
+  y = Amused,
+  paired = TRUE,
+  subject.id = Subject,
+  type = "nonparametric"
+)
+```
+
+::: footer
+\[3A\] Model I
+:::
+
+<!-- Practice V -->
+
+# [Practice V](https://pittmethods.github.io/r4ss/Day_3/Day3A_Practice.html){preview-link="false"}

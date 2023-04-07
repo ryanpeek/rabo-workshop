@@ -1,0 +1,54 @@
+project:
+  type: website
+  output-dir: docs
+  resources:
+    - "data/*.csv"
+
+website:
+  title: "RABO Workshop"
+  navbar:
+    background: primary
+    right:
+      - href: index.qmd
+        text: Home
+      - text: "Details"
+        menu:
+          - text: "Instructors"
+            href: Details/instructors.qmd
+          - text: "Schedule"
+            href: Details/schedule.qmd
+          - text: "Resources"
+            href: Details/resources.qmd
+      - text: "Day 1"
+        menu:
+          - text: "Day 1A Slides"
+            href: Day_1/Day1A_Slides.qmd
+          - text: "Day 1A Practice"
+            href: Day_1/Day1A_Practice.qmd
+      - text: "Day 2"
+        menu:
+          - text: "Day 2A Slides"
+            href: Day_2/Day2A_Slides.qmd
+          - text: "Day 2A Practice"
+            href: Day_2/Day2A_Practice.qmd
+      - text: "Day 3"
+        menu:
+          - text: "Day 3A Slides"
+            href: Day_3/Day3A_Slides.qmd
+          - text: "Day 3A Practice"
+            href: Day_3/Day3A_Practice.qmd
+      - icon: github
+        href: https://www.github.com/ryanpeek/rabo-workshop
+  search: false
+  page-footer: "written in Quarto by R. Peek"
+
+format:
+  html:
+    theme:
+      light: cerulean
+      dark: superhero
+    css: styles.css
+
+execute:
+  freeze: auto
+  cache: true

@@ -1,0 +1,14 @@
+{
+  "hash": "36baa1c07ca77aea78c64c4e6b2ad855",
+  "result": {
+    "markdown": "---\ntitle: \"Day 1A Practice\"\nformat: html\n---\n\n\n![](../img/programmer_2780E3.svg){.hero}\n\n## Question 1.\n\nRead what the user wanted to do and look at the command they sent to R. Fix the errors in the commands and calculate the answers.\n\na)  I want to add 20 and 0.2 and divide that sum by 4.1. But I get an error when I try:<br />`[20 + .2] \\ 4.1`\nb)  I want to multiply 6 by the sum of 2 and 1,300. But I get an error when I try:<br />`6 x (2 + 1,300)`\n\n<p><details>\n<summary>Click here for the answer key</summary>\n<blockquote>\n\n**Answer (a)**\n\nChange the brackets `[]` to parentheses `()` because parentheses `()` are the order of operations operator in R. Also, change the backslash `\\` to a forward slash `/` because forward slash `/` is the division operator in R.\n\n\n::: {.cell hash='Day1A_Practice_cache/html/unnamed-chunk-1_de5bf55355b630a4f2fbecd39a4bc1d7'}\n\n```{.r .cell-code}\n(20 + .2) / 4.1\n#> [1] 4.926829\n```\n:::\n\n\n**Answer (b)**\n\nChange the `x` to an asterisk `*` because asterisk `*` is the multiplication operator in R. Also, remove the comma `,` from `1,300` because R doesn't use commas to delimit digits in large numbers.\n\n\n::: {.cell hash='Day1A_Practice_cache/html/unnamed-chunk-2_6ba7d15b23b38c8486572e39ebf0611b'}\n\n```{.r .cell-code}\n6 * (2 + 1300)\n#> [1] 7812\n```\n:::\n\n\n</blockquote></details></p>\n\n## Question 2.\n\nWhich of the following commands do you think will create an error in R? Why?\n\na) `score@T1 <- 3.2`\nb) `score_at_T1 <- 3.2`\nc) `score at T1 <- 3.2`\nd) `1_score <- 3.2`\ne) `ScoreAtTime1 <- 3.2`\n\nMake your best guesses just by looking at the commands and then check your guesses by running the commands in R.\n\n<p><details>\n<summary>Click here for the answer key</summary>\n\n> The following commands will create an error in R: **a** (`@` is not allowed in an object name), **c** (spaces are not allowed in an object name), and **d** (the first character in an object name cannot be a number).\n\n</details></p>\n\n## Resources\n\n- [R4DS Chapter 8](https://r4ds.had.co.nz/workflow-projects.html): Read more about projects\n\n- [R4DS Chapter 4](https://r4ds.had.co.nz/workflow-basics.html): Read about basic programming\n\n- [R4DS Chapter 27](https://r4ds.had.co.nz/r-markdown.html): Read more about RMarkdown\n\n## Fun Stuff\n\n### Literal Genie\n\nWhat it feels like to talk to R sometimes...\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/58l7ZqoU0a0\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

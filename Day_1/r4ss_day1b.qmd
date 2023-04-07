@@ -1,0 +1,1266 @@
+---
+format: 
+  revealjs:
+    css: ../styles.css
+    slide-number: true
+    show-slide-number: all
+    preview-links: auto
+    self-contained: true
+    progress: true
+    history: true
+    hash-type: number
+    theme: default
+    code-block-background: true
+    highlight-style: zenburn
+    code-link: false
+    code-copy: true
+    pagetitle: "R4SS Day 1B"
+    author-meta: "Jeffrey Girard"
+    date-meta: "2022-07-25"
+---
+
+::: {.my-title}
+# [Introduction to R]{.blue} <br />for Social Scientists
+
+::: {.my-grey}
+[Workshop Day 1B | 2022-07-25]{}<br />
+[Jeffrey M. Girard | Pitt Methods]{}
+:::
+
+![](../img/proud_coder_357EDD.svg){.absolute bottom=0 right=0 width=400}
+:::
+
+<!-- Program II -->
+
+# Program II
+
+## Functions {.smaller}
+
+::: {.columns .pv4}
+::: {.column width="60%"}
+-   [Recipes]{.b .green} allow chefs to cook up tasty treats
+    -   Recipes call for ingredients
+    -   Recipes involve one or more steps
+    -   Steps transform ingredients into treats
+
+::: {.fragment .mt1}
+-   [Functions]{.b .blue} are like *customizable* recipes
+    -   Functions call for inputs ("arguments")
+    -   Functions involve one or more lines of code
+    -   Code transforms inputs into outputs
+    -   Using functions requires parentheses (usually)
+:::
+:::
+
+::: {.column .tc .pv5 width="40%"}
+{{< li vpqdjfdy trigger=loop delay=3000 colors=secondary:#2a76dd class=rc >}}
+
+::: {.fragment}
+`out <- f(in1, in2)`
+:::
+:::
+:::
+
+::: footer
+\[1B\] Program II
+:::
+
+## Functions Live Coding
+
+```{r}
+#| echo: true
+#| eval: false
+#| code-line-numbers: false
+
+# USECASE: Function can perform a task more easily and readably
+
+# TEMPLATE: output <- function_name(input)
+
+9 ^ (1 / 2)
+
+x <- sqrt(9)
+x
+
+# ==============================================================================
+
+# LESSON: We can also use functions to transform objects
+
+y <- 9
+
+sqrt(y)
+
+# ==============================================================================
+
+# LESSON: We can even use functions to transform the result of calculations
+
+2 / 3
+
+round(2 / 3)
+
+# ==============================================================================
+
+# LESSON: We can customize what a function does using arguments
+
+# TEMPLATE: output <- function_name(argument, argument_name = argument_value)
+
+round(2 / 3, digits = 2)
+
+round(2 / 3, digits = 3)
+
+# ==============================================================================
+
+# LESSON: Some arguments are optional because they have default values
+
+round(2 / 3) # the default value for digits is 0
+
+round(2 / 3, digits = 0)
+```
+
+::: footer
+\[1B\] Program II
+:::
+
+## Vectors {.smaller}
+
+::: {.columns .pv4}
+::: {.column width="60%"}
+-   [Vectors]{.b .blue} combine similar objects into a collection
+    -   *I like to imagine a train pulling multiple cars*<br />
+    ![](../img/traincar.png)
+    -   A vector is one object with many sub-objects
+    -   We refer to each sub-object as an [element]{.b .green}
+
+::: {.fragment .mt1}
+-   Some functions [transform each element]{.b .green} in turn
+    -   *Double the amount of cargo in every train car*
+:::
+
+::: {.fragment .mt1}
+-   Some functions [summarize across elements]{.b .green}
+    -   *Calculate the total cargo across all train cars*
+:::
+:::
+
+::: {.column .tc .pv5 width="40%"}
+{{< li bqmoqptv trigger=loop delay=3000 colors=secondary:#2a76dd class=rc >}}
+
+::: {.fragment}
+`v <- c(1, 2, 3)`
+:::
+
+:::
+:::
+
+::: footer
+\[1B\] Program II
+:::
+
+## Vectors Live Coding
+
+```{r}
+#| echo: true
+#| eval: false
+#| error: true
+#| code-line-numbers: false
+
+# LESSON: We can combine multiple elements into a vector
+
+# TEMPLATE: vector_name <- c(element1, element2, element3)
+
+x <- 4 9 16 25 # error
+
+x <- c(4, 9, 16, 25)
+x
+
+y <- c(2, 3)
+y
+
+# ==============================================================================
+
+# LESSON: We can also combine multiple vectors and elements
+
+c(x, y)
+
+c(x, y, 20)
+
+# ==============================================================================
+
+# USECASE: Math operators will transform each element individually
+
+x + 1
+
+x * 3
+
+x # but again, this won't be saved unless you use assignment
+
+# ==============================================================================
+
+# USECASE: Some functions will also transform each element individually
+
+sqrt(x)
+
+log(x)
+
+# ==============================================================================
+
+# USECASE: Other functions will summarize the vector with a single number
+
+length(x)
+
+sum(x)
+
+mean(x)
+```
+
+::: footer
+\[1B\] Program II
+:::
+
+<!-- Insert quiz and short break here? -->
+
+## Strings {.smaller}
+
+::: {.columns .pv4}
+::: {.column width="60%"}
+-   When talking to R, we need a way to distinguish
+    -   Object/function names (e.g., the *mean* function)
+    -   Text/character data (e.g., the word *mean*)
+    
+::: {.fragment .mt1}
+-   [Strings]{.b .blue} are R's way of storing text data
+    -   Strings can store any characters (no rules!)
+    -   Strings are created and displayed with [quotes]{.b .green}
+:::
+::: {.fragment .mt1}
+-   R has great tools for working with strings
+    -   Strings can be collected into vectors
+    -   Special functions can transform strings
+:::
+:::
+
+::: {.column .tc .pv5 width="40%"}
+{{< li xqnbvely trigger=loop delay=3000 colors=secondary:#2a76dd class=rc >}}
+
+::: {.fragment}
+`name <- "John Doe"`
+:::
+
+:::
+:::
+
+::: footer
+\[1B\] Program II
+:::
+
+## Strings Live Coding
+
+```{r}
+#| echo: true
+#| eval: false
+#| error: true
+#| code-line-numbers: false
+
+# USECASE: Strings are the main way to store character data in R
+ 
+my_color <- red # error
+
+my_color <- "red" # correct
+
+# ==============================================================================
+
+# USECASE: Strings can also store symbols not allowed in object names
+
+dye <- "red#40"
+dye
+
+dyes <- c("red#40", "blue#02")
+dyes
+
+# ==============================================================================
+
+# PITFALL: Many operations you can do to numbers won't work for strings
+
+dyes + 1 # error
+
+mean(dyes) # error
+
+# ==============================================================================
+
+# USECASE: But other operations work for both or even just for strings
+
+length(dyes)
+
+nchar(dyes)
+
+dyes2 <- toupper(dyes)
+dyes2
+```
+
+::: footer
+\[1B\] Program II
+:::
+
+## Packages {.smaller}
+
+::: {.columns .pv4}
+::: {.column width="60%"}
+-   [Cookbooks]{.b .green} are a great way to learn to cook
+    -   *They contain lots of recipes and instructions*
+    -   Browse an online **bookstore** for a cookbook
+    -   **Order** it to add it to your personal **bookshelf**
+    -   To use, **pull** the cookbook off the shelf
+
+::: {.fragment .mt1}
+-   [Packages]{.b .blue} are like cookbooks for R
+    -   *They contain helpful functions and datasets*
+    -   Browse an online **repository** for a package
+    -   **Install** it to add it to your personal **library**
+    -   To use, **load** the package from the library
+:::
+:::
+
+::: {.column .tc .pv5 width="40%"}
+{{< li tboujdsn trigger=loop delay=3000 colors=secondary:#2a76dd class=rc >}}
+
+::: {.fragment}
+`library("pkg_name")`
+:::
+:::
+:::
+
+::: footer
+\[1B\] Program II
+:::
+
+## Packages Live Coding
+
+```{r}
+#| echo: true
+#| eval: false
+#| error: true
+#| code-line-numbers: false
+
+# USECASE: The stringr package adds a function to fix capitalization
+
+students <- c("mary anne", "BENjamin", "Lee")
+
+# ==============================================================================
+
+# PITFALL: But we can't use that function without installing the package
+
+str_to_title(students) # error
+
+# ==============================================================================
+
+# LESSON: Installing a package using RStudio
+
+# - RStudio > Extras pane > Packages tab > Install button
+
+# ==============================================================================
+
+# PITFALL: We also need to load the package before we can use it
+
+str_to_title(students) # error
+
+# ==============================================================================
+
+# LESSON: We load the package using library()
+
+library("stringr")
+str_to_title(students) #finally works!
+
+# ==============================================================================
+
+# LESSON: We can also keep our packages updated using RStudio
+
+# RStudio > Extras pane > Packages tab > Update button
+```
+
+::: footer
+\[1B\] Program II
+:::
+
+<!-- Wrangle I -->
+
+# Wrangle I
+
+## Tidy Data Principles {.smaller}
+
+::: {.columns .pv4}
+::: {.column width="60%"}
+- There are many ways to store data
+
+::: {.fragment .mt1}
+- We will be learning the [tidy data]{.b .blue} format
+    - Data should be *rectangular*
+    - Each [variable]{.green} has its own column
+    - Each [observation]{.green} has its own row
+    - Each [value]{.green} has its own cell
+:::
+
+::: {.fragment .mt1}
+![](../img/tidydata.png)
+:::
+
+:::
+
+::: {.column .tc .pv5 width="40%"}
+{{< li qhdmndwt trigger=loop delay=3000 colors=secondary:#2a76dd class=rc >}}
+:::
+:::
+
+::: footer
+\[1B\] Wrangle I
+:::
+
+## Other Data Advice {.smaller}
+
+::: {.columns .pv4}
+::: {.column width="60%"}
+-   [Name all variables]{.b .blue} in the first row
+    -   This is called a [header row]{.b .green}
+    
+::: {.fragment .mt1}
+-   [Avoid merged cells]{.b .blue} for data storage
+    -   These are okay for communication
+:::
+
+::: {.fragment .mt1}
+-   [Avoid empty cells]{.b .blue} whenever possible
+    -   Mark [missing data]{.b .green} as `NA`
+:::
+
+::: {.fragment .mt1}
+-   [Avoid formatting-as-data]{.b .blue} for storage
+    -   e.g., non-redundant color-coding
+:::
+:::
+
+::: {.column .tc .pv5 width="40%"}
+{{< li dizvjgip trigger=loop delay=3000 colors=secondary:#2a76dd class=rc >}}
+:::
+:::
+
+::: footer
+\[1B\] Wrangle I
+:::
+
+## Tidying Example 1 {.smaller}
+
+::: {.columns .pv4}
+::: {.column width="45%"}
+#### Not Tidy
+<table class="table-bad" width="100%">
+  <tbody>
+  <tr>
+    <td>Name</td>
+    <td>Ann</td>
+    <td>Bob</td>
+    <td>Cat</td>
+    <td>Dom</td>
+  </tr>
+  <tr>
+    <td>Age</td>
+    <td>13</td>
+    <td>10</td>
+    <td>11</td>
+    <td>11</td>
+  </tr>
+  <tr>
+    <td>Weight</td>
+    <td>56.4</td>
+    <td>46.8</td>
+    <td>41.3</td>
+    <td>43.3</td>
+  </tr>
+  </tbody>
+</table>
+
+::: {.fragment .mt1 .pv4}
+❌ Here, each row is a variable and each column is an observation.
+:::
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="45%"}
+::: {.fragment}
+#### Tidy
+<table class="table-good" width="100%">
+  <tbody>
+  <tr>
+    <td>Name</td>
+    <td>Age</td>
+    <td>Weight</td>
+  </tr>
+  <tr>
+    <td>Ann</td>
+    <td>13</td>
+    <td>56.4</td>
+  </tr>
+  <tr>
+    <td>Bob</td>
+    <td>10</td>
+    <td>46.8</td>
+  </tr>
+  <tr>
+    <td>Cat</td>
+    <td>11</td>
+    <td>41.3</td>
+  </tr>
+  <tr>
+    <td>Dom</td>
+    <td>11</td>
+    <td>43.3</td>
+  </tr>
+  </tbody>
+</table>
+::: {.pv4}
+✔️ Here, each column is a variable and each row is an observation.
+:::
+:::
+:::
+:::
+
+::: footer
+\[1B\] Wrangle I
+:::
+
+## Tidying Example 2 {.smaller}
+
+::: {.columns .pv4}
+::: {.column width="45%"}
+#### Not Tidy
+<table class="table-bad" width="100%">
+  <tbody>
+  <tr>
+    <td>Names:</td>
+    <td>Ann</td>
+    <td>Bob</td>
+    <td>Cat</td>
+    <td>Dom</td>
+  </tr>
+  <tr>
+    <td>Age</td>
+    <td>Weight</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>13</td>
+    <td>56.4</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>10</td>
+    <td>46.8</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>11</td>
+    <td>41.3</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>11</td>
+    <td>43.3</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  </tbody>
+</table>
+
+::: {.fragment .mt1 .pv4}
+❌ Here, we have data that is not rectangular because the Names variable has its own row.
+:::
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="45%"}
+::: {.fragment}
+#### Tidy
+<table class="table-good" width="100%">
+  <tbody>
+  <tr>
+    <td>Name</td>
+    <td>Age</td>
+    <td>Weight</td>
+  </tr>
+  <tr>
+    <td>Ann</td>
+    <td>13</td>
+    <td>56.4</td>
+  </tr>
+  <tr>
+    <td>Bob</td>
+    <td>10</td>
+    <td>46.8</td>
+  </tr>
+  <tr>
+    <td>Cat</td>
+    <td>11</td>
+    <td>41.3</td>
+  </tr>
+  <tr>
+    <td>Dom</td>
+    <td>11</td>
+    <td>43.3</td>
+  </tr>
+  </tbody>
+</table>
+
+::: {.pv4}
+✔️ Here, we have made the data rectangular by moving the Names variable to its own column.
+:::
+:::
+:::
+:::
+
+::: footer
+\[1B\] Wrangle I
+:::
+
+## Tidying Example 3 {.smaller}
+
+::: {.columns .pv4}
+::: {.column width="45%"}
+#### Not Tidy
+<table class="table-bad table-small" width="100%">
+  <tbody>
+  <tr>
+    <td>country</td>
+    <td>year</td>
+    <td>cases / population</td>
+  </tr>
+  <tr>
+    <td rowspan=2>Afghanistan</td>
+    <td>1999</td>
+    <td>NA / 19987071</td>
+  </tr>
+  <tr>
+    <td>2000</td>
+    <td>2666 / 20595360</td>
+  </tr>
+  <tr>
+    <td rowspan=2>Brazil</td>
+    <td>1999</td>
+    <td>37737 / 172006362</td>
+  </tr>
+  <tr>
+    <td>2000</td>
+    <td>80488 / 174504898</td>
+  </tr>
+  <tr>
+    <td rowspan=2>China</td>
+    <td>1999</td>
+    <td>212258 / 1272915272</td>
+  </tr>
+  <tr>
+    <td>2000</td>
+    <td>213766 / 1280428583</td>
+  </tr>
+  </tbody>
+</table>
+
+::: {.fragment .mt1 .pv4}
+❌ Here, we have merged cells and two values stored in a single cell.
+:::
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="45%"}
+::: {.fragment}
+#### Tidy
+<table class="table-good table-small" width="100%">
+  <tbody>
+  <tr>
+    <td>country</td>
+    <td>year</td>
+    <td>cases</td>
+    <td>population</td>
+  </tr>
+  <tr>
+    <td>Afghanistan</td>
+    <td>1999</td>
+    <td>NA</td>
+    <td>19987071</td>
+  </tr>
+  <tr>
+    <td>Afghanistan</td>
+    <td>2000</td>
+    <td>2666</td>
+    <td>20595360</td>
+  </tr>
+  <tr>
+    <td>Brazil</td>
+    <td>1999</td>
+    <td>37737</td>
+    <td>172006362</td>
+  </tr>
+  <tr>
+    <td>Brazil</td>
+    <td>2000</td>
+    <td>80488</td>
+    <td>174504898</td>
+  </tr>
+  <tr>
+    <td>China</td>
+    <td>1999</td>
+    <td>212258</td>
+    <td>1272915272</td>
+  </tr>
+  <tr>
+    <td>China</td>
+    <td>2000</td>
+    <td>213766</td>
+    <td>1280428583</td>
+  </tr>
+  </tbody>
+</table>
+::: {.pv4}
+✔️ Here, we have un-merged the countries and separated the cases and populations variables into columns.
+:::
+:::
+:::
+:::
+
+::: footer
+\[1B\] Wrangle I
+:::
+
+
+## Tidying Example 4 {.smaller}
+
+::: {.columns .pv4}
+::: {.column width="45%"}
+#### Not Tidy
+<table class="table-bad" width="100%">
+  <tbody>
+  <tr>
+    <td>student</td>
+    <td>grade</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>[Amber]{.bg-yellow}</td>
+    <td>91.5</td>
+    <td>A-</td>
+  </tr>
+  <tr>
+    <td>[Bristol]{.bg-teal}</td>
+    <td>86.2</td>
+    <td>B</td>
+  </tr>
+  <tr>
+    <td>[Charlene]{.bg-yellow}</td>
+    <td>94.0</td>
+    <td>A</td>
+  </tr>
+  <tr>
+    <td>Diego</td>
+    <td>89.3</td>
+    <td>B+</td>
+  </tr>
+  <tr>
+    <td colspan=3>Legend: [Psych. Major]{.bg-yellow}, [Psych. Minor]{.bg-teal}</td>
+  </tr>
+  </tbody>
+</table>
+
+::: {.fragment .mt1 .pv4}
+❌ Here, we have a missing variable name and formatting-as-data.
+:::
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="45%"}
+::: {.fragment}
+#### Tidy
+<table class="table-good" width="100%">
+  <tbody>
+  <tr>
+    <td>student</td>
+    <td>psych</td>
+    <td>grade</td>
+    <td>letter</td>
+  </tr>
+  <tr>
+    <td>Amber</td>
+    <td>major</td>
+    <td>91.5</td>
+    <td>A-</td>
+  </tr>
+  <tr>
+    <td>Bristol</td>
+    <td>minor</td>
+    <td>86.2</td>
+    <td>B</td>
+  </tr>
+  <tr>
+    <td>Charlene</td>
+    <td>major</td>
+    <td>94.0</td>
+    <td>A</td>
+  </tr>
+  <tr>
+    <td>Diego</td>
+    <td>NA</td>
+    <td>89.3</td>
+    <td>B+</td>
+  </tr>
+  </tbody>
+</table>
+::: {.pv4}
+✔️ Here, we have added a column for the psych variable, removed the legend, and named the letter variable.
+:::
+:::
+:::
+:::
+
+::: footer
+\[1B\] Wrangle I
+:::
+
+
+## Tidying Example 5 {.smaller}
+
+::: {.columns .pv4}
+::: {.column width="45%"}
+#### Not Tidy
+<table class="table-bad" width="100%">
+  <tbody>
+  <tr>
+    <td>student</td>
+    <td>grade</td>
+    <td>letter</td>
+  </tr>
+  <tr>
+    <td>Amber</td>
+    <td>91.5</td>
+    <td>A-</td>
+  </tr>
+  <tr>
+    <td>Bristol*</td>
+    <td>94.2</td>
+    <td>A</td>
+  </tr>
+  <tr>
+    <td colspan=3>Class Summary</td>
+  </tr>
+  <tr>
+    <td>As</td>
+    <td>2</td>
+    <td>Yay!</td>
+  </tr>
+  <tr>
+    <td>Bs</td>
+    <td>0</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td colspan=3 class="tr">*Grade was revised.</td>
+  </tr>
+  </tbody>
+</table>
+
+::: {.fragment .mt1 .pv4}
+❌ Here, we have two types of data in one file and a footnote as data.
+:::
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="45%"}
+::: {.fragment}
+#### Tidy
+<table class="table-good" width="100%">
+  <tbody>
+    <tr>
+      <td>student</td>
+      <td>grade</td>
+      <td>letter</td>
+      <td>revised</td>
+    </tr>
+    <tr>
+      <td>Amber</td>
+      <td>91.5</td>
+      <td>A-</td>
+      <td>FALSE</td>
+    </tr>
+    <tr>
+      <td>Bristol</td>
+      <td>94.2</td>
+      <td>A</td>
+      <td>TRUE</td>
+    </tr>
+  </tbody>
+</table>
+
+<table class="table-good" width="100%" style="margin-top: 1em;">
+  <tbody>
+    <tr>
+      <td>letter</td>
+      <td>count</td>
+      <td>notes</td>
+    </tr>
+    <tr>
+      <td>A</td>
+      <td>2</td>
+      <td>Yay!</td>
+    </tr>
+    <tr>
+      <td>B</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+::: {.pv4}
+✔️ Here, we have split the data into two separate tables and added the revised and notes variables.
+:::
+:::
+:::
+:::
+
+::: footer
+\[1B\] Wrangle I
+:::
+
+## Long vs. Wide Format {.smaller}
+
+::: {.columns .pv4}
+::: {.column width="45%"}
+#### Wide Format
+<table class="table-good" width="100%">
+  <tbody>
+    <tr>
+      <td>date</td>
+      <td>Boeing</td>
+      <td>Amazon</td>
+      <td>Google</td>
+    </tr>
+    <tr>
+      <td>2009-01-01</td>
+      <td>$173.55</td>
+      <td>$174.90</td>
+      <td>$174.34</td>
+    </tr>
+    <tr>
+      <td>2009-01-02</td>
+      <td>$172.61</td>
+      <td>$171.42</td>
+      <td>$170.04</td>
+    </tr>
+  </tbody>
+</table>
+
+::: {.fragment .mt1 .pv4}
+✔️ Here, we have a wide format where each observation is a date.
+:::
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="45%"}
+::: {.fragment}
+#### Long Format
+<table class="table-good" width="100%">
+  <tbody>
+    <tr>
+      <td>date</td>
+      <td>stock</td>
+      <td>price</td>
+    </tr>
+    <tr>
+      <td>2009-01-01</td>
+      <td>Boeing</td>
+      <td>$173.55</td>
+    </tr>
+    <tr>
+      <td>2009-01-01</td>
+      <td>Amazon</td>
+      <td>$174.90</td>
+    </tr>
+    <tr>
+      <td>2009-01-01</td>
+      <td>Google</td>
+      <td>$174.34</td>
+    </tr>
+    <tr>
+      <td>2009-01-02</td>
+      <td>Boeing</td>
+      <td>$172.61</td>
+    </tr>
+    <tr>
+      <td>2009-01-02</td>
+      <td>Amazon</td>
+      <td>$171.42</td>
+    </tr>
+    <tr>
+      <td>2009-01-02</td>
+      <td>Google</td>
+      <td>$170.04</td>
+    </tr>
+  </tbody>
+</table>
+
+::: { .pv4}
+✔️ Here, we have a long format where each observation is the combination of a date and a stock.
+:::
+:::
+:::
+:::
+
+::: footer
+\[1B\] Wrangle I
+:::
+
+## Tibbles {.smaller}
+
+::: {.columns .pv4}
+::: {.column width="60%"}
+-   R works particularly well with [tidy data]{.b .green}
+
+::: {.fragment .mt1}
+-   We store tidy data in [data frames]{.b .green} or [tibbles]{.b .blue}
+    -   Tibbles are just fancier data frames<br />
+        (i.e., they have a few extra features)
+:::
+
+::: {.fragment .mt1}
+-   To use tibbles, we need the [tidyverse]{.b .blue} package
+:::
+
+::: {.fragment .mt1}
+-   Tibbles are constructed from one or more vectors
+    -   The vectors must have the [same length]{.b .green}
+    -   They can contain [different types]{.b .green} of data
+:::
+:::
+
+::: {.column .tc .pv5 width="40%"}
+{{< li jiievwhv trigger=loop delay=3000 colors=secondary:#2a76dd class=rc >}}
+:::
+:::
+
+::: footer
+\[1B\] Wrangle I
+:::
+
+## Vectors {.smaller}
+
+![](../img/vectors.png)
+
+::: {.tc .pv4}
+We start with three separate vector objects that all have the same length.
+
+We set it up so that the $n$-th car in each train corresponds to the same observation.
+:::
+
+::: footer
+\[1B\] Wrangle I
+:::
+
+## Tibble {.smaller}
+
+![](../img/tibble.png)
+
+::: {.tc .pv4}
+Then we combine the vectors into a single tibble (or data frame) object.
+
+Now, as the tibble moves around, the variables always stay together.
+:::
+
+::: footer
+\[1B\] Wrangle I
+:::
+
+## Tibbles Live Coding
+
+```{r}
+#| echo: true
+#| eval: false
+#| error: true
+#| code-line-numbers: false
+
+# SETUP: Install and load the tidyverse package
+
+# Extras pane > Packages tab > Install
+
+library(tidyverse)
+
+# ==============================================================================
+
+# LESSON: Create a tibble from vectors
+
+x <- c(10, 20, 30, 40)
+x
+
+y <- x * 2 - 4
+y
+
+my_tibble <- tibble(x, y)
+my_tibble
+
+# ==============================================================================
+
+# USECASE: You can mix different types of vectors in a single tibble
+
+first_names <- c("Adam", "Billy", "Caitlyn", "Debra")
+
+age_years <- c(12, 13, 10, NA)
+
+guests <- tibble(first_names, age_years)
+guests
+
+# ==============================================================================
+
+# TIP: To save time, you can also create the vectors in the tibble call
+
+gradebook <- tibble(
+  grade = c(95, 83, 90, 76),
+  letter = c("a", "b", "a-", "c")
+)
+gradebook
+
+# ==============================================================================
+
+# PITFALL: Don't try to combine tibbles with different lengths
+
+y <- c(1, 2, 3)
+x <- c("a", "b")
+
+tibble(y, x) #error
+
+# ==============================================================================
+
+# LESSON: However, the exception is R will "recycle" a single value
+
+tibble(y, x = "a")
+
+# ==============================================================================
+
+# LESSON: You can "extract" a vector from a tibble using $
+
+mytibble <- tibble(x = c(1, 2, 3, 4, 5), y = "test")
+
+mytibble$x
+
+mytibble$y
+
+# ==============================================================================
+
+# PITFALL: Don't try to extract a vector that doesn't exist
+
+mytibble$z #error
+```
+
+::: footer
+\[1B\] Wrangle I
+:::
+
+## Importing and Exporting {.smaller}
+
+::: {.columns .pv4}
+::: {.column width="60%"}
+-   Data is usually stored in [data files]{.b .green}
+    -   Importing files into R is called [reading]{.b .blue}
+    -   Exporting files from R is called [writing]{.b .blue}
+
+::: {.fragment .mt1}
+-   A convenient data file type is a CSV
+    -   This stands for [comma-separated values]{.b .green}
+    -   A CSV file is easy to share with other people
+:::
+
+::: {.fragment .mt1}
+-   The [tidyverse]{.b .green} package can read/write CSVs
+    -   Other packages can read/write other types
+        (e.g., *readxl*, *haven*, *rio*, *googlesheets4*)
+:::
+:::
+
+::: {.column .tc .pv5 width="40%"}
+{{< li dhkykqke trigger=loop delay=3000 colors=secondary:#2a76dd class=rc >}}
+:::
+:::
+
+::: footer
+\[1B\] Wrangle I
+:::
+
+## Read/Write Live Coding
+
+```{r}
+#| echo: true
+#| eval: false
+#| error: true
+#| code-line-numbers: false
+
+# SETUP: Load the tidyverse package (if you haven't yet)
+
+library(tidyverse)
+
+# ==============================================================================
+
+# USECASE: Create a tibble and write it to a file
+
+gradebook <- tibble(
+  id = c(123, 456, 789),
+  grade = c("A", "B", "A")
+)
+gradebook
+
+write_csv(gradebook, file = "gradebook.csv")
+
+# NOTE: You can see the new file in Extras pane > Files tab.
+# You can open the file in another program (e.g., Microsoft Excel).
+# You can also email this file to someone else to share it.
+
+# ==============================================================================
+
+# PITFALL: Don't swap the order of the tibble and the file
+
+write_csv("gradebook.csv", gradebook) # error
+
+# ==============================================================================
+
+# USECASE: Read in a file containing data
+
+old_gradebook <- read_csv("gradebook.csv")
+old_gradebook
+
+# NOTE: read_csv() will examine and guess the data type of each variable.
+# You can tell it the data type of each variable, but that is more advanced.
+
+# ==============================================================================
+
+# PITFALL: Don't use the read.csv() and write.csv() functions
+
+old_gradebook <- read.csv("gradebook.csv") # not a tibble
+old_gradebook
+```
+
+::: footer
+\[1B\] Wrangle I
+:::
+
+# [Practice II](https://pittmethods.github.io/r4ss/Day_1/Day1B_Practice.html){preview-link="false"}

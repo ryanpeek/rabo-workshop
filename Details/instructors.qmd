@@ -1,0 +1,51 @@
+---
+title: "Ryan Peek"
+about:
+  template: trestles
+  image: ../img/ryan_snorkel_river.png
+  links:
+    - icon: link
+      text: website
+      href: https://www.ryanpeek.org/
+    - icon: github
+      text: github
+      href: https://www.github.com/ryanpeek
+---
+
+<!-- Can add statement here to turn on and off if preferred -->
+
+## Experience
+
+**CA Dept of Fish & Wildlife** | Sacramento, CA<br />
+Statewide Drought Resiliency Coordinator, Wildlife Diversity Program | 2022 – present
+
+**University of California, Davis** | Davis, CA<br />
+Postdoctoral Scholar | 2018 – 2022<br />
+Doctoral Candidate | 2014 – 2018<br />
+Researcher | 2011-2014
+
+## Education
+
+**UC Davis** | Davis, CA<br />
+PhD in Ecology | 2018
+
+**University of San Francisco** | San Francisco, CA<br />
+MS in Biology | 2010
+
+**UC Davis** | Davis, CA<br />
+BS in Wildlife, Fish, & Conservation Biology | 2002
+
+------------------
+<!-- probably make a different page for each?-->
+# Sarah Kupferberg
+
+## Experience
+
+**Ecologist** | Berkeley, CA<br />
+Consultant and Researcher | 1990 – present
+
+## Education
+
+**UC Berkeley** | Davis, CA<br />
+PhD in Biology | 1996
+

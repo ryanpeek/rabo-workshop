@@ -1,0 +1,25 @@
+---
+title: "Ecology of the Foothill Yellow-legged Frog"
+editor_options: 
+  chunk_output_type: console
+---
+
+A workshop the natural and unnatural history of a once-abundant species, now petitioned for Federal listing. 
+Experts will describe the [**life history**]{.dark-green}, [**habitat use**]{.gray}, and [**ecology**]{.dark-red} of the species, as well provide status and listing updates if possible. 
+Survey methodology and field techniques for monitoring the species will also be covered. This workshop will provide understanding of how water management, population decline, and landscape change has impacted the species, and what it will mean for biologists monitoring the species.
+\
+
+Developed and taught by [Ryan Peek](https://github.com/jmgirard), Sarah Kupferberg, Marcia Grefsrud, and Alan Striegle for the [Elkhorn Slough Coastal Training Program Series](http://www.elkhornsloughctp.org/training/show_train_detail.php?TRAIN_ID=Ec66CMJ) (May 4, 9, 10, 11, 2023).
+
+![*Rana boylii*, image by R. Peek](img/rabo_icon.png){fig-align="center" height=400}
+
+::: {layout-ncol=2}
+
+![A frog in the hand is worth...](img/IMGP0778.jpg){fig-align="left" width=400}
+
+![Tidy datasheet](img/artsy_datasheet_rabo.jpg){fig-align="right" width=400}
+:::
+
+------------------------------------------------------------------------
+
+These materials may be re-used according to the [CC-BY License](./LICENSE.md).
