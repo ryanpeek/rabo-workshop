@@ -36,7 +36,3 @@ format:
       light: cerulean
       dark: superhero
     css: styles.css
-
-execute:
-  freeze: false
-  cache: false
