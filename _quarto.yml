@@ -25,18 +25,6 @@ website:
             href: Day_1/Day1A_Slides.qmd
           - text: "Day 1A Practice"
             href: Day_1/Day1A_Practice.qmd
-      - text: "Day 2"
-        menu:
-          - text: "Day 2A Slides"
-            href: Day_2/Day2A_Slides.qmd
-          - text: "Day 2A Practice"
-            href: Day_2/Day2A_Practice.qmd
-      - text: "Day 3"
-        menu:
-          - text: "Day 3A Slides"
-            href: Day_3/Day3A_Slides.qmd
-          - text: "Day 3A Practice"
-            href: Day_3/Day3A_Practice.qmd
       - icon: github
         href: https://www.github.com/ryanpeek/rabo-workshop
   search: false
@@ -50,5 +38,5 @@ format:
     css: styles.css
 
 execute:
-  freeze: auto
-  cache: true
+  freeze: false
+  cache: false
