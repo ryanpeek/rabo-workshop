@@ -98,6 +98,10 @@ Overview
 
 ::: {.column .tc .pv5 .relative width="30%"}
 {{< li emzrtjck trigger=hover delay=3000 colors=secondary:#2a76dd class=rc >}}
+
+![](../img/frog_general_green.svg){width=150}
+
+
 :::
 :::
 
@@ -191,17 +195,15 @@ Overview
 ## Life History I {.smaller background-color="#fff69f"}
 
 ::: {.columns .pv4}
-::: {.column .pr4 width="50%"}
+::: {.column .pr4 width="50%" .incremental}
 #### The Basics
 
-1. Adults breed in the spring
-2. Amplexus
-3. Females pick oviposition location
-4. External fertilization, egg masses ~2-3 weeks
-5. After hatching tadpoles cannot swim or often see
-6. Sink to bottom for 5 days, typically jet black
-7. Tadpoles require 2.5 months 18C or greater
-8. Metamorphosis in late summer/fall
+1. Adults breed in the spring (*amplexus*)
+2. Females pick oviposition location
+3. External fertilization, egg masses ~2-3 weeks
+4. After hatching tadpoles cannot swim ~5 days
+5. Tadpoles require 2.5 months 18C or greater
+6. Metamorphosis in late summer/fall
 
 :::
 
@@ -232,40 +234,6 @@ Life History - 1
 
 ::: footer
 Ecology
-:::
-
-
-## Assignment {.smaller background-color="#fff69f"}
-
-::: {.columns .pv4}
-::: {.column width="60%"}
--   It is often useful to store data in [named objects]{.b .green}
-    -   This makes the data easier to use and re-use
-    -   This makes the code easier to write and read
-
-::: {.fragment .mt1}
--   Which command is easier to follow?
-    1.  Dial *7 8 5 8 6 4 0 8 4 1*
-    2.  Call *Office Phone*
-:::
-
-::: {.fragment .mt1}
--   Named objects are created using [assignment]{.b .blue}
-    -   Give a **name** then an **arrow** then the **data**
-:::
-:::
-
-::: {.column .tc .pv5 width="40%"}
-{{< li mgtgkkcb trigger=loop delay=3000 colors=secondary:#2a76dd class=rc >}}
-
-::: {.fragment}
-`office <- 7858640841`
-:::
-:::
-:::
-
-::: footer
-\[1A\] Program I
 :::
 
 
