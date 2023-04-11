@@ -5,9 +5,9 @@ format:
     width: 1600
     height: 900
     highlight-style: ayu-mirage
-    logo: img/rabo_icon_color.png
+    logo: ../img/rabo_icon_color.png
     footer: "[RABO Workshop 2023](http://www.elkhornsloughctp.org/training/show_train_detail.php?TRAIN_ID=Ec66CMJ)"
-    theme: ["rabo.scss"]
+    theme: ["../rabo.scss"]
     slide-number: c/t
     incremental: true
 editor: source
@@ -15,7 +15,7 @@ editor_options:
   chunk_output_type: console
 ---
 
-##  {background-image="img/nfa_iowa_hill_pano_reduced.jpg" background-size="contain" background-position="top" background-color="black" background-opacity="0.85"}
+##  {background-image="../img/nfa_iowa_hill_pano_reduced.jpg" background-size="contain" background-position="top" background-color="black" background-opacity="0.85"}
 
 ```{r setup}
 #| include: false
@@ -98,11 +98,11 @@ Alan Striegle, SFPUC</h2>
 :::
 :::
 
-![](img/CDFW-Insignia-146x193.png){.absolute bottom="0" right="0" width="100"} ![](img/eastbay_icon.png){.absolute bottom="0" right="1000" width="150"} ![](http://www.elkhornsloughctp.org/images/1678215184ctp_logo_sml.gif){.absolute bottom="0" right="700" width="200"} ![](https://sfpuc.org/themes/custom/sfwater/img/scm_logo.svg){.absolute bottom="0" right="200" width="400"}
+![](../img/CDFW-Insignia-146x193.png){.absolute bottom="0" right="0" width="100"} ![](../img/eastbay_icon.png){.absolute bottom="0" right="1000" width="150"} ![](http://www.elkhornsloughctp.org/images/1678215184ctp_logo_sml.gif){.absolute bottom="0" right="700" width="200"} ![](https://sfpuc.org/themes/custom/sfwater/img/scm_logo.svg){.absolute bottom="0" right="200" width="400"}
 
 # OVERVIEW
 
-![](img/rabo_icon.png){fig-align="center" fig-alt="black and white FYLF outline"}
+![](../img/rabo_icon.png){fig-align="center" fig-alt="black and white FYLF outline"}
 
 ::: notes
 Tell a frog story. Harbingers? Egyptian glyphs?
@@ -122,7 +122,7 @@ Tell a frog story. Harbingers? Egyptian glyphs?
 :::
 
 ::: {.column width="60%"}
-![Credit: Yara Haridy](img/shenring_egypt_yara_haridy_nocap.png){fig-alt="Shen ring with tadpole" width=600}
+![Credit: Yara Haridy](../img/shenring_egypt_yara_haridy_nocap.png){fig-alt="Shen ring with tadpole" width=600}
 
 :::
 :::
@@ -149,7 +149,7 @@ Unfortunately they have not been resilient to us.
 ::: column
 ::: fragment
 
-![](img/zweifel_range_1955.jpg){fig-align="right" width=70%}
+![](../img/zweifel_range_1955.jpg){fig-align="right" width=70%}
 :::
 :::
 :::
@@ -162,11 +162,11 @@ R. boylii was first described by Baird (1854). A half century of taxonomic uncer
 ## FROG BIOLOGY
 
 ::: r-stack
-![](img/rabo_icon.png){.fragment width="700" fig-alt="A frog icon"}
+![](../img/rabo_icon.png){.fragment width="700" fig-alt="A frog icon"}
 
-![](img/rabo_soccer_eggs.jpg){.fragment width="1000" fig-alt="A frog rana boylii"}
+![](../img/rabo_soccer_eggs.jpg){.fragment width="1000" fig-alt="A frog rana boylii"}
 
-![](img/rabo_tads_hatched.jpg){.fragment width="1000" fig-alt="A frog rana boylii"}
+![](../img/rabo_tads_hatched.jpg){.fragment width="1000" fig-alt="A frog rana boylii"}
 
 :::
 
@@ -196,9 +196,9 @@ R. boylii was first described by Baird (1854). A half century of taxonomic uncer
 
 ::: column
 
-![](img/dudgeon_2006_decline_freshwater.png)
+![](../img/dudgeon_2006_decline_freshwater.png)
 
-![](img/death_star.png){.fragment .absolute top="350" right="365" width="100"}
+![](../img/death_star.png){.fragment .absolute top="350" right="365" width="100"}
 
 :::
 :::
@@ -226,7 +226,7 @@ R. boylii was first described by Baird (1854). A half century of taxonomic uncer
 
 ::: column
 
-![](img/hydraulic_mining_01.jpg)
+![](../img/hydraulic_mining_01.jpg)
 
 :::
 :::
@@ -237,7 +237,7 @@ R. boylii was first described by Baird (1854). A half century of taxonomic uncer
 
 ::: columns
 ::: column
-![](img/IMGP0778.jpg){width="600" fig-alt="A frog rana boylii"}
+![](../img/IMGP0778.jpg){width="600" fig-alt="A frog rana boylii"}
 :::
 
 ::: {.column width="40%"}

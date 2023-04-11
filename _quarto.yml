@@ -20,10 +20,16 @@ website:
             href: details/resources.qmd
       - text: "Day 1"
         menu:
-          - text: "Ecology"
-            href: slides/01_rabo_ecology.qmd
-          - text: "Slides 1"
-            href: slides/Day1A_Slides.qmd
+          - text: "Intro"
+            href: slides/D1_rabo_00.qmd
+          - text: "Natural History"
+            href: slides/D1_rabo_01.qmd
+          - text: "Status"
+            href: slides/D1_rabo_02.qmd
+          - text: "Habitat"
+            href: slides/D1_rabo_03.qmd
+            
+            
       - icon: github
         href: https://www.github.com/ryanpeek/rabo-workshop
   search: false

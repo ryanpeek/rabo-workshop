@@ -1,0 +1,271 @@
+---
+format: 
+  revealjs:
+    css: ../styles.css
+    slide-number: true
+    show-slide-number: all
+    preview-links: auto
+    self-contained: true
+    progress: true
+    history: true
+    hash-type: number
+    logo: ../img/rabo_icon_color.png
+    theme: default
+    code-block-background: true
+    highlight-style: ayu-mirage
+    code-link: false
+    code-copy: true
+    pagetitle: "RABO Ecology-01"
+    author-meta: "Ryan Peek"
+    date-meta: "2023-05-09"
+---
+
+::: {.my-title}
+# [Natural]{.blue} & Unnatural History<br />of Foothill Yellow-Legged Frogs (*Rana boylii*)
+
+::: {.my-grey}
+[RABO Ecology-01 | 2023-05-09]{}<br />
+[Ryan Peek | Elkhorn Slough CTP]{}
+:::
+
+![](../img/rabo_adult_dark_transparent.png){.absolute bottom=0 right=0 width=250}
+:::
+
+<!-- Overview -->
+
+# Overview
+
+## Instructors {.smaller}
+
+::: {.columns .pv4}
+::: {.column width="30%"}
+::: {.tc}
+![](../img/ryan_gill_netting_seki.png ){.br-100}
+
+**Ryan Peek**, PhD<br /> [ryanpeek.org](https://ryanpeek.org)<br /> [ryan.peek\@wildlife.ca.gov](mailto:ryan.peek@wildlife.ca.gov)
+:::
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="60%"}
+::: {.fragment}
+#### Background
+
+-   [Statewide Wildlife Drought Resiliency Coordinator]{.b .green}, *CDFW*
+-   Postdoctoral Scholar, *UC Davis*
+-   Aquatic Scientist, *USFS*
+-   Fish & Wildlife Biologist, *Stillwater Sciences*
+:::
+::: {.fragment .mt1}
+#### Research/Expertise
+
+-   Aquatic Ecology
+-   Conservation Genomics
+-   River Regulation / Geomorphology
+-   [Data Science]{.b} and Education
+:::
+:::
+:::
+
+::: footer
+Overview
+:::
+
+## Natural History {.smaller}
+
+::: {.columns .pv4}
+::: {.column width="70%"}
+1.  Amphibians have been on [earth]{.b .blue} since the [Devonian]{.b .green} 
+    -   This is a long time
+
+::: {.fragment .mt1}
+2.  Worldwide declines of [amphibians]{.b .orange} has only occurred in **our** lifetimes
+    -   This is not a long time
+:::
+
+::: {.fragment .mt1}
+3.  [Aquatic ecosystems]{.b .blue} are at highest risk
+    -   Amphibians form a link between the terrestrial and aquatic worlds
+:::
+
+::: {.fragment .mt1}
+4.  [Sentinel]{.b .gold} species like Foothill yellow-legged frogs integrate energy of ecosystems
+    - And can tell us much about the "health" of a system
+:::
+:::
+
+::: {.column .tc .pv5 .relative width="30%"}
+{{< li emzrtjck trigger=hover delay=3000 colors=secondary:#2a76dd class=rc >}}
+:::
+:::
+
+::: footer
+Overview
+:::
+
+## Workshop Goals {.smaller}
+
+::: {.columns .pv4}
+::: {.column width="60%"}
+-   This is a broad overview of the most current information about this **amazing** species
+
+::: {.fragment .mt1}
+-   We don't expect you all to be experts at the end, but rather, learn "[where to look...]{.b .blue}"
+:::
+
+::: {.fragment .mt1}
+-   Through [lectures]{.b .blue} and [field time]{.b .green}, you will learn the life history, breeding ecology, and habitat use of this species
+:::
+
+::: {.fragment .mt1}
+-   Field attendees will get direct [experience]{.b .green} doing surveys and evaluating habitat, as well as conducting egg mass surveys
+:::
+
+:::
+
+::: {.column .tc .pv5 width="40%"}
+
+
+![](../img/rabo_eggs_sfy_dark.jpg){.br-100}
+
+:::
+:::
+
+::: footer
+Overview
+:::
+
+## Workshop Roadmap {.smaller}
+
+::: {.columns .pv4}
+::: {.column width="30%" .incremental}
+ 
+ - Natural and Unnatural History
+ - Breeding Timing & Plasticity
+ - Status Review and Listing
+
+ 
+:::
+::: {.column width="30%" .incremental}
+ 
+ - Habitat
+ - Basic Ecology
+ - Survey Methods
+ - Conservation
+ 
+:::
+::: {.column .tc .pv4 width="40%"}
+{{< li xtkehzkm trigger=loop delay=3000 colors=secondary:#2a76dd class=rc >}}
+:::
+:::
+
+::: footer
+Overview
+:::
+
+## Workshop Etiquette {.smaller}
+
+::: {.columns .pv4}
+::: {.column width="60%"}
+#### [Things to Do]{.green}
+
+::: {.incremental}
+-   Act respectfully
+-   Ask for help in chat or "raise hand"
+-   Turn your camera on or off as desired
+-   Please mute yourself when not speaking
+:::
+:::
+
+::: {.column .tc .pv5 width="40%"}
+{{< li syzdvjlt trigger=loop delay=3000 colors=secondary:#2a76dd class=rc >}}
+:::
+:::
+
+::: footer
+Overview
+:::
+
+## Life History I {.smaller}{background-color="black"}
+
+::: {.columns .pv4}
+::: {.column .pr4 width="50%"}
+#### The Basics
+
+1. Adults breed in the spring
+2. Amplexus
+3. Females pick oviposition location
+4. External fertilization, egg masses ~2-3 weeks
+5. After hatching tadpoles cannot swim or often see
+6. Sink to bottom for 5 days, typically jet black
+7. Tadpoles require 2.5 months 18C or greater
+8. Metamorphosis in late summer/fall
+
+:::
+
+::: {.column width="50%"}
+
+![](../img/rabo_egg_mass_gos22.jpg)
+
+:::
+:::
+
+::: aside
+*Note:* There is a great amount of plasticity depending on the region and habitat.
+:::
+
+::: footer
+Life History - 1
+:::
+
+
+## *Rana boylii* Calling
+
+<!-- youtube: https://www.youtube.com/embed/MmSPTZVqTG0-->
+
+  {{< video https://www.youtube.com/embed/MmSPTZVqTG0
+          title="Rana boylii calling"
+          width="100%" height="80%" >}}
+
+
+::: footer
+Ecology
+:::
+
+
+## Assignment {.smaller}
+
+::: {.columns .pv4}
+::: {.column width="60%"}
+-   It is often useful to store data in [named objects]{.b .green}
+    -   This makes the data easier to use and re-use
+    -   This makes the code easier to write and read
+
+::: {.fragment .mt1}
+-   Which command is easier to follow?
+    1.  Dial *7 8 5 8 6 4 0 8 4 1*
+    2.  Call *Office Phone*
+:::
+
+::: {.fragment .mt1}
+-   Named objects are created using [assignment]{.b .blue}
+    -   Give a **name** then an **arrow** then the **data**
+:::
+:::
+
+::: {.column .tc .pv5 width="40%"}
+{{< li mgtgkkcb trigger=loop delay=3000 colors=secondary:#2a76dd class=rc >}}
+
+::: {.fragment}
+`office <- 7858640841`
+:::
+:::
+:::
+
+::: footer
+\[1A\] Program I
+:::
+
+
