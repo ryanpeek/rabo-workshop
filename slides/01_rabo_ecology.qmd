@@ -1,0 +1,248 @@
+---
+format: 
+  revealjs:
+    self-contained: false
+    width: 1600
+    height: 900
+    highlight-style: ayu-mirage
+    logo: img/rabo_icon_color.png
+    footer: "[RABO Workshop 2023](http://www.elkhornsloughctp.org/training/show_train_detail.php?TRAIN_ID=Ec66CMJ)"
+    theme: ["rabo.scss"]
+    slide-number: c/t
+    incremental: true
+editor: source
+editor_options: 
+  chunk_output_type: console
+---
+
+##  {background-image="img/nfa_iowa_hill_pano_reduced.jpg" background-size="contain" background-position="top" background-color="black" background-opacity="0.85"}
+
+```{r setup}
+#| include: false
+ 
+library(fontawesome)
+library(tidyverse)
+library(quarto)
+library(gt)
+library(gtExtras)
+library(gtsummary)
+# for fonts
+#library(showtext)
+#font_add_google("Jost", "Jost")
+#showtext_auto()
+#theme_set(theme_minimal(base_family = "Jost"))
+
+library(here)
+source(here("scripts/f_get_fonts.R"))
+
+# set fonts depending on system:
+font1 <- if(get_os()=="windows"){
+  "Century Gothic"
+} else {
+  "Atkinson Hyperlegible"
+}
+font2 <- "Roboto Condensed"
+
+# load fonts
+f_get_fonts(font1, font2)
+
+# yellow for title slide: #FFF69F
+# yellow background: #ffe66b
+# blue for slide: #006791
+```
+
+```{r timer}
+#| echo: false
+
+library(countdown)
+countdown_timer <- function(
+    minutes = 1, 
+    play_sound = TRUE, 
+    font_size = "2em", 
+    ...
+) {
+  countdown(
+    minutes = minutes,
+    # Fanfare when it's over
+    play_sound = play_sound,
+    # Set timer theme to match solarized colors
+    color_border              = "#404041",
+    color_text                = "white",
+    color_background = "#447099",
+    color_running_background  = "#72994E",
+    color_running_text        = "white",
+    color_finished_background = "#EE6331",
+    color_finished_text       = "white",
+    font_size = font_size,
+    ...
+  )
+}
+```
+
+<br>\
+<br>\
+[Foothill yellow-legged Frog (*Rana boylii*)]{.r-fit-text style="color: #EEC900;"}
+
+\
+<br> <br> <br> <br>\
+
+::: columns
+::: column
+<h2>Dr. Ryan Peek, CDFW\
+Dr. Sarah Kupferberg</h2>
+:::
+
+::: column
+<h2>Dr. Gerfstrud, CDFW\
+Alan Striegle, SFPUC</h2>
+:::
+:::
+
+![](img/CDFW-Insignia-146x193.png){.absolute bottom="0" right="0" width="100"} ![](img/eastbay_icon.png){.absolute bottom="0" right="1000" width="150"} ![](http://www.elkhornsloughctp.org/images/1678215184ctp_logo_sml.gif){.absolute bottom="0" right="700" width="200"} ![](https://sfpuc.org/themes/custom/sfwater/img/scm_logo.svg){.absolute bottom="0" right="200" width="400"}
+
+# OVERVIEW
+
+![](img/rabo_icon.png){fig-align="center" fig-alt="black and white FYLF outline"}
+
+::: notes
+Tell a frog story. Harbingers? Egyptian glyphs?
+:::
+
+## *Repeating Life*
+
+::: columns
+::: {.column width="40%"}
+::: fragment
+::: incremental
+-   In ancient Egypt, frogs represented repeating life
+-   symbols of fertility and the number 100,000
+-   displayed with a "**Shen**" ring (infinity) meant [**eternal repeating life**]{.fragment .highlight-blue}
+:::
+:::
+:::
+
+::: {.column width="60%"}
+![Credit: Yara Haridy](img/shenring_egypt_yara_haridy_nocap.png){fig-alt="Shen ring with tadpole" width=600}
+
+:::
+:::
+
+::: notes
+Frogs were associated with the annual flooding of the Nile. Frogs have been associated with repeating life in many cultures, meaning they have been resilient to many environmental/geologic changes that have occurred through our history and beyond.
+
+In many Native American cultures frogs represent the ability to travel between two worlds, communicate with all beings in both worlds and serve as mediators.
+
+Unfortunately they have not been resilient to us.
+:::
+
+## RANA BOYLII
+
+::: columns
+::: column
+
+ - First described by Baird (1854)
+ - Later recognized as distinct species by Zweifel in 1955, looked at 565 adults and juveniles.
+ - Max body size ~73mm (SVL)
+ - Adults typically >=35mm
+:::
+
+::: column
+::: fragment
+
+![](img/zweifel_range_1955.jpg){fig-align="right" width=70%}
+:::
+:::
+:::
+
+::: notes
+R. boylii was first described by Baird (1854). A half century of taxonomic uncertainty followed with several name changes (Zweifel 1968). Since 1955, Rana boylii has been recognized as a distinct species in the family Ranidae (Zweifel 1955, Collins 1990). Zweifel (1955) described six species in the R. boylii group. R. boylii’s closest relative, both geographically and phylogenetically, is Rana muscosa. The four other ranids included in the R. boylii group by Zweifel (R. pustulosa, R. tarahumarae, R. pueblae, and R. moori) occur in Mexico, the latter extending into southern Arizona. Subsequent research suggests minor modifications to Zweifel’s work on the R. boylii group (Dumas 1966, Green 1986a, Green 1986b). No subspecies of R. boylii are known to date, but detailed genetic analysis may reveal cryptic taxa (Jennings and Hayes 1994)
+:::
+
+
+## FROG BIOLOGY
+
+::: r-stack
+![](img/rabo_icon.png){.fragment width="700" fig-alt="A frog icon"}
+
+![](img/rabo_soccer_eggs.jpg){.fragment width="1000" fig-alt="A frog rana boylii"}
+
+![](img/rabo_tads_hatched.jpg){.fragment width="1000" fig-alt="A frog rana boylii"}
+
+:::
+
+## CALLING
+
+<iframe allow="fullscreen" allowfullscreen="true" frameborder="0" scrolling="no" width="1280" height="720" src="https://api.smugmug.com/services/embed/13238257305_w3qQhBN?width=1280&amp;height=720&amp;albumId=337163852&amp;albumKey=GJQKf9">
+
+</iframe>
+
+## EGGS
+
+-   Generally 2 weeks to emerge depending on water temp
+
+![](https://photos.smugmug.com/Events/2023/Presentations/Raboelkhorn/i-fQJRqPK/0/884a0d3e/L/P1100774-L.jpg)
+
+# ANTHROPOGENIC CHANGE
+
+## FRESHWATERS
+
+::: columns
+::: column
+
+ - Half the world's population lives within 20km of a permanent river (Small and Cohen 1999)
+ - Projected mean extinction rates in freshwater organisms 5x greater than terrestrial (Ricciardi & Rasmussen 1999)
+
+:::
+
+::: column
+
+![](img/dudgeon_2006_decline_freshwater.png)
+
+![](img/death_star.png){.fragment .absolute top="350" right="365" width="100"}
+
+:::
+:::
+
+
+## MINING
+
+::: center
+<h1>
+ > “We acted upon the western landscape with the force of a geological agent” (Wallace Stegner)
+ 
+</h1>
+:::
+
+## MINING
+
+::: columns
+::: column
+ - Hydraulic mining removes 8x as much sediment as was excavated from Panama Canal.
+ - First used by Edward Matteson near Nevada City, California in 1853 during the California Gold Rush.
+ - Sawyer Decision in 1884, enjoined operation in tributaries to navigable streams and rivers.
+ - Small scale mining recommences with Camminetti Act 1893 if small sediment dams built. Most mining of this type wiped out by 1891 flood.
+ - The legacy of ~40 years transformed our landscape permanently
+:::
+
+::: column
+
+![](img/hydraulic_mining_01.jpg)
+
+:::
+:::
+
+# CONSERVATION
+
+## Permits {background-color="gray80"}
+
+::: columns
+::: column
+![](img/IMGP0778.jpg){width="600" fig-alt="A frog rana boylii"}
+:::
+
+::: {.column width="40%"}
+::: fragment
+{{< qrcode https://github.com/ryanpeek/rabo_workshop_2023 qr1 width=450 height=450 colorDark='black' >}}
+:::
+:::
+:::

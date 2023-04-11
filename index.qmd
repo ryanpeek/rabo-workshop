@@ -5,7 +5,7 @@ editor_options:
 ---
 
 A workshop the natural and unnatural history of a once-abundant species, now petitioned for Federal listing. 
-Experts will describe the [**life history**]{.dark-green}, [**habitat use**]{.gray}, and [**ecology**]{.dark-red} of the species, as well provide status and listing updates if possible. 
+Experts will describe the [**life history**]{.dark-green}, [**habitat use**]{.orange}, and [**ecology**]{.dark-red} of the species, as well provide status and listing updates if possible. 
 Survey methodology and field techniques for monitoring the species will also be covered. This workshop will provide understanding of how water management, population decline, and landscape change has impacted the species, and what it will mean for biologists monitoring the species.
 \
 

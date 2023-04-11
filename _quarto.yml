@@ -1,6 +1,5 @@
 project:
   type: website
-  output-dir: docs
   resources:
     - "data/*.csv"
 
@@ -14,17 +13,17 @@ website:
       - text: "Details"
         menu:
           - text: "Instructors"
-            href: Details/instructors.qmd
+            href: details/instructors.qmd
           - text: "Schedule"
-            href: Details/schedule.qmd
+            href: details/schedule.qmd
           - text: "Resources"
-            href: Details/resources.qmd
+            href: details/resources.qmd
       - text: "Day 1"
         menu:
-          - text: "Day 1A Slides"
-            href: Day_1/Day1A_Slides.qmd
-          - text: "Day 1A Practice"
-            href: Day_1/Day1A_Practice.qmd
+          - text: "Ecology"
+            href: slides/01_rabo_ecology.qmd
+          - text: "Slides 1"
+            href: slides/Day1A_Slides.qmd
       - icon: github
         href: https://www.github.com/ryanpeek/rabo-workshop
   search: false
@@ -33,6 +32,6 @@ website:
 format:
   html:
     theme:
-      light: cerulean
+      light: cosmo
       dark: superhero
     css: styles.css

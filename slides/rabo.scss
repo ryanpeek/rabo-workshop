@@ -1,0 +1,77 @@
+// Get Fonts
+@import url('https://fonts.googleapis.com/css2?family=Abhaya+Libre&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Jost:ital@0;1&display=swap');
+
+// check colorblindness with prismatic pkg
+// check_color_blindness(c("#fff69f", "#483D8B","#EEC900", "#8B5742"))
+
+/*-- scss:defaults --*/
+$theme-lightyellow: #fff69f;
+$theme-darkblue: #01364C;
+$theme-white: #F7F8F9;
+$theme-darkgray: #222222;
+$theme-black: #0F0F0F;
+$theme-yellow: #F4BA02;
+$theme-yellowtitle: #EEC900;
+$theme-maroon: #8B5742;
+
+$body-bg: $theme-lightyellow;
+$body-color: $theme-darkgray;
+$link-color: $theme-maroon;
+
+
+// Background of the presentation
+$backgroundColor: #fff69f;
+
+// Primary/body text
+$mainFont: 'Jost', sans-serif;
+//$mainFont: 'Atkinson Hyperlegible', sans-serif;
+$mainFontSize: 30px;
+$mainColor: #222222;
+
+// Vertical spacing between blocks of text
+$blockMargin: 20px;
+
+// Headings
+$headingMargin: 0 0 $blockMargin 0;
+$headingFont: 'Abhaya Libre', Impact, sans-serif;
+//$headingFont: 'Century Gothic', sans-serif;
+$headingColor: #0F0F0F;
+$headingLineHeight: 1.2;
+$headingLetterSpacing: normal;
+$headingTextTransform: none;
+$headingTextShadow: none;
+$headingFontWeight: normal;
+$heading1TextShadow: $headingTextShadow;
+
+$heading1Size: 3.00em;
+$heading2Size: 2.11em;
+$heading3Size: 1.55em;
+$heading4Size: 1.00em;
+
+$codeFont: monospace;
+
+// Links and actions
+$linkColor: #483D8B;
+$linkColorHover: darken( $linkColor, 20% );
+
+// Text selection
+$selectionBackgroundColor: #8B5742;
+$selectionColor: #fff;
+
+// start using css here
+#title-slide > h1 {
+  color: #EEC900;
+}
+
+#title-slide .author {
+  color: #E0EEEE;
+}
+
+#title-slide {
+  top: 0 !important;
+}
+
+#title-slide > .author:first-of-type {
+  margin-top: 320px;
+}
