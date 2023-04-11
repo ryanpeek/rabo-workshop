@@ -14,17 +14,17 @@ format:
     highlight-style: zenburn
     code-link: false
     code-copy: true
-    pagetitle: "R4SS Day 1A"
-    author-meta: "Jeffrey Girard"
-    date-meta: "2022-07-25"
+    pagetitle: "RABO Ecology-01"
+    author-meta: "Ryan Peek"
+    date-meta: "2023-05-09"
 ---
 
 ::: {.my-title}
-# [Introduction to R]{.blue} <br />for Social Scientists
+# [Natural]{.blue} and Unnatural History<br />of Foothill Yellow-Legged Frogs (*Rana boylii*)
 
 ::: {.my-grey}
-[Workshop Day 1A | 2022-07-25]{}<br />
-[Jeffrey M. Girard | Pitt Methods]{}
+[RABO Ecology-01 | 2023-05-09]{}<br />
+[Ryan Peek & Sarah Kupferberg | Elkhorn Slough CTP]{}
 :::
 
 ![](../img/proud_coder_357EDD.svg){.absolute bottom=0 right=0 width=400}
@@ -442,117 +442,19 @@ format:
 \[1A\] Program I
 :::
 
-## Console Live Coding
+## *Rana boylii* Calling
 
-```{r}
-#| echo: true
-#| eval: false
-#| error: true
-#| code-line-numbers: false
+<!-- youtube: https://www.youtube.com/embed/MmSPTZVqTG0-->
 
-# Addition
+  {{< video https://www.youtube.com/embed/MmSPTZVqTG0
+          title="Rana boylii calling"
+          width="100%" height="80%" >}}
 
-10+3
-10 + 3 # spaces are optional but recommended
-
-
-# Subtraction
-
-10 - 3
-
-
-# Multiplication
-
-10 * 3 # correct
-10 x 3 # error
-
-
-# Division
-
-10 / 3 # correct
-10 \ 3 # error
-
-
-# Exponentiation
-
-10 ^ 2
-
-
-# Order of Operations
-
-10 + 3 * 2
-(10 + 3) * 2
-
-
-# Negative Numbers
-
-10 + -30
-
-
-# Decimals and Fractions
-
-1.234
-(1 / 3)
-
-
-# Leading and Trailing Zeros
-
-09.870
-
-
-# Large Numbers
-
-9876543 # correct
-9,876,543 # error
-9 876 543 # error
-```
 
 ::: footer
-\[1A\] Program I
+\[1A\] Ecology
 :::
 
-## RMarkdown Live Coding
-
-::: {.instructions}
-    # Create an RMarkdown Document
-    - Open the "File" menu in RStudio
-    - Select the "New File" option
-    - Select the "R Markdown..." option
-    - Keep the defaults (HTML Document) and hit "Ok"
-    - Open the "File" menu
-    - Select the "Save" option
-    - Note that it defaults to the project folder
-    - Give it a name like "Day 1A" (or whatever)
-    - Note that the file extension is .Rmd
-
-    # Remove the boilerplate content
-    - The top part of the notebook is called the "Header"
-    - Don't delete the header or the notebook won't work
-    - You can change the title but keep it in quotes
-    - Highlight and delete everything below the header
-    
-    # Enter the Visual Editor
-    - Click on the "Visual" button at the top
-    - Check the box for "Knit on Save"
-    - Save by clicking the disk icon
-    - Look at the preview in the "Viewer" tab
-
-    # Add Formatted Text (i.e., Markdown)
-    - Below the header you can add formatted text
-    - Use the visual editor to add formatting easily
-    - Show how to add bold, italics, headers, etc.
-    - Mention that you can add links, figures, and tables too
-
-    # Add R Chunks (i.e., R code)
-    - Click the green "Insert a new code chunk" button (top right)
-    - Show how you can also do this quickly by typing / in Visual editor
-    - Inside the chunk, you can type R commands like a mini console
-    - Try doing some calculations in the chunk and hit the green arrow
-    - The answer appears right below the chunk!
-    - If we save and knit the document, it appears there too
-    - We can share the .html file with others
-    - It will include all the formatted text, code, and R's answers
-:::
 
 ::: footer
 \[1A\] Program I
