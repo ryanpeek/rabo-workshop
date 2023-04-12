@@ -10,7 +10,7 @@ format:
     history: true
     hash-type: number
     logo: ../img/rabo_icon_color.png
-    theme: default
+    theme: [default, ../rabo.scss]
     code-block-background: true
     highlight-style: ayu-mirage
     code-link: false
@@ -30,7 +30,8 @@ editor_options:
 
 ::: {.my-gray}
 [2023-05-09 | [Elkhorn Slough CTP](http://www.elkhornsloughctp.org/training/show_train_detail.php?TRAIN_ID=Ec66CMJ)]{}<br />
-[Ryan Peek | Sarah Kupferberg | Marcia Gerfstrud | Alan Striegle]{}
+Ryan Peek | Sarah Kupferberg <br />
+Marcia Gerfstrud | Alan Striegle
 :::
 
 ![](../img/rabo_adult_dark_transparent.png){.absolute bottom=200 right=0 width=250}
@@ -60,7 +61,7 @@ editor_options:
 
 ::: {.column width="60%"}
 ::: {.fragment}
-#### Background
+#### **Background**
 
 -   [Statewide Wildlife Drought Resiliency Coordinator]{.b .green}, *CDFW*
 -   Postdoctoral Scholar, *UC Davis*
@@ -68,7 +69,7 @@ editor_options:
 -   Fish & Wildlife Biologist, *Stillwater Sciences*
 :::
 ::: {.fragment .mt1}
-#### Research/Expertise
+#### **Research/Expertise**
 
 -   Aquatic Ecology
 -   Conservation Genomics
@@ -86,7 +87,7 @@ Overview
 
 ::: {.columns .pv4}
 ::: {.column width="70%"}
-1.  Amphibians have been on [earth]{.b .blue} since the [Devonian]{.b .green} 
+1.  Amphibians have been on [earth]{.b .blue} since the [Devonian]{.b .dark-gray} 
     -   This is a long time
 
 ::: {.fragment .mt1}
@@ -100,7 +101,7 @@ Overview
 :::
 
 ::: {.fragment .mt1}
-4.  [Sentinel]{.b .gold} species like Foothill yellow-legged frogs integrate energy of ecosystems
+4.  [Sentinel]{.b .orange} species like Foothill yellow-legged frogs integrate energy of ecosystems
     - And can tell us much about the "health" of a system
 :::
 :::
@@ -180,7 +181,7 @@ Overview
 
 ::: {.columns .pv4}
 ::: {.column width="60%"}
-#### [Things to Do]{.green}
+#### [**Things to Do**]{.green}
 
 ::: {.incremental}
 -   Act respectfully

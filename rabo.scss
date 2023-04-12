@@ -21,22 +21,23 @@ $link-color: $theme-maroon;
 
 
 // Background of the presentation
-$backgroundColor: #fff69f;
+$backgroundColor: #FFFCEB;
 
 // Primary/body text
-$mainFont: 'Jost', sans-serif;
+//$mainFont: 'Jost', sans-serif;
 //$mainFont: 'Atkinson Hyperlegible', sans-serif;
-$mainFontSize: 30px;
-$mainColor: #222222;
+//$mainFontSize: 40px;
+//$mainColor: #222222;
 
 // Vertical spacing between blocks of text
-$blockMargin: 20px;
+//$blockMargin: 20px;
 
 // Headings
-$headingMargin: 0 0 $blockMargin 0;
-$headingFont: 'Abhaya Libre', Impact, sans-serif;
-//$headingFont: 'Century Gothic', sans-serif;
-$headingColor: #0F0F0F;
+//$headingMargin: 0 0 $blockMargin 0;
+//$headingFont: 'Abhaya Libre', Impact, sans-serif;
+$headingFont: 'Atkinson Hyperlegible', Impact, sans-serif;
+//$headingFont: 'Century Gothic', Impact, sans-serif;
+//$headingColor: #0F0F0F;
 $headingLineHeight: 1.2;
 $headingLetterSpacing: normal;
 $headingTextTransform: none;
@@ -58,20 +59,3 @@ $linkColorHover: darken( $linkColor, 20% );
 // Text selection
 $selectionBackgroundColor: #8B5742;
 $selectionColor: #fff;
-
-// start using css here
-#title-slide > h1 {
-  color: #EEC900;
-}
-
-#title-slide .author {
-  color: #E0EEEE;
-}
-
-#title-slide {
-  top: 0 !important;
-}
-
-#title-slide > .author:first-of-type {
-  margin-top: 320px;
-}
