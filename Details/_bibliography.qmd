@@ -7,39 +7,18 @@ format:
     toc-title: Contents
     toc-location: right
     df-print: paged
+bibliography: rabo_references.bib
+csl: apa-6th-edition.csl
+editor_options: 
+  chunk_output_type: console
 ---
 
-This will eventually be a full bibliography of all the papers we want to include.
 
-## Glossary
-
-**Adult** – A Foothill Yellow-legged Frog that is capable of breeding. Breeding adult males are identifiable by their darkened and rough nuptial pads on their thumbs that help them grasp females during amplexus.  Adult females are typically larger than males. Sex can be difficult to assign accurately outside of the breeding season. Most adults are >35 mm SVL.
-
-**Aestivation** – A sleep-like state of complete inactivity and reduced metabolism like hibernation, but occurring during the summer. No author has ever published a report of aestivating Foothill Yellow-legged Frogs. 
-
-**Egg** – An unfertilized ovum. 
-
-**Embryo** – The stage from egg fertilization through emergence from the embryonic jelly coat. Inseminated females attach embryos to grass and other debris in shallow portions of breeding ponds. 
-
-**Juvenile** – The stage of development between metamorphosis and adulthood. These look like adults in coloration and morphology, but are usually smaller. 
-
-**Larva** – The aquatic free-swimming gilled stage of development beginning after emergence from the embryonic jelly coat and ending at metamorphosis. 
-
-**Metamorph** – The brief and transient period of development between aquatic larval development and the amphibious juvenile stage. Metamorphs are intermediate in morphology they may still have part or all of their tails,. Metamorphs are usually detected in and around breeding ponds in spring and summer. Preferred synonym is **young of year**.
-
-**Metamorphosis** – The process of transformation from an aquatic larva to a terrestrial juvenile. During this process gills and tail fins are resorbed and coloration and the overall morphology begins to change to the terrestrial form. Larvae beginning metamorphosis can be detected by inspection of their gills and tail fin. 
-
-**Subadult** – A term essentially meaning the same thing as juvenile, above. Preferred synonym is "**juvenile**.
-
-## Bibliography
+## Biblio
 
 ### A
 
- - Adams, A.J., S.J. Kupferberg, M.Q. Wilber, A.P. Pessier, M. Grefsrud, S. Bobzien, V.T. Vredenburg, and C.J. Briggs. 2017a. Extreme Drought, Host Density, Sex, and Bullfrogs Influence Fungal Pathogen Infections in a Declining Lotic Amphibian. Ecosphere 8(3):e01740. DOI: 10.1002/ecs2.1740.
- - Adams, A.J., A.P. Pessier, and C.J. Briggs. 2017b. Rapid Extirpation of a North American Frog Coincides with an Increase in Fungal Pathogen Prevalence: Historical Analysis and Implications for Reintroduction. Ecology and Evolution 7(23):10216-10232. DOI: 10.1002/ece3.3468
- - Adams, M.J., C.A. Pearl, and R.B. Bury. 2003. Indirect Facilitation of an Anuran Invasion by Non-native Fishes. Ecology Letters 6:343-351.
- - Allen, M., and S. Riley. 2012. Effects of Electrofishing on Adult Frogs. Unpublished report prepared by Normandeau Associates, Inc., Arcata, CA.
- - Alpers, C.N., M.P. Hunerlach, J.T. May, R.L. Hothem, H.E. Taylor, R.C. Antweiler, J.F. De Wild, and D.A. Lawler. 2005. Geochemical Characterization of Water, Sediment, and Biota Affected by Mercury Contamination and Acidic Drainage from Historical Gold Mining, Greenhorn Creek, Nevada County, California, 1999–2001: U.S. Geological Survey Scientific Investigations Report 2004-5251.
+
  - Ashton, D.T. 2002. A Comparison of Abundance and Assemblage of Lotic Amphibians in Late-Seral and Second-Growth Redwood Forests in Humboldt County, California. Master’s Thesis, Humboldt State University, Arcata, CA.
  - Ashton, D.T., J.B. Bettaso, and H.H. Welsh, Jr. 2010. Foothill Yellow-legged Frog (*Rana boylii*) Distribution and Phenology Relative to Flow Management on the Trinity River. Oral presentation provided at the Trinity River Restoration Program's 2010 Trinity River Science Symposium 13 January 2010. http://www.trrp.net/library/document/?id=410
  - Ashton, D.T., A.J. Lind, and K.E. Schlick. 1997. Foothill Yellow-Legged Frog (*Rana boylii*) Natural History. USDA Forest Service, Pacific Southwest Research Station, Redwood Sciences Laboratory, Arcata, CA.
@@ -401,19 +380,27 @@ Rose, J. P., S. J. Kupferberg, C. A. Wheeler, P. M. Kleeman, and B. J. Halstead.
 
 Wheeler, C. 2007. Temporal breeding patterns and mating strategy of the Foothill yellow-legged frog (Rana boylii). M.Sci., Humbold State University, California, USA.
 
+
+
+
+<!--
 ## Data
+### Dataset
 
-### Test Dataset
 
-Real data on stuff
-
-<a href="https://pittmethods.github.io/r4ss/data/affairs.csv"><button type="button" class="btn btn-primary">Download CSV</button></a>
+{{< downloadthis https://github.com/ryanpeek/rabo-workshop/raw/main/data/cereal.csv dname="cereal.csv" label="Download Data" icon="database-fill-down" type="info" >}}
 
 ```{r}
 #| echo: false
 #| message: false
 
-readr::read_csv("../data/affairs.csv")
+readr::read_csv("../data/cereal.csv")
 ```
+-->
 
+## References
 
+---
+nocite: |
+  @*
+---

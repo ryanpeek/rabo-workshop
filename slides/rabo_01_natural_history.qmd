@@ -31,6 +31,11 @@ format:
 ![](../img/rabo_adult_dark_transparent.png){.absolute bottom=0 right=0 width=250}
 :::
 
+::: footer
+
+[RABO Workshop 2023](http://www.elkhornsloughctp.org/training/show_train_detail.php?TRAIN_ID=Ec66CMJ)
+
+:::
 
 ## Natural History {.smaller background-color="#FFFCEB"}
 
@@ -40,7 +45,7 @@ format:
     -   This is a long time
 
 ::: {.fragment .mt1}
-2.  Worldwide declines of [amphibians]{.b .orange} has only occurred in **our** lifetimes
+2.  Global decline of [amphibians]{.b .orange} has only occurred in **our** lifetimes
     -   This is not a long time
 :::
 
@@ -69,7 +74,28 @@ Overview
 :::
 
 
-## Life History I {.smaller background-color=.washed-yellow}
+## [*Rana boylii*]{.orange} Distribution {background-color="#FFFCEB"}
+
+::: {.columns .pv4}
+
+::: {.column width="60%"}
+ - Range from Upper San Gabriel River in CA to Willamette Valley, OR
+
+::: {.fragment .mt1}
+ - Two specimens were collected in 1965 in Baja California (Loomis 1965), but never detected after (Welsh 1988, Hollingsworth 2000, Grismer 2002, Stebbins 2003).
+:::
+:::
+
+::: {.column .relative width="40%"}
+![Zweifel 1955](../img/zweifel_range_1955.jpg)
+:::
+:::
+
+::: footer
+Distribution
+:::
+
+## Life History I {.smaller background-color="#FFFCEB"}
 
 ::: {.columns .pv4}
 ::: {.column .pr4 width="50%" .incremental}
@@ -96,11 +122,11 @@ Overview
 :::
 
 ::: footer
-Life History - 1
+Life History I
 :::
 
 
-## *Rana boylii* Calling {background-color=.washed-yellow}
+## *Rana boylii* Calling {background-color="#FFFCEB"}
 
 <!-- youtube: https://www.youtube.com/embed/MmSPTZVqTG0-->
 
@@ -110,7 +136,6 @@ Life History - 1
 
 
 ::: footer
-Ecology
+Life History I
 :::
-
 

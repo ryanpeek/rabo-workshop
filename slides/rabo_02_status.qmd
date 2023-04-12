@@ -1,16 +1,25 @@
 ---
 format: 
   revealjs:
-    self-contained: false
-    width: 1600
-    height: 900
-    highlight-style: ayu-mirage
-    logo: ../img/rabo_icon_color.png
-    footer: "[RABO Workshop 2023](http://www.elkhornsloughctp.org/training/show_train_detail.php?TRAIN_ID=Ec66CMJ)"
-    theme: ["../rabo.scss"]
+    css: ../styles.css
     slide-number: c/t
+    show-slide-number: all
+    preview-links: auto
+    self-contained: true
     incremental: true
-editor: source
+    progress: true
+    history: true
+    hash-type: number
+    logo: ../img/rabo_icon_color.png
+    theme: "../rabo.scss"
+    code-block-background: true
+    highlight-style: ayu-mirage
+    code-link: false
+    code-copy: true
+    pagetitle: "RABO Status"
+    author-meta: "Ryan Peek"
+    date-meta: "2023-05-09"
+    footer: "[RABO Workshop 2023](http://www.elkhornsloughctp.org/training/show_train_detail.php?TRAIN_ID=Ec66CMJ)"
 editor_options: 
   chunk_output_type: console
 ---

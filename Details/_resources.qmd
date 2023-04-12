@@ -1,0 +1,38 @@
+---
+title: "Resources"
+format:
+  html:
+    toc: true
+    toc-expand: 3
+    toc-title: Contents
+    toc-location: right
+    df-print: paged
+editor_options: 
+  chunk_output_type: console
+---
+
+
+## Glossary
+
+**Adult** – A Foothill Yellow-legged Frog that is capable of breeding. Breeding adult males are identifiable by their darkened and rough nuptial pads on their thumbs that help them grasp females during amplexus.  Adult females are typically larger than males. Sex can be difficult to assign accurately outside of the breeding season. Most adults are >35 mm SVL.
+
+**Aestivation** – A sleep-like state of complete inactivity and reduced metabolism like hibernation, but occurring during the summer. No author has ever published a report of aestivating Foothill Yellow-legged Frogs. 
+
+**Egg** – An unfertilized ovum. 
+
+**Embryo** – The stage from egg fertilization through emergence from the embryonic jelly coat. Inseminated females attach embryos to grass and other debris in shallow portions of breeding ponds. 
+
+**Juvenile** – The stage of development between metamorphosis and adulthood. These look like adults in coloration and morphology, but are usually smaller. 
+
+**Larva** – The aquatic free-swimming gilled stage of development beginning after emergence from the embryonic jelly coat and ending at metamorphosis. 
+
+**Metamorph** – The brief and transient period of development between aquatic larval development and the amphibious juvenile stage. Metamorphs are intermediate in morphology they may still have part or all of their tails,. Metamorphs are usually detected in and around breeding ponds in spring and summer. Preferred synonym is **young of year**.
+
+**Metamorphosis** – The process of transformation from an aquatic larva to a terrestrial juvenile. During this process gills and tail fins are resorbed and coloration and the overall morphology begins to change to the terrestrial form. Larvae beginning metamorphosis can be detected by inspection of their gills and tail fin. 
+
+**Subadult** – A term essentially meaning the same thing as juvenile, above. Preferred synonym is "**juvenile**.
+
+## Bibliography
+
+{{< include _bibliography.qmd >}}
+

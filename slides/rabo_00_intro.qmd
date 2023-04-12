@@ -33,7 +33,9 @@ format:
 ![](../img/rabo_adult_dark_transparent.png){.absolute bottom=0 right=0 width=250}
 :::
 
-<!-- Overview -->
+::: footer
+[RABO Workshop 2023](http://www.elkhornsloughctp.org/training/show_train_detail.php?TRAIN_ID=Ec66CMJ)
+:::
 
 # Overview {background-color="#001B44"}
 
