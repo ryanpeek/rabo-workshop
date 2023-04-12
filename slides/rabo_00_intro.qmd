@@ -15,27 +15,32 @@ format:
     highlight-style: ayu-mirage
     code-link: false
     code-copy: true
-    pagetitle: "RABO Ecology-01"
+    pagetitle: "RABO Intro"
     author-meta: "Ryan Peek"
     date-meta: "2023-05-09"
+editor_options: 
+  chunk_output_type: console
 ---
 
-::: {.my-title background-color="#FBF1A9"}
-# Welcome to the <br /> Foothill Yellow-Legged Frog<br />(*Rana boylii*) Workshop!
+::: {.my-title background-color="#111111"}
+# [Welcome to the <br /> Foothill Yellow-Legged Frog<br />(*Rana boylii*) Workshop!]{.r-fit-text .light-yellow}{background-image="../img/nfa_iowa_hill_pano_reduced.jpg" background-size="contain" background-position="top" background-opacity="0.85" background-color="#fff69f"}
 
 <br>
+<br>
 
-::: {.gray}
-[RABO Ecology-01 | 2023-05-09]{}<br />
-[Ryan Peek | Elkhorn Slough CTP]{}
+::: {.my-gray}
+[2023-05-09 | [Elkhorn Slough CTP](http://www.elkhornsloughctp.org/training/show_train_detail.php?TRAIN_ID=Ec66CMJ)]{}<br />
+[Ryan Peek | Sarah Kupferberg | Marcia Gerfstrud | Alan Striegle]{}
 :::
 
-![](../img/rabo_adult_dark_transparent.png){.absolute bottom=0 right=0 width=250}
+![](../img/rabo_adult_dark_transparent.png){.absolute bottom=200 right=0 width=250}
+<br>
+<br>
+
+![](../img/CDFW-Insignia-146x193.png){.absolute bottom="0" right="0" width="100"} ![](https://sfpuc.org/themes/custom/sfwater/img/scm_logo.svg){.absolute bottom="0" right="140" width="400"} ![](../img/elkhorn_logo_sml.gif){.absolute bottom="0" right="600" width="200"} ![](../img/eastbay_icon.png){.absolute bottom="0" right="900" width="150"}
+
 :::
 
-::: footer
-[RABO Workshop 2023](http://www.elkhornsloughctp.org/training/show_train_detail.php?TRAIN_ID=Ec66CMJ)
-:::
 
 # Overview {background-color="#001B44"}
 
