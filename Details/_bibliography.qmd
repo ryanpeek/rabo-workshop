@@ -14,15 +14,6 @@ editor_options:
 ---
 
 
-## Biblio
-
-### A
-
-
- - Ashton, D.T. 2002. A Comparison of Abundance and Assemblage of Lotic Amphibians in Late-Seral and Second-Growth Redwood Forests in Humboldt County, California. Master’s Thesis, Humboldt State University, Arcata, CA.
- - Ashton, D.T., J.B. Bettaso, and H.H. Welsh, Jr. 2010. Foothill Yellow-legged Frog (*Rana boylii*) Distribution and Phenology Relative to Flow Management on the Trinity River. Oral presentation provided at the Trinity River Restoration Program's 2010 Trinity River Science Symposium 13 January 2010. http://www.trrp.net/library/document/?id=410
- - Ashton, D.T., A.J. Lind, and K.E. Schlick. 1997. Foothill Yellow-Legged Frog (*Rana boylii*) Natural History. USDA Forest Service, Pacific Southwest Research Station, Redwood Sciences Laboratory, Arcata, CA.
- - Ashton, D.T., and R.J. Nakamoto. 2007. *Rana boylii* (Foothill Yellow-legged Frog). Predation. Herpetological Review 38(4):442.
 
 ### B
 

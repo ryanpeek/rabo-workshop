@@ -23,7 +23,7 @@ format:
 
 ::: {.my-title}
 
-## [Natural & Unnatural History<br />of Foothill Yellow-Legged Frogs (*Rana boylii*)]{.r-fit-text}{background-image="../img/bear_river_tailing_flow.png" background-size="contain" background-position="bottom" background-opacity="0.85" background-color="#fff69f"}
+## [Natural & Unnatural History<br />of Foothill Yellow-Legged Frogs (*Rana boylii*)]{.r-fit-text}{background-image="../img/bear_river_tailing_flow.png" background-size="contain" background-position="bottom" background-opacity="0.95" background-color="#fff69f"}
 
 ::: {.gray}
 [RABO Ecology-01 | 2023-05-09]{}<br />
