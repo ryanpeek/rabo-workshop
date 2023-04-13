@@ -8,7 +8,6 @@ format:
     toc-location: right
     df-print: paged
 bibliography: rabo_references.bib
-csl: apa-6th-edition.csl
 editor_options: 
   chunk_output_type: console
 ---
@@ -366,10 +365,6 @@ Moyle, P. B. 1973. Effects of Introduced Bullfrogs, Rana catesbeiana, on the Nat
 Paoletti, D. J., D. H. Olson, and A. R. Blaustein. 2011. Responses of Foothill Yellow-legged Frog (Rana boylii) Larvae to an Introduced Predator. Copeia 2011:161–168.
 
 Poorten, T. J., E. B. Rosenblum, and R. A. Knapp. 2013. Molecular analysis of the Spanish Creek Rana population (Plumas County, California) supports taxonomic placement within Rana boylii. Report to the California Department of Fish and Wildlife. Sacramento, CA.
-
-Rose, J. P., S. J. Kupferberg, C. A. Wheeler, P. M. Kleeman, and B. J. Halstead. 2021. Estimating the survival of unobservable life stages for a declining frog with a complex life history. Ecosphere 12.
-
-Wheeler, C. 2007. Temporal breeding patterns and mating strategy of the Foothill yellow-legged frog (Rana boylii). M.Sci., Humbold State University, California, USA.
 
 
 
