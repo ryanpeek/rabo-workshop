@@ -7,6 +7,7 @@ format:
     toc-title: Contents
     toc-location: right
     df-print: paged
+bibliography: rabo_references.bib
 editor_options: 
   chunk_output_type: console
 ---
@@ -32,7 +33,24 @@ editor_options:
 
 **Subadult** – A term essentially meaning the same thing as juvenile, above. Preferred synonym is "**juvenile**.
 
+{{< downloadthis https://github.com/ryanpeek/rabo-workshop/raw/main/data/cereal.csv dname="cereal.csv" label="Download Data" icon="database-fill-down" type="info" >}}
+
+
 ## Bibliography
 
-{{< include _bibliography.qmd >}}
+<!-- {{< include _bibliography.qmd >}} -->
 
+---
+nocite: |
+  @*
+---
+
+
+{{< downloadthis https://github.com/ryanpeek/rabo-workshop/raw/main/data/cereal.csv dname="cereal.csv" label="Download Data" icon="database-fill-down" type="info" >}}
+
+```{r}
+#| echo: false
+#| message: false
+
+readr::read_csv("../data/cereal.csv")
+```
