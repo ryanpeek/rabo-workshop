@@ -46,7 +46,7 @@ nocite: |
 ---
 
 
-{{< downloadthis https://github.com/ryanpeek/rabo-workshop/raw/main/data/cereal.csv dname="cereal.csv" label="Download Data" icon="database-fill-down" type="info" >}}
+{{< downloadthis https://github.com/ryanpeek/rabo-workshop/data/cereal.csv dname="cereal.csv" label="Download Data" icon="database-fill-down" type="info" >}}
 
 ```{r}
 #| echo: false
