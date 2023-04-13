@@ -13,11 +13,11 @@ website:
       - text: "Details"
         menu:
           - text: "Instructors"
-            href: details/instructors.qmd
+            href: Details/instructors.qmd
           - text: "Schedule"
-            href: details/schedule.qmd
+            href: Details/schedule.qmd
           - text: "Resources"
-            href: details/resources.qmd
+            href: Details/resources.qmd
       - text: "Day 1"
         menu:
           - text: "Intro"
