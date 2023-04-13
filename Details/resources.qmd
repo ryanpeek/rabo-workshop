@@ -33,7 +33,9 @@ editor_options:
 
 **Subadult** – A term essentially meaning the same thing as juvenile, above. Preferred synonym is "**juvenile**.
 
-{{< downloadthis https://github.com/ryanpeek/rabo-workshop/raw/main/data/cereal.csv dname="cereal.csv" label="Download Data" icon="database-fill-down" type="info" >}}
+## Download
+
+{{< downloadthis https://github.com/ryanpeek/rabo-workshop/data/rabo_references.bib dname="Bibliography" label="Download Data" icon="database-fill-down" type="info" >}}
 
 
 ## Bibliography
@@ -46,11 +48,3 @@ nocite: |
 ---
 
 
-{{< downloadthis https://github.com/ryanpeek/rabo-workshop/data/cereal.csv dname="cereal.csv" label="Download Data" icon="database-fill-down" type="info" >}}
-
-```{r}
-#| echo: false
-#| message: false
-
-readr::read_csv("../data/cereal.csv")
-```
