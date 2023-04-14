@@ -18,7 +18,7 @@ website:
             href: Details/schedule.qmd
           - text: "Resources"
             href: Details/resources.qmd
-      - text: "Day 1"
+      - text: "Slides"
         menu:
           - text: "Intro"
             href: slides/D1_rabo_00.qmd
