@@ -28,6 +28,8 @@ website:
             href: slides/D1_rabo_02.qmd
           - text: "Habitat"
             href: slides/D1_rabo_03.qmd
+          - text: "Survey Methods"
+            href: slides/D1_rabo_04.qmd
             
             
       - icon: github
