@@ -1,11 +1,11 @@
 ---
-title: "Day 1: 02-Status"
+title: "Un-Natural History"
 format:
   html:
     css: ../styles.css
 ---
 
-<iframe class="slide-deck" src="./rabo_02_status.html" title="Status Slides">
+<iframe class="slide-deck" src="./rabo_02_unatural_history.html" title="Un-Natural History Slides">
 </iframe>
 
 *Note.* To view the slideshow in full screen mode, click inside it and press the "f" key on your keyboard.<br />

@@ -24,12 +24,24 @@ website:
             href: slides/D1_rabo_00.qmd
           - text: "Natural History"
             href: slides/D1_rabo_01.qmd
-          - text: "Status"
+          - text: "Un-Natural History"
             href: slides/D1_rabo_02.qmd
-          - text: "Habitat"
+          - text: "Status"
             href: slides/D1_rabo_03.qmd
-          - text: "Survey Methods"
+          - text: "Habitat"
             href: slides/D1_rabo_04.qmd
+          - text: "Breeding Timing"
+            href: slides/D1_rabo_05.qmd
+          - text: "Ecology"
+            href: slides/D1_rabo_06.qmd
+          - text: "Survey Methods"
+            href: slides/D1_rabo_07.qmd
+          - text: "Conservation"
+            href: slides/D1_rabo_08.qmd
+          - text: "Decon"
+            href: slides/D1_rabo_09.qmd
+          - text: "Conservation"
+            href: slides/D1_rabo_10.qmd
             
             
       - icon: github

@@ -1,5 +1,5 @@
 ---
-title: "Day 1: 00-Intro"
+title: "Introduction"
 format:
   html:
     css: ../styles.css

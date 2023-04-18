@@ -123,20 +123,18 @@ References
 
 ## Definitions {.smaller}
 
-::: {.columns .pv4}
-::: {.column width="60%"}
-
-**Definitions**	---Measuring and Monitoring Biological Diversity: Standard Methods for Amphibians.  1994.  Eds, Heyer et al.	
-
-{{< li emzrtjck trigger=hover delay=3000 colors=secondary:#2a76dd class=rc >}}
-
- - **Relative abundance**:  proportional representation of species in a sample 
+**Definitions**	Measuring and Monitoring Biological Diversity: Standard Methods for Amphibians.  1994.  Eds, Heyer et al.
+ 
+ - **Relative abundance**:  proportional representation of species in a sample
  - **Inventory**:  study of a specific area, site, or habitat to determine the number of species present (i.e. species richness)
-Monitoring: study of the abundance of individuals in one or more populations of a species at a site through time
+ - **Monitoring**: study of the abundance of individuals in one or more populations of a species at a site through time
  - **Mark-recapture** techniques:  methods for determining population size that involve capturing, marking, and releasing animals, and subsequently recapturing or re-sighting them one or more times.
  - **Visual Encounter Survey (VES)**:  estimate the diversity (number of. different species) and abundance (number of different individuals) of animals at a particular location
 
+::: footer
+Definitions
 :::
+
 
 ## Workshop Roadmap {.smaller}
 
@@ -189,14 +187,14 @@ Overview
 Overview
 :::
 
-## Life History I {.smaller}{background-color="black"}
+## Life History I {.smaller background-color="black"}
 
 ::: {.columns .pv4}
-::: {.column .pr4 width="50%"}
+::: {.column .pr4 width="70%"}
+
 #### The Basics
 
-1. Adults breed in the spring
-2. Amplexus
+1. Adults breed in the spring ([*amplexus*]{.yellow})
 3. Females pick oviposition location
 4. External fertilization, egg masses ~2-3 weeks
 5. After hatching tadpoles cannot swim or often see
@@ -206,7 +204,7 @@ Overview
 
 :::
 
-::: {.column width="50%"}
+::: {.column width="30%"}
 
 ![](../img/rabo_egg_mass_gos22.jpg)
 
@@ -215,10 +213,6 @@ Overview
 
 ::: aside
 *Note:* There is a great amount of plasticity depending on the region and habitat.
-:::
-
-::: footer
-Life History - 1
 :::
 
 
@@ -231,42 +225,35 @@ Life History - 1
           width="100%" height="80%" >}}
 
 
-::: footer
-Ecology
-:::
 
 
-## Assignment {.smaller}
+## Resources {.smaller}
 
 ::: {.columns .pv4}
 ::: {.column width="60%"}
--   It is often useful to store data in [named objects]{.b .green}
-    -   This makes the data easier to use and re-use
-    -   This makes the code easier to write and read
+-   Here are some additional resources about the topic [TOPIC]{.b .green}
+    -   How we store and organize data
+    -   Templates for field data collection
 
 ::: {.fragment .mt1}
--   Which command is easier to follow?
-    1.  Dial *7 8 5 8 6 4 0 8 4 1*
-    2.  Call *Office Phone*
+-   Some links or survey stuff here
+    1.  Survey VES sheet
+    2.  Survey Habitat sheet
 :::
 
 ::: {.fragment .mt1}
--   Named objects are created using [assignment]{.b .blue}
-    -   Give a **name** then an **arrow** then the **data**
+-   Summary statement [about surveys for frogs]{.b .blue}
+    -   Frogs are **X** and also can be **Y**
 :::
 :::
 
 ::: {.column .tc .pv5 width="40%"}
 {{< li mgtgkkcb trigger=loop delay=3000 colors=secondary:#2a76dd class=rc >}}
-
-::: {.fragment}
-`office <- 7858640841`
-:::
 :::
 :::
 
 ::: footer
-\[1A\] Program I
+Resources
 :::
 
 

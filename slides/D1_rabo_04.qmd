@@ -1,11 +1,11 @@
 ---
-title: "Day 1: 04-Survey Methods"
+title: "Habitat"
 format:
   html:
     css: ../styles.css
 ---
 
-<iframe class="slide-deck" src="./rabo_04_surveys.html" title="Survey Method Slides">
+<iframe class="slide-deck" src="./rabo_04_habitat.html" title="Habitat Slides">
 </iframe>
 
 *Note.* To view the slideshow in full screen mode, click inside it and press the "f" key on your keyboard.<br />
