@@ -15,16 +15,16 @@ format:
     highlight-style: ayu-mirage
     code-link: false
     code-copy: true
-    pagetitle: "RABO Ecology-01"
+    pagetitle: "RABO Habitat"
     author-meta: "Ryan Peek"
     date-meta: "2023-05-09"
 ---
 
 ::: {.my-title}
-# [Natural]{.blue} & Unnatural History<br />of Foothill Yellow-Legged Frogs (*Rana boylii*)
+# [Habitat]{.blue} of <br />of Foothill Yellow-Legged Frogs (*Rana boylii*)
 
 ::: {.my-grey}
-[RABO Ecology-01 | 2023-05-09]{}<br />
+[Habitat | 2023-05-09]{}<br />
 [Ryan Peek | Elkhorn Slough CTP]{}
 :::
 
