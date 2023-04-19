@@ -23,8 +23,8 @@ format:
 
 ::: {.my-title}
 
-## [Natural & Unnatural History<br />of Foothill Yellow-Legged Frogs (*Rana boylii*)]{.r-fit-text}{background-image="../img/bear_river_tailing_flow.png" background-size="contain" background-position="bottom" background-opacity="0.95" background-color="#fff69f"}
-<br>
+## [Unnatural History]{.gold}<br />of Foothill Yellow-Legged Frogs{background-color="#111111"}
+
 <br>
 
 ::: {.light-gray}
@@ -32,204 +32,21 @@ format:
 [Ryan Peek | Elkhorn Slough CTP]{}
 :::
 
-![](../img/rabo_icon_color_lg.png){.absolute top=100 right=100 width=150}
+![](../img/hydraulic_mining_01.jpg){.absolute bottom=100 right=50 width=400}
 
 
 :::
 
-## Natural History {.smaller}
 
-::: {.columns .pv4}
-::: {.column width="70%"}
-1.  Amphibians have been on [earth]{.b .blue} since the [Devonian]{.b .green} 
-    -   This is a long time
+## {background-image="../img/fire_hydraulic_IMG_8718.jpg" background-size="cover" background-position="top" background-opacity="0.95"}
 
-::: {.fragment .mt1}
-2.  Global decline of [amphibians]{.b .orange} has only occurred in **our** lifetimes
-    -   This is not a long time
-:::
-
-::: {.fragment .mt1}
-3.  [Aquatic ecosystems]{.b .blue} are at highest risk
-    -   Amphibians form a link between the terrestrial and aquatic worlds
-:::
-
-::: {.fragment .mt1}
-4.  [Sentinel]{.b .gold} species like Foothill yellow-legged frogs integrate energy of ecosystems
-    - And can tell us much about the "health" of a system
-:::
-:::
-
-::: {.column .tc .pv5 .relative width="30%"}
-{{< li emzrtjck trigger=hover delay=3000 colors=secondary:#2a76dd class=rc >}}
-
-![](../img/frog_general_green.svg){width=150}
+ - add figure arrows or things to indicate 
+ - recent (fire)
+ - transmission lines (FERC)
+ - old (hydrotailings)
 
 
-:::
-:::
-
-::: footer
-Natural History
-:::
-
-
-## A Story of *Repeating Life*{.r-fit-text}
-
-::: columns
-::: {.column width="40%"}
-::: fragment
-::: incremental
--   In ancient Egypt, frogs represented repeating life
--   symbols of fertility and the number 100,000
--   displayed with a "**Shen**" ring (infinity) meant [**eternal repeating life**]{.fragment .highlight-blue}
-:::
-:::
-:::
-
-::: {.column width="60%"}
-![Credit: Yara Haridy](../img/shenring_egypt_yara_haridy_nocap.png){fig-alt="Shen ring with tadpole" width=600}
-
-:::
-:::
-
-::: footer
-Natural History
-:::
-
-::: notes
-Frogs were associated with the annual flooding of the Nile. Frogs have been associated with repeating life in many cultures, meaning they have been resilient to many environmental/geologic changes that have occurred through our history and beyond.
-
-In many Native American cultures frogs represent the ability to travel between two worlds, communicate with all beings in both worlds and serve as mediators.
-
-Unfortunately they have not been resilient to us.
-:::
-
-## *Rana boylii*
-
-::: columns
-::: column
-::: incremental
- - First described by Baird (1854)
- - Later recognized as distinct species by Zweifel in 1955, looked at 565 adults and juveniles.
- - Max body size ~73mm (SVL)
- - Adults typically >=35mm
-:::
-:::
-
-::: column
-
-![](../img/rabo_icon.png){fig-align="center" fig-alt="black and white FYLF outline" width=80%}
-:::
-:::
-
-::: footer
-Natural History: Species Overview
-:::
-
-
-::: notes
-R. boylii was first described by Baird (1854). A half century of taxonomic uncertainty followed with several name changes (Zweifel 1968). Since 1955, Rana boylii has been recognized as a distinct species in the family Ranidae (Zweifel 1955, Collins 1990). Zweifel (1955) described six species in the R. boylii group. R. boylii’s closest relative, both geographically and phylogenetically, is Rana muscosa. The four other ranids included in the R. boylii group by Zweifel (R. pustulosa, R. tarahumarae, R. pueblae, and R. moori) occur in Mexico, the latter extending into southern Arizona. Subsequent research suggests minor modifications to Zweifel’s work on the R. boylii group (Dumas 1966, Green 1986a, Green 1986b). No subspecies of R. boylii are known to date, but detailed genetic analysis may reveal cryptic taxa (Jennings and Hayes 1994)
-:::
-
-
-
-## Distribution
-
-::: {.columns .pv4}
-
-::: {.column width="60%"}
- - Range from Upper San Gabriel River in CA to Willamette Valley, OR
-
-::: {.fragment .mt1}
- - Two specimens were collected in 1965 in Baja California (Loomis 1965), but never detected after (Welsh 1988, Hollingsworth 2000, Grismer 2002, Stebbins 2003).
-:::
-:::
-
-::: {.column .relative width="40%"}
-![Zweifel 1955](../img/zweifel_range_1955.jpg)
-:::
-:::
-
-::: footer
-Distribution
-:::
-
-## Life History {.smaller}
-
-::: {.columns .pv4}
-::: {.column .pr4 width="50%" .incremental}
-
-#### The Basics
-
-1. Adults breed in the spring (*amplexus*)
-2. Females pick oviposition location
-3. External fertilization, egg masses ~2-3 weeks
-4. After hatching tadpoles cannot swim ~5 days
-5. Tadpoles require 2.5 months 18C or greater
-6. Metamorphosis in late summer/fall
-
-:::
-
-::: {.column width="50%"}
-
-![](../img/rabo_egg_mass_gos22.jpg)
-
-:::
-:::
-
-::: aside
-*Note:* There is a great amount of plasticity depending on the region and habitat.
-:::
-
-::: footer
-Life History
-:::
-
-## Reproductive Cycle {.smaller}
-
-::: r-stack
-![](../img/rabo_icon.png){.fragment width="700" fig-alt="A frog icon"}
-
-![](../img/rabo_soccer_eggs.jpg){.fragment width="800" fig-alt="A frog rana boylii"}
-
-![](../img/rabo_tads_hatched.jpg){.fragment width="800" fig-alt="A frog rana boylii"}
-
-:::
-
-::: footer
-Life History
-:::
-
-
-## *Rana boylii* Calling {.smaller}
-
-<!-- youtube: https://www.youtube.com/embed/MmSPTZVqTG0-->
-
-  {{< video https://www.youtube.com/embed/MmSPTZVqTG0
-          title="Rana boylii calling"
-          width="100%" height="80%" >}}
-
-
-::: footer
-Life History
-:::
-
-## Egg Masses (Clutches) {.smaller}
-
--   Generally 2 weeks to emerge depending on water temp
-
-![](https://photos.smugmug.com/Events/2023/Presentations/Raboelkhorn/i-fQJRqPK/0/884a0d3e/L/P1100774-L.jpg)
-
-
-::: footer
-Life History
-:::
-
-
-# UN-NATURAL HISTORY {background-color="#CCCCCC"}
-
-## Freshwaters 
+## Freshwaters
 
 ::: {.columns .pv4}
 ::: {.column .pr4 width="50%" .incremental}
@@ -249,7 +66,7 @@ Life History
 :::
 
 ::: footer
-Unnatural History
+Unnatural History: Freshwaters
 :::
 
 
@@ -263,7 +80,7 @@ Unnatural History
 :::
 
 ::: footer
-Mining
+Unnatural History: Mining
 :::
 
 
