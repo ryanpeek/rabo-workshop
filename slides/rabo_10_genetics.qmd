@@ -15,13 +15,13 @@ format:
     highlight-style: ayu-mirage
     code-link: false
     code-copy: true
-    pagetitle: "RABO Conservation"
+    pagetitle: "RABO Conservation Genetics"
     author-meta: "Ryan Peek"
     date-meta: "2023-05-09"
 ---
 
 ::: {.my-title}
-# [Conservation]{.orange} and [Management]{.blue}
+# [Conservation]{.purple} [Genetics]{.blue}
 
 ::: {.my-grey}
 [Ryan Peek | 2023-05-09]{}<br />

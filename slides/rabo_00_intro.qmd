@@ -31,7 +31,7 @@ editor_options:
 ::: {.my-gray}
 [2023-05-09 | [Elkhorn Slough CTP](http://www.elkhornsloughctp.org/training/show_train_detail.php?TRAIN_ID=Ec66CMJ)]{}<br />
 Ryan Peek | Sarah Kupferberg <br />
-Marcia Gerfstrud | Alan Striegle
+Marcia Grefsrud | Alan Striegle
 :::
 
 ![](../img/rabo_adult_dark_transparent.png){.absolute bottom=200 right=0 width=250}
