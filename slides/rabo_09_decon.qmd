@@ -15,13 +15,13 @@ format:
     highlight-style: ayu-mirage
     code-link: false
     code-copy: true
-    pagetitle: "RABO Survey Methods"
+    pagetitle: "RABO Decontamination"
     author-meta: "Ryan Peek"
     date-meta: "2023-05-09"
 ---
 
 ::: {.my-title}
-# [Survey]{.orange} [Methods]{.blue}
+# [Field Decontamination]{.orange}
 
 ::: {.my-grey}
 [Ryan Peek | 2023-05-09]{}<br />
