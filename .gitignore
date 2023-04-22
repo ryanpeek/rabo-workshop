@@ -7,3 +7,6 @@
 /_site/
 /_examples/
 img/*.m4v
+
+slides/*speaker.html
+data/*zip

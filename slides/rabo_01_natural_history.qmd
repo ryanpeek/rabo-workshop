@@ -8,6 +8,7 @@ format:
     self-contained: true
     progress: true
     history: true
+    multiplex: true
     hash-type: number
     logo: ../img/rabo_icon_color.png
     theme: [default, ../rabo.scss]
@@ -18,16 +19,18 @@ format:
     pagetitle: "RABO Ecology"
     author-meta: "Ryan Peek"
     date-meta: "2023-05-09"
+editor_options: 
+  chunk_output_type: console
 ---
 
 
 ::: {.my-title}
 
-## [Natural & Unnatural History<br />of Foothill Yellow-Legged Frogs (*Rana boylii*)]{.r-fit-text}{background-image="../img/bear_river_tailing_flow.png" background-size="contain" background-position="bottom" background-opacity="0.95" background-color="#fff69f"}
+## [Natural History of <br />Foothill Yellow-Legged Frogs (*Rana boylii*)]{.r-fit-text}{background-image="../img/bear_river_tailing_flow.png" background-size="contain" background-position="bottom" background-opacity="0.95" background-color="#fff69f"}
 
 ::: {.gray}
-[RABO Ecology-01 | 2023-05-09]{}<br />
-[Ryan Peek | Elkhorn Slough CTP]{}
+[Ryan Peek | 2023-05-09]{}<br />
+
 :::
 
 ![](../img/rabo_icon_color_lg.png){.absolute top=100 right=100 width=150}
@@ -38,31 +41,21 @@ format:
 ## Natural History {.smaller}
 
 ::: {.columns .pv4}
-::: {.column width="70%"}
-1.  Amphibians have been on [earth]{.b .blue} since the [Devonian]{.b .green} 
-    -   This is a long time
+::: {.column .incremental width="55%"}
 
-::: {.fragment .mt1}
-2.  Global decline of [amphibians]{.b .orange} has only occurred in **our** lifetimes
-    -   This is not a long time
+ - While this is a single species workshop...
+ 
+ - emblematic of the plight of freshwater biota globally
+ 
+ - [**Natural history**]{.purple} matters
+ 
+ - **no accurate observations, no way to know what is happening**
+
 :::
 
-::: {.fragment .mt1}
-3.  [Aquatic ecosystems]{.b .blue} are at highest risk
-    -   Amphibians form a link between the terrestrial and aquatic worlds
-:::
+::: {.column .tc .pv4 .relative width="45%"}
 
-::: {.fragment .mt1}
-4.  [Sentinel]{.b .gold} species like Foothill yellow-legged frogs integrate energy of ecosystems
-    - And can tell us much about the "health" of a system
-:::
-:::
-
-::: {.column .tc .pv5 .relative width="30%"}
-{{< li emzrtjck trigger=hover delay=3000 colors=secondary:#2a76dd class=rc >}}
-
-![](../img/frog_general_green.svg){width=150}
-
+![](../img/psre_multicolor.png){width=680}
 
 :::
 :::
@@ -71,6 +64,123 @@ format:
 Natural History
 :::
 
+::: notes
+
+The critical importance of understanding natural history in order to achieve effective conservation of freshwater biota, alert you to a common thread among the approaches of the various presenters you will hear from over the next few days, that is a very thorough grounding in natural history, learned from observation
+
+:::
+
+## {background-image="../img/ale_snorkel_frog.jpeg" background-size="cover" background-position="center" background-opacity="0.95"}
+
+::: {.columns .pv4}
+
+::: {.column width="50%"}
+
+:::
+
+::: {.column width="50%" .smaller}
+
+> [Natural history is careful patient, sympathetic observation (*Norment 2008*)]{.navy}
+
+:::
+:::
+
+::: notes
+Taking care of the world, whether we call it conservation, stewardship, or sustainability, depends on the accurate portraits of places, processes, and organisms provided by natural history. It is impossible to devise an effective conservation plan for an endangered species that we know nothing about (indeed, we would not even know that species was endangered without carefully natural history observations), or to prioritize habitats for protection if we do not know their extent or what relationships they harbor. (Fleischner 2001)
+:::
+
+::: footer
+Natural History
+:::
+
+
+
+## Freshwater Biodiversity:<br> Hotspots of diversity and decline {.smaller}
+
+::: columns
+
+::: {.column width="40%"}
+
+::: fragment
+![](../img/balian_et_2008_biodiversity.png)
+:::
+
+:::
+
+::: {.column width="60%"}
+
+::: fragment
+![](../img/vorosmarty.png){width="120%"}
+:::
+
+:::
+
+:::
+
+
+::: notes
+
+Freshwater spp are 9.5% of known animal spp on earth, yet inland waters only cover <1% of planet
+
+:::
+
+::: footer
+Freshwater Ecosystems
+:::
+
+
+## 
+
+::: columns
+::: {.column width="30%" .pv4}
+<br>
+<br>
+
+::: {.fragment .incremental}
+
+ - **We still don't know much**
+ - Amphibians are declining faster than can be documented
+
+:::
+
+:::
+
+::: {.column width="70%" .tc }
+![](../img/amphibs_prop_threatened_data_def.png){.absolute bottom=40 width=550}
+:::
+:::
+
+::: footer
+Amphibians
+:::
+
+
+## Freshwater biota [**at risk**]{.dark-red}{.smaller background-image="../img/howard_et_al_2015_diversity.png" background-size="65%" background-position="center" background-opacity="0.95"}
+
+
+::: footer
+Howard J, Klausmeyer K, Fesenmyer K, Furnish J, Gardali T, et al. (2015) Patterns of Freshwater Species Richness, Endemism, and Vulnerability in California. PLoS ONE 10(7): e0130710
+:::
+
+## Need for natural history insights & assessment!{.smaller}
+
+![Freshwater Patterns: Howard et al. 2015](../img/howard_2015_barchart.png){fig-align="center" width=50%}
+
+## Significant proportion is [vulnerable]{.dark-red}{.smaller}
+
+![Freshwater Patterns: Howard et al. 2015](../img/howard_2015_barchart_vuln.png "Title: Proportion of freshwater taxa by status assessment in California: Howard et al. 2015"){fig-alt="Barchart of status of freshwater taxa by extinct, listed, vuln, secure or not evaluated." fig-align="center" width=50%}
+
+## [Status assessed for <50%]{.blue} of taxa {.smaller}
+
+![Freshwater Patterns: Howard et al. 2015](../img/howard_2015_barchart_not_eval.png "Title: Proportion of freshwater taxa by status assessment in California: Howard et al. 2015"){fig-alt="Barchart of status of freshwater taxa by extinct, listed, vuln, secure or not evaluated." fig-align="center" width=50%}
+
+# Amphibians <br><br> *__amphíbios:__* <br> [*'both kinds of life'*]{.light-blue}{background-color="#000000"}
+
+::: notes
+
+The story begins roughly 370 million years ago in the Devonian. Lobe-finned fish with primitive lungs or multi-jointed leg-like fins (Tetrapods). Were top predators prior to evolution of reptiles. Caecilians and salamanders more closely related than frogs, and diverged ~250 mya in early Mesozoic before breakup of Pangea.
+
+:::
 
 ## A Story of *Repeating Life*{.r-fit-text}
 
@@ -91,10 +201,6 @@ Natural History
 :::
 :::
 
-::: footer
-Natural History
-:::
-
 ::: notes
 Frogs were associated with the annual flooding of the Nile. Frogs have been associated with repeating life in many cultures, meaning they have been resilient to many environmental/geologic changes that have occurred through our history and beyond.
 
@@ -102,6 +208,16 @@ In many Native American cultures frogs represent the ability to travel between t
 
 Unfortunately they have not been resilient to us.
 :::
+
+
+
+## A Karuk Story of the Upstream People (*The Fire Race*){.smaller background-color="#555555"}
+
+::: notes
+Long ago only the three Yellow Jacket sisters had fire. Even though other animals froze, the fire was kept from them. Coyote wanted to steal fire, which had been lost in a bet. He collected various animals, and placed them at intervals from the river to the mountains. Frog was in the first place—closest to the river. There was forest fire in the mountains, and he stole it by diverting the children who were in charge of it, and then pretending to fall asleep by the fire, having placed oak bark between his toes. At the right moment, he ran away with a piece of burning charcoal. The ember was passed from one animal to the next as each got tired. Turtle was able to escape by rolling down from a mountaintop towards the river, and then gave it to Frog. Frog hid the fire in his mouth, dived in the river and swam to the other side, and spat the fire out under a Willow. Dogs howled as the fire rose up, and mankind came into existence.
+:::
+
+
 
 ## *Rana boylii*
 
@@ -130,14 +246,37 @@ Natural History: Species Overview
 R. boylii was first described by Baird (1854). A half century of taxonomic uncertainty followed with several name changes (Zweifel 1968). Since 1955, Rana boylii has been recognized as a distinct species in the family Ranidae (Zweifel 1955, Collins 1990). Zweifel (1955) described six species in the R. boylii group. R. boylii’s closest relative, both geographically and phylogenetically, is Rana muscosa. The four other ranids included in the R. boylii group by Zweifel (R. pustulosa, R. tarahumarae, R. pueblae, and R. moori) occur in Mexico, the latter extending into southern Arizona. Subsequent research suggests minor modifications to Zweifel’s work on the R. boylii group (Dumas 1966, Green 1986a, Green 1986b). No subspecies of R. boylii are known to date, but detailed genetic analysis may reveal cryptic taxa (Jennings and Hayes 1994)
 :::
 
+## Distribution {.smaller}
 
+::: {.columns .pv4}
 
-## Distribution
+::: {.column width="40%" .incremental}
+ - Extant in for ~5-8 million yrs (Macey et al. 2001)
+
+ - Obligate river breeder, uses wide range of habitat, disturbance adapted
+ 
+ - gone from >50% of historical range
+:::
+
+::: {.column .relative width="60%" .r-stretch}
+![](../img/rabo_historical_range.png){fig-align="right" width=72%}
+:::
+:::
+
+::: footer
+Natural History: Distribution
+:::
+
+::: notes
+Range shrinking at multiple scales, north/south, high elevations, within watersheds, dams, hab loss and Bd
+:::
+
+## Distribution {.smaller}
 
 ::: {.columns .pv4}
 
 ::: {.column width="60%"}
- - Range from Upper San Gabriel River in CA to Willamette Valley, OR
+ - Historical range from Upper San Gabriel River in CA to Willamette Valley, OR
 
 ::: {.fragment .mt1}
  - Two specimens were collected in 1965 in Baja California (Loomis 1965), but never detected after (Welsh 1988, Hollingsworth 2000, Grismer 2002, Stebbins 2003).
@@ -150,21 +289,42 @@ R. boylii was first described by Baird (1854). A half century of taxonomic uncer
 :::
 
 ::: footer
-Distribution
+Natural History: Distribution
 :::
+
+## Life History {.incremental}
+
+::: {.r-stack}
+::: {.fragment .fade-in-then-out}
+![](../img/let-me-explain-sum-up.gif){fig-align="center"}
+:::
+
+::: {.fragment .fade-in-then-out}
+[So much to know!]{.gold}
+:::
+
+::: {.fragment .fade-in-then-out}
+[So much we *don't* know!]{.dark-red}
+:::
+
+::: {.fragment .fade-in-then-out}
+[We will give the distilled version]{.dark-blue}
+:::
+:::
+
 
 ## Life History {.smaller}
 
 ::: {.columns .pv4}
 ::: {.column .pr4 width="50%" .incremental}
 
-#### The Basics
+#### **THE BASICS**
 
 1. Adults breed in the spring (*amplexus*)
 2. Females pick oviposition location
-3. External fertilization, egg masses ~2-3 weeks
+3. External fertilization, 1 egg mass per year
 4. After hatching tadpoles cannot swim ~5 days
-5. Tadpoles require 2.5 months 18C or greater
+5. Tadpoles require 2.5 months at 18C or greater
 6. Metamorphosis in late summer/fall
 
 :::
@@ -180,25 +340,12 @@ Distribution
 *Note:* There is a great amount of plasticity depending on the region and habitat.
 :::
 
-::: footer
-Life History
-:::
 
-## Reproductive Cycle {.smaller}
-
-::: r-stack
-![](../img/rabo_icon.png){.fragment width="700" fig-alt="A frog icon"}
-
-![](../img/rabo_soccer_eggs.jpg){.fragment width="800" fig-alt="A frog rana boylii"}
-
-![](../img/rabo_tads_hatched.jpg){.fragment width="800" fig-alt="A frog rana boylii"}
-
-:::
+## Reproductive Cycle {.smaller background-image="../img/rabo_icon.png" background-size="contain" background-position="center" background-opacity="0.95"}
 
 ::: footer
-Life History
+Natural History: Adults
 :::
-
 
 ## *Rana boylii* Calling {.smaller}
 
@@ -210,108 +357,366 @@ Life History
 
 
 ::: footer
-Life History
+Natural History: Adults
 :::
 
-## Egg Masses (Clutches) {.smaller}
 
--   Generally 2 weeks to emerge depending on water temp
-
-![](https://photos.smugmug.com/Events/2023/Presentations/Raboelkhorn/i-fQJRqPK/0/884a0d3e/L/P1100774-L.jpg)
-
+## {.smaller background-image="../img/rabo_amplexus.jpg" background-size="cover" background-position="center" background-opacity="0.95" background-color="#001B44"}
 
 ::: footer
-Life History
+Natural History: Amplexus
 :::
 
+## {.smaller background-image="../img/rabo_amplexus.jpg" background-size="cover" background-position="center" background-opacity="0.95" background-color="#001B44"}
 
-# UN-NATURAL HISTORY {background-color="#CCCCCC"}
-
-## Freshwaters 
-
-::: {.columns .pv4}
-::: {.column .pr4 width="50%" .incremental}
-
- - Half the world's population lives within 20km of a permanent river (Small and Cohen 1999)
- - Projected mean extinction rates in freshwater organisms 5x greater than terrestrial (Ricciardi & Rasmussen 1999)
-
-:::
-
-::: {.column width="50%"}
-
-![](../img/dudgeon_2006_decline_freshwater.png)
-
-![](../img/death_star.png){.fragment .absolute top="240" right="210" width="100"}
-
-:::
-:::
+![](../img/rabo_oviposit.png){.absolute top=50 right=20 width=400}
 
 ::: footer
-Unnatural History
-:::
-
-
-## {background-color="#CCCCCC"}
-
-::: center
-<h3>
- > [“We acted upon the western landscape with the force of a geological agent” <br /> (*Wallace Stegner*)]{.near-black}
- 
-</h3>
-:::
-
-::: footer
-Mining
-:::
-
-
-## Mining {background-color="#CCCCCC"}
-
-::: columns
-::: {.column width="60%" .incremental}
-
-::: smaller
- - Hydraulic mining removes 8x as much sediment as was excavated from Panama Canal
- - First used by Edward Matteson near Nevada City, California in 1853
- - Sawyer Decision in 1884, enjoined operation in tributaries to navigable waters.
-
-:::
-:::
-
-::: {.column width="40%"}
-
-![](../img/hydraulic_mining_01.jpg)
-
-:::
-:::
-
-::: footer
-Unnatural History: Mining
-:::
-
-## Mining {background-color="#CCCCCC"}
-
-::: columns
-::: {.column width="60%" .incremental}
-
-::: smaller
- - Small scale mining recommences with Camminetti Act 1893. Most mining of this type wiped out by 1891 flood.
- - The legacy of ~40 years transformed the landscape permanently
-:::
-:::
-
-::: {.column width="40%"}
-
-![](../img/hydraulic_mining_01.jpg)
-
-:::
+Natural History: Amplexus
 :::
 
 ::: notes
-After Camminetti act, mining in streams required construction of small sediment dams
+
+Evolved with external fertilization, so there is a water velocity constraint!
+ - See Bondi et al. paper, >90% of all EM laid in water velocities <0.02 m/s
+
+:::
+
+## {background-image="../img/rabo_soccer_eggs.jpg" background-size="cover" background-position="center" background-opacity="0.95" background-color="#001B44"}
+
+::: footer
+Natural History: Eggs
+:::
+
+## {background-image="../img/rabo_em_NFA3EM.jpg" background-size="cover" background-position="center" background-opacity="0.95" background-color="#001B44"}
+
+::: footer
+Natural History: Oviposition
+:::
+
+
+## {background-image="../img/rabo_tads_hatched.jpg" background-size="cover" background-position="center" background-opacity="0.95"}
+
+
+::: footer
+Natural History: Tadpoles
+:::
+
+
+## {background-image="../img/PeekCloseupRecentTadMcloud_hiRes.jpg" background-size="cover" background-position="center" background-opacity="0.95"}
+
+
+::: footer
+Natural History: Tadpoles
+:::
+
+
+## {background-image="../img/rabo_late_gos_yoy.jpeg" background-size="cover" background-position="center" background-opacity="0.95"}
+
+::: footer
+YOY
+:::
+
+# Making [*accurate*]{.dark-pink .fragment .fade-in-then-out} Observations
+
+::: footer
+Natural History: Observations
+:::
+
+
+## Species ID: Who's who? {.smaller}
+
+::: {layout="[[1,1]]"}
+
+![?](../img/rabo_reddish_underwater.jpeg)
+
+![?](../img/crlf_adult.png){width=840}
+
+:::
+
+::: footer
+Natural History: Species ID
+:::
+
+## Species ID: Who's who? {.smaller}
+
+::: {layout="[[1,1]]"}
+
+![*Rana boylii*](../img/rabo_reddish_underwater.jpeg)
+
+![*Rana draytonii*](../img/crlf_adult.png){width=840}
+
+:::
+
+::: footer
+Natural History: Species ID
+:::
+
+::: notes
+CRLF and NRLF can look similar
+:::
+
+
+## Other species can appear similar {.smaller}
+
+::: {layout="[[1,1]]"}
+
+![](../img/nrlf_adults.png)
+
+
+![](../img/lica_juvenile.png)
+
+:::
+
+::: footer
+Natural History: Species ID
+:::
+
+
+## [*RABO* can have many colors/textures]{.light-yellow} {.smaller background-image="../img/rabo_in_water_bright_sun.jpeg" background-size="cover" background-position="center" background-opacity="0.95" background-color="#001B44"}
+
+<br>
+<br>
+
+::: {layout="[[1,1]]"}
+
+::: {.fragment .fade-in-then-out}
+![](../img/anbu_adult_staring.jpeg)
+:::
+
+::: {.fragment .fade-in-then-out}
+![](../img/lica_juvenile.png)
+:::
+
+:::
+
+::: fragment
+![](https://photos.smugmug.com/Field-Work/2007/CRLF-Workshop/i-8k3f5gJ/0/510760e9/L/P3220022-L.jpg){.absolute top=100 bottom=200 right=250 left=200}
+:::
+
+::: footer
+Natural History: Species ID
+:::
+
+::: notes
+
+ - RABO don't have stripes down the back
+ - RABO don't have a large tympanum or really large eyes
+ - RABO have distinctive "buff-colored triangular patch"
+
+:::
+
+## [**Even frogs get confused!**]{.navy} {.smaller background-image="../img/lica_rabo_false_clasp.jpeg" background-size="cover" background-position="bottom" background-opacity="0.95"}
+
+::: {.fragment}
+![](https://photos.smugmug.com/photos/i-p7sqRJs/0/fc02de7f/L/i-p7sqRJs-L.jpg){fig-align="center"}
+:::
+
+::: footer
+Natural History: Species ID
+:::
+
+
+## [**Pop-quiz...**]{.washed-yellow} {.smaller background-image="../img/lica_ventrally.jpeg" background-size="cover" background-position="bottom" background-opacity="0.95"}
+
+::: footer
+Natural History: Species ID
+:::
+
+
+## [This may help]{.washed-yellow} {.smaller background-image="../img/rabo_adult_ventral.JPG" background-size="cover" background-position="center" background-opacity="0.95"}
+
+::: footer
+Natural History: Species ID
+:::
+
+## Different eggs {.smaller}
+
+::: {layout="[[1,1]]"}
+
+![](../img/tato_eggs.jpeg)
+
+![](https://photos.smugmug.com/photos/i-BTn4g7g/0/9ef7a188/L/i-BTn4g7g-L.jpg)
+
+:::
+
+::: {.fragment .fade-in-then-out}
+
+![](https://photos.smugmug.com/photos/i-WDpZcwg/0/122c77c6/L/i-WDpZcwg-L.jpg){.absolute top=100 bottom=200 right=200 left=200}
+
+:::
+
+::: {.fragment .fade-in-then-out}
+
+![](https://photos.smugmug.com/Field-Work/2007/McCloud-May-June-2007/i-H7XV8tF/1/ce17ff80/L/IMGP0619-L.jpg){.absolute top=100 bottom=200 right=240 left=200}
+
+:::
+
+::: footer
+Natural History: Species ID
+:::
+
+
+## Different eggs {.smaller}
+
+::: {layout="[[1,1]]"}
+
+![](../img/rabo_em_gos09.JPG)
+
+![](../img/crlf_eggs.jpeg)
+
+:::
+
+::: footer
+Natural History: Species ID
+:::
+
+## [Egg Masses]{.washed-red}{.tr background-image="../img/PeekAlamedaEMCloseupNew_hiRes.jpg" background-size="cover" background-position="center" background-opacity="0.95"}
+
+
+## 
+
+::: {.columns .pv4}
+
+::: {.column width="40%" .incremental}
+
+- Extant pops can be evaluated by counting egg mass density
+
+- Can be compared through time and space
+
+- Good indicator of population size/health
+
+:::
+
+::: {.column width="60%"}
+![](../img/kupf_em_Rb_EggDensity_Color.jpg){fig-align="center" width=85%}
+:::
+
+:::
+
+::: footer
+Natural History: Eggs
+:::
+
+## Tadpoles {background-image="../img/storer_tadpoles.png" background-size="contain" background-position="right" background-opacity="0.95"}
+
+::: incremental
+
+ - Tadpoles are grazers of algal epiphytes
+
+ - They don't overwinter
+
+:::
+
+::: footer
+Natural History: Tadpoles
+:::
+
+
+## Tadpoles eat, also swim {.smaller}
+
+::: {.columns .pv4}
+
+::: {.column width="40%" .incremental}
+
+![](../img/rabo_tad_grazing_w_labial_keratin.jpeg){fig-align="left"}
+
+:::
+
+::: {.column width="60%" .incremental}
+
+![](../img/rabo_tad_streamline_head.jpeg){fig-align="center" width=70%}
+
+- Lotic tadpoles but better swimmers when small
+
+- Experiments showed increasing Gosner stage decreased swim velocity
+
+
+:::
+
 :::
 
 
 ::: footer
-Unnatural History: Mining
+Natural History: Tadpoles
+:::
+
+::: notes
+
+When velocity is up they hunker into interstitial spaces, but if bed armored, flushes individuals
+
+:::
+
+
+## <br>[Metamorphs (Young of Year)]{.light-yellow}{.tr .smaller background-image="../img/rabo_psre_same_hand.jpeg" background-size="cover" background-position="top" background-opacity="0.95"}
+
+::: footer
+Natural History: YOY
+:::
+
+
+## [**YOY**]{.orange} (*not subadult or metamorph*)
+ 
+::: {.fragment .incremental}
+ 
+ - [**Young of the year**]{.orange} — seen only in the late summer and fall (approximately August–October); easily distinguished due to small size compared to conspecifics at that time of year
+ 
+ - [**Juvenile**]{.purple} — small individuals seen in the spring and early summer that do not exhibit secondary sex characteristics (i.e., gravid, nuptial pads)
+ 
+ - [**Adult**]{.navy} — large individuals (2–3+ years old) that exhibit secondary sexual characteristics
+
+:::
+
+::: footer
+Natural History: YOY
+:::
+
+
+## Adults: Time to Maturity
+ 
+::: {.columns .pv4}
+
+::: {.column width="40%" .incremental}
+
+ - Growth curves indicate time to maturity: 
+    - **2 years on the coast**
+    - **3 in Sierras**
+
+:::
+
+
+::: {.column width="60%"}
+
+![Gonsolin 2010](../img/gonsolin_time_to_maturity.png)
+
+:::
+
+:::
+
+::: footer
+Natural History: Adults
+:::
+
+## Adults: Longevity
+ 
+::: {.columns .pv4}
+
+::: {.column width="40%" .incremental}
+
+ - Mark/recapture of ~12 yr old in NF Feather by GANDA staff!
+ - More recent work confirms much longer life-spans possible
+ 
+:::
+
+
+::: {.column width="60%"}
+
+![](../img/rabo_adult_dark.JPG){fig-align="right" width=80%}
+
+:::
+
+:::
+
+::: footer
+Natural History: Adults
 :::
