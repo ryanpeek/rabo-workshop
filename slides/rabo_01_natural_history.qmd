@@ -196,7 +196,7 @@ The story begins roughly 370 million years ago in the Devonian. Lobe-finned fish
 :::
 
 ::: {.column width="60%"}
-![Credit: Yara Haridy](../img/shenring_egypt_yara_haridy_nocap.png){fig-alt="Shen ring with tadpole" width=600}
+![Credit: Yara Haridy](../img/shenring_egypt_yara_haridy_nocap.jpg){fig-alt="Shen ring with tadpole" width=600}
 
 :::
 :::
