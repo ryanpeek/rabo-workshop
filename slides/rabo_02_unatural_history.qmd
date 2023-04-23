@@ -8,6 +8,7 @@ format:
     self-contained: true
     progress: true
     history: true
+    multiplex: false
     hash-type: number
     logo: ../img/rabo_icon_color.png
     theme: [default, ../rabo.scss]
@@ -15,7 +16,7 @@ format:
     highlight-style: ayu-mirage
     code-link: false
     code-copy: true
-    pagetitle: "RABO Ecology"
+    pagetitle: "RABO Unnatural History"
     author-meta: "Ryan Peek"
     date-meta: "2023-05-09"
 ---
@@ -23,51 +24,30 @@ format:
 
 ::: {.my-title}
 
-## [Unnatural History]{.gold}<br />of Foothill Yellow-Legged Frogs{background-color="#111111"}
+## [Unnatural History]{.gold}<br />of Foothill Yellow-Legged Frogs{background-color="#111111" background-image="../img/simulated_sat_1851_mark_clark.jpg" background-position="right" background-size="contain"}
 
 <br>
 
 ::: {.light-gray}
-[RABO Ecology-01 | 2023-05-09]{}<br />
-[Ryan Peek | Elkhorn Slough CTP]{}
+[Ryan Peek | 2023-05-09]{}<br />
 :::
 
-![](../img/hydraulic_mining_01.jpg){.absolute bottom=100 right=50 width=400}
+::: fragment
 
-
+![](../img/mining_hydraulic_01.jpg){.absolute bottom=100 right=50 width=400}
 :::
-
-
-## {background-image="../img/fire_hydraulic_IMG_8718.jpg" background-size="cover" background-position="top" background-opacity="0.95"}
-
- - add figure arrows or things to indicate 
- - recent (fire)
- - transmission lines (FERC)
- - old (hydrotailings)
-
-
-## Freshwaters
-
-::: {.columns .pv4}
-::: {.column .pr4 width="50%" .incremental}
-
- - Half the world's population lives within 20km of a permanent river (Small and Cohen 1999)
- - Projected mean extinction rates in freshwater organisms 5x greater than terrestrial (Ricciardi & Rasmussen 1999)
 
 :::
 
-::: {.column width="50%"}
 
-![](../img/dudgeon_2006_decline_freshwater.png)
+## Changed Landscapes {.smaller background-image="../img/fire_hydraulic_IMG_8718.jpg" background-size="cover" background-position="top" background-opacity="0.95"}
 
-![](../img/death_star.png){.fragment .absolute top="240" right="210" width="100"}
 
-:::
-:::
+## {background-image="../img/fire_hydraulic_edited_transmission.jpg" background-size="contain" background-position="top" background-opacity="0.95"}
 
-::: footer
-Unnatural History: Freshwaters
-:::
+## {background-image="../img/fire_hydraulic_edited_fire.jpg" background-size="contain" background-position="top" background-opacity="0.95"}
+
+## {background-image="../img/fire_hydraulic_edited_hydro.jpg" background-size="contain" background-position="top" background-opacity="0.95"}
 
 
 ## {background-color="#CCCCCC"}
@@ -99,7 +79,13 @@ Unnatural History: Mining
 
 ::: {.column width="40%"}
 
-![](../img/hydraulic_mining_01.jpg)
+![](../img/mining_hydraulic_01.jpg)
+
+::: fragment
+
+![](../img/mining_hydraulic_monitor.jpg)
+
+:::
 
 :::
 :::
@@ -111,17 +97,17 @@ Unnatural History: Mining
 ## Mining {background-color="#CCCCCC"}
 
 ::: columns
-::: {.column width="60%" .incremental}
+::: {.column width="40%" .incremental}
 
 ::: smaller
- - Small scale mining recommences with Camminetti Act 1893. Most mining of this type wiped out by 1891 flood.
+ - 1893: small-scale mining recommences (Camminetti Act)
  - The legacy of ~40 years transformed the landscape permanently
 :::
 :::
 
-::: {.column width="40%"}
+::: {.column width="60%"}
 
-![](../img/hydraulic_mining_01.jpg)
+![](../img/mining_California-Gulch-Colo-1878_lofc_cph 3c10833.png)
 
 :::
 :::
@@ -133,4 +119,275 @@ After Camminetti act, mining in streams required construction of small sediment 
 
 ::: footer
 Unnatural History: Mining
+:::
+
+## Landscapes Transformed
+
+::: columns
+::: {.column width="50%"}
+
+![1876](../img/mining_hydraulic_Malakoff-1876-SYuba.png)
+:::
+
+::: {.column width="50%"}
+![1996](../img/mining_hydraulic_Malakoff_Diggins_State_Historic_Park.jpg)
+:::
+:::
+
+::: {.tc}
+ *Malakoff Diggins State Park*
+:::
+
+::: footer
+Unnatural History: Mining
+:::
+
+
+## CA Mines {.smaller .tr .r-stretch background-image="../img/usgs_gold_mines_map.png"  background-size="48%" background-position="left"}
+
+::: {.columns .pv4}
+
+::: {.column .pr4 width="50%"}
+
+:::
+
+::: {.column .tr .pr4 width="50%" .incremental}
+
+ - Legacy remains
+ - Thousands of mines / tailings in CA
+ - Active panning & sluicing in many rivers
+ 
+ 
+ <br>
+ 
+::: {.fragment .fade-in}
+ 
+ ![](../img/mining_remnants.jpg){width="400px" fig-position="center"}
+:::
+ 
+:::
+
+:::
+
+::: footer
+Unnatural History: Mining
+:::
+
+::: notes
+
+**MAS/MILS** (Minerals Availability System/Mineral Information Location System, compiled by US Bureau of Mines (former), now by USGS:
+ - In Yuba/Bear/American Rivers alone, estimates that 857 million cubic yards were excavated (8x more material than was excavated in construction of Panama Canal) From W. T. Ellis Jr. U of O 1939
+ - Export mining debris estim. from 1849 to 1914, 1.146 billion cubic yards deposited in SF Bay (USGS Significant Deposits Database - Long and others, 1998)
+ - Immense amounts of timber required for flumes and check dams, logged over 20 miles away from site
+ - Over a thirty-year period, the Comstock Lode consumed more than 800 million feet of lumber (Rohe, Randall. “Man and the Land: Mining’s Impact in the Far West.” Arizona and the West (1986): 299-388) 
+
+:::
+
+## *And they persisted...* {.tc background-image="../img/rabo_closeup_in_water.jpg" background-size="contain" background-position="top" background-opacity="0.95" background-color="#000000"}
+
+## Failing Freshwaters {background-color="#001B44"}
+
+::: {.columns .pv4}
+::: {.column .pr4 width="50%" .incremental}
+
+ - Half the world's population lives within 20km of a permanent river (Small and Cohen 1999)
+ - Projected mean extinction rates in freshwater organisms 5x greater than terrestrial (Ricciardi & Rasmussen 1999)
+
+:::
+
+::: {.column width="50%"}
+
+![](../img/dudgeon_2006_decline_freshwater.png)
+
+![](../img/death_star.png){.fragment .absolute top="240" right="210" width="100"}
+
+:::
+:::
+
+::: footer
+Unnatural History: Freshwaters
+:::
+
+
+## Dammed Rivers {.smaller background-image="../img/dams_in_CA.png" background-size="49%" background-position="right" background-color="#001B44"}
+
+::: {.columns}
+::: {.column .pr2 width="45%" .incremental}
+
+ - Over 1,400 large dams (NID 2007)
+ - CA hydropower is ~15% of energy supply (Hall 2006)
+ - Residential energy demands expected to increase by 24% by 2035 (US EIA 2010)
+ - Majority of dams are for irrigation (47%), water supply (23%), and hydroelectric (14%)
+
+:::
+:::
+
+
+::: footer
+Unnatural History: Regulation
+:::
+
+::: notes
+
+Majority (84%) of dams are for: 
+ - 47% Irrigation (n=709) 
+ - 23% Water supply (n=342) 
+ - 14% Hydroelectric (n=207)
+ 
+ Electricity demand up >>> Due to growth in population and continued population shifts to warmer regions with greater cooling requirements (US EIA, Annual Energy Outlook 2010).  
+ Hydroelectric power generation comprises over half of all renewable energy generation in California (California Energy Commission 2010. Majority of Dams are owned by Private entities (658), Public Utilities (308), then Local Govt (324), Federal (151), and State (53) (NID: National Inventory of Dams, 2007)
+
+:::
+
+
+## Flow modification { background-image="../img/zimmerman_mean_monthly_flow.png" background-size="90%" background-position="bottom" background-color="#001B44"}
+
+
+*Major threat to freshwater biodiversity and is widespread in CA*
+<br>
+
+::: {.columns}
+
+::: {.column .tl width="34%"}
+**Depleted<br>(87%)**
+:::
+::: {.column .tl width="35%"}
+**Inflated<br>(81%)**
+:::
+::: {.column .tl width="31%"}
+**No Alteration<br>(5%)**
+:::
+
+:::
+
+::: footer
+Zimmerman et al. 2018
+:::
+
+::: notes
+95% of streams have some sort of altered flow
+:::
+
+## Flow modification {.smaller background-color="#001B44"}
+
+![](../img/dam_sierras.jpg){.absolute bottom=250 left=0 width=400}
+
+![](../img/dam_oroville_spilling.jpg){.absolute bottom=0 left=0 width=400}
+
+![](../img/slate_ck_dam.png){.absolute bottom=0 right=0 width=450}
+
+## Flow Seasonality
+
+ > Species life histories are finely tuned to capitalize on specialized [**temporal**]{.f1 .black} niches associated with climatic variability (Chesson 2000, Chase 2011)
+
+::: {.incremental}
+
+ - [**Seasonality**]{.orange} is measure of occurrence of distinct within-year conditions or events
+
+ - [**Predictability**]{.blue} is the regularity of recurrence annually
+
+:::
+
+
+::: footer
+Unnatural History: Regulation
+:::
+::: notes
+Species life histories are finely tuned to capitalize on specialized temporal niches associated with climatic variability (Chesson 2000, Chase 2011). 
+
+“Seasonality is the occurrence of certain obvious biotic and abiotic events or groups of events within a definite limited period or periods of the astronomic (solar, calendar) year.” Essentially, this represents the degree to which within-year conditions are distinct. Lieth (1974:5)
+
+“Predictability is the regularity of recurrence of the within cycle (e.g., annual) distribution of events across multiple cycles”
+:::
+
+## [Flow Regimes]{.fragment .fade-out fragment-index=1} {.smaller background-image="../img/nfa_flow_patterns_zoomed.png" background-size="contain" background-position="bottom" background-color="white"}
+
+::: {.fragment fragment-index=2 .tc .f2}
+<br>
+<br>
+<br>
+<br>
+**Unregulated flow patterns have high seasonality & predictability**
+:::
+
+::: {.fragment fragment-index=3}
+![](../img/rabo_em_gos09.jpg){.br-100 .absolute bottom=0 right=200 width=200}
+:::
+
+## {.smaller background-image="../img/mfa_flow_patterns_zoomed.png" background-size="contain" background-position="bottom" background-color="white"}
+
+::: {.fragment fragment-index=1 .tc .f2}
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+**Regulated flow patterns disrupt predictability**
+:::
+
+::: {.fragment fragment-index=2}
+![](../img/rabo_butte_tadpoles_dried.jpg){.br-100 .absolute bottom=0 right=200 width=200}
+:::
+
+::: notes
+Often asynchronous, altered flow regimes have affected freshwater species that evolved under natural flow patterns by limiting connectivity, reducing flow cues, and eliminating habitat.
+:::
+
+## {background-image="../img/regulation_mean_hrly_discharge.png" background-size="contain" background-position="center" background-color="white"}
+
+## {background-image="../img/regulation_mean_ann_discharge.png" background-size="contain" background-position="center" background-color="white"}
+
+## Flow Predictability vs. Seasonality {.smaller background-image="../img/seasonality_predam.png" background-size="contain" background-position="center" background-color="#001B44"}
+
+## Flow Predictability vs. Seasonality {.smaller background-image="../img/seasonality_postdam.png" background-size="contain" background-position="center" background-color="#001B44"}
+
+## Functional Flows Concept {background-color="white"}
+
+::: {.columns}
+
+::: {.column .tl width="55%"}
+
+- idea that there are aspects of a flow regime that directly link to **ecological**, **geomorphic**, or **biogeochemical processes** in riverine systems
+
+- these in turn are foundational to supporting processes that **sustain biological communities**
+
+:::
+
+::: {.column width="45%"}
+
+![](../img/ceff_ff_components.png)
+:::
+:::
+
+::: footer
+Conservation Management
+:::
+
+## *And still...<br>[persisted?]{.fragment .semi-fade-out}* {.smaller .tl background-image="../img/rabo_hand_on_hips.jpg" background-size="contain" background-position="right" background-opacity="0.95" background-color="#000000"}
+
+## Disease / Drought / Decline {.smaller}
+
+:::{layout="[[1,1],[1,1]]"}
+
+![](../img/harmful_algae_in_drought_yrs.jpg)
+
+![](../img/perils_of_rocksnot.jpg)
+
+![](../img/unpalatable_periphyton_diatoms.png)
+
+
+![](../img/rabo_copepod_parasites.jpg)
+
+:::
+
+::: notes
+
+Didymo (diatom) proliferating in regulated rivers & cold water is released from bottom of reservoir. Important to understand how Epithemia and N fixing taxa affect tadpole growth and survival
+
+HABs in drought years (Bouma-Gregson, K., Power, M. E., & Bormans, M. (2017))
+
+Just because we don't see a specific trend doesn't mean things are stable:
+ - if high volatility combines with small population sizes, trends may not be detected until populations decline below critical thresholds (*extinction vortex*)
+
 :::

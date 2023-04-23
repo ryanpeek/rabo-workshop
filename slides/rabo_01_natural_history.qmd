@@ -8,7 +8,7 @@ format:
     self-contained: true
     progress: true
     history: true
-    multiplex: true
+    multiplex: false
     hash-type: number
     logo: ../img/rabo_icon_color.png
     theme: [default, ../rabo.scss]
@@ -16,7 +16,7 @@ format:
     highlight-style: ayu-mirage
     code-link: false
     code-copy: true
-    pagetitle: "RABO Ecology"
+    pagetitle: "RABO Natural History"
     author-meta: "Ryan Peek"
     date-meta: "2023-05-09"
 editor_options: 
@@ -70,7 +70,7 @@ The critical importance of understanding natural history in order to achieve eff
 
 :::
 
-## {background-image="../img/ale_snorkel_frog.jpeg" background-size="cover" background-position="center" background-opacity="0.95"}
+## {background-image="../img/ale_snorkel_frog.jpg" background-size="cover" background-position="center" background-opacity="0.95"}
 
 ::: {.columns .pv4}
 
@@ -403,7 +403,7 @@ Natural History: Tadpoles
 :::
 
 
-## {background-image="../img/PeekCloseupRecentTadMcloud_hiRes.jpg" background-size="cover" background-position="center" background-opacity="0.95"}
+## {background-image="../img/rabo_closeup_recent_tad_mcloud.jpg" background-size="cover" background-position="center" background-opacity="0.95"}
 
 
 ::: footer
@@ -411,7 +411,7 @@ Natural History: Tadpoles
 :::
 
 
-## {background-image="../img/rabo_late_gos_yoy.jpeg" background-size="cover" background-position="center" background-opacity="0.95"}
+## {background-image="../img/rabo_late_gos_yoy.jpg" background-size="cover" background-position="center" background-opacity="0.95"}
 
 ::: footer
 YOY
@@ -428,7 +428,7 @@ Natural History: Observations
 
 ::: {layout="[[1,1]]"}
 
-![?](../img/rabo_reddish_underwater.jpeg)
+![?](../img/rabo_reddish_underwater.jpg)
 
 ![?](../img/crlf_adult.png){width=840}
 
@@ -442,7 +442,7 @@ Natural History: Species ID
 
 ::: {layout="[[1,1]]"}
 
-![*Rana boylii*](../img/rabo_reddish_underwater.jpeg)
+![*Rana boylii*](../img/rabo_reddish_underwater.jpg)
 
 ![*Rana draytonii*](../img/crlf_adult.png){width=840}
 
@@ -473,7 +473,7 @@ Natural History: Species ID
 :::
 
 
-## [*RABO* can have many colors/textures]{.light-yellow} {.smaller background-image="../img/rabo_in_water_bright_sun.jpeg" background-size="cover" background-position="center" background-opacity="0.95" background-color="#001B44"}
+## [*RABO* can have many colors/textures]{.light-yellow} {.smaller background-image="../img/rabo_in_water_bright_sun.jpg" background-size="cover" background-position="center" background-opacity="0.95" background-color="#001B44"}
 
 <br>
 <br>
@@ -481,7 +481,7 @@ Natural History: Species ID
 ::: {layout="[[1,1]]"}
 
 ::: {.fragment .fade-in-then-out}
-![](../img/anbu_adult_staring.jpeg)
+![](../img/anbu_adult_staring.jpg)
 :::
 
 ::: {.fragment .fade-in-then-out}
@@ -506,7 +506,7 @@ Natural History: Species ID
 
 :::
 
-## [**Even frogs get confused!**]{.navy} {.smaller background-image="../img/lica_rabo_false_clasp.jpeg" background-size="cover" background-position="bottom" background-opacity="0.95"}
+## [**Even frogs get confused!**]{.navy} {.smaller background-image="../img/lica_rabo_false_clasp.jpg" background-size="cover" background-position="bottom" background-opacity="0.95"}
 
 ::: {.fragment}
 ![](https://photos.smugmug.com/photos/i-p7sqRJs/0/fc02de7f/L/i-p7sqRJs-L.jpg){fig-align="center"}
@@ -517,14 +517,14 @@ Natural History: Species ID
 :::
 
 
-## [**Pop-quiz...**]{.washed-yellow} {.smaller background-image="../img/lica_ventrally.jpeg" background-size="cover" background-position="bottom" background-opacity="0.95"}
+## [**Pop-quiz...**]{.washed-yellow} {.smaller background-image="../img/lica_ventrally.jpg" background-size="cover" background-position="bottom" background-opacity="0.95"}
 
 ::: footer
 Natural History: Species ID
 :::
 
 
-## [This may help]{.washed-yellow} {.smaller background-image="../img/rabo_adult_ventral.JPG" background-size="cover" background-position="center" background-opacity="0.95"}
+## [This may help]{.washed-yellow} {.smaller background-image="../img/rabo_adult_ventral.jpg" background-size="cover" background-position="center" background-opacity="0.95"}
 
 ::: footer
 Natural History: Species ID
@@ -534,7 +534,7 @@ Natural History: Species ID
 
 ::: {layout="[[1,1]]"}
 
-![](../img/tato_eggs.jpeg)
+![](../img/tato_eggs.jpg)
 
 ![](https://photos.smugmug.com/photos/i-BTn4g7g/0/9ef7a188/L/i-BTn4g7g-L.jpg)
 
@@ -561,9 +561,9 @@ Natural History: Species ID
 
 ::: {layout="[[1,1]]"}
 
-![](../img/rabo_em_gos09.JPG)
+![](../img/rabo_em_gos09.jpg)
 
-![](../img/crlf_eggs.jpeg)
+![](../img/crlf_eggs.jpg)
 
 :::
 
@@ -571,7 +571,7 @@ Natural History: Species ID
 Natural History: Species ID
 :::
 
-## [Egg Masses]{.washed-red}{.tr background-image="../img/PeekAlamedaEMCloseupNew_hiRes.jpg" background-size="cover" background-position="center" background-opacity="0.95"}
+## [Egg Masses]{.washed-red}{.tr background-image="../img/rabo_EMCloseup_alameda.jpg" background-size="cover" background-position="center" background-opacity="0.95"}
 
 
 ## 
@@ -619,13 +619,13 @@ Natural History: Tadpoles
 
 ::: {.column width="40%" .incremental}
 
-![](../img/rabo_tad_grazing_w_labial_keratin.jpeg){fig-align="left"}
+![](../img/rabo_tad_grazing_w_labial_keratin.jpg){fig-align="left"}
 
 :::
 
 ::: {.column width="60%" .incremental}
 
-![](../img/rabo_tad_streamline_head.jpeg){fig-align="center" width=70%}
+![](../img/rabo_tad_streamline_head.jpg){fig-align="center" width=70%}
 
 - Lotic tadpoles but better swimmers when small
 
@@ -648,7 +648,7 @@ When velocity is up they hunker into interstitial spaces, but if bed armored, fl
 :::
 
 
-## <br>[Metamorphs (Young of Year)]{.light-yellow}{.tr .smaller background-image="../img/rabo_psre_same_hand.jpeg" background-size="cover" background-position="top" background-opacity="0.95"}
+## <br>[Metamorphs (Young of Year)]{.light-yellow}{.tr .smaller background-image="../img/rabo_psre_same_hand.jpg" background-size="cover" background-position="top" background-opacity="0.95"}
 
 ::: footer
 Natural History: YOY
@@ -711,7 +711,7 @@ Natural History: Adults
 
 ::: {.column width="60%"}
 
-![](../img/rabo_adult_dark.JPG){fig-align="right" width=80%}
+![](../img/rabo_adult_dark.jpg){fig-align="right" width=80%}
 
 :::
 
