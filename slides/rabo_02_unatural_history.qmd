@@ -143,7 +143,7 @@ Unnatural History: Mining
 :::
 
 
-## CA Mines {.smaller .tr .r-stretch background-image="../img/usgs_gold_mines_map.png"  background-size="48%" background-position="left"}
+## CA Mines {.smaller .tr .r-stretch background-image="../img/usgs_gold_mines_map.jpg"  background-size="48%" background-position="left"}
 
 ::: {.columns .pv4}
 

@@ -5,7 +5,7 @@ format:
     slide-number: true
     show-slide-number: all
     preview-links: auto
-    self-contained: true
+    self-contained: false
     progress: true
     history: true
     hash-type: number
@@ -14,24 +14,34 @@ format:
     code-block-background: true
     highlight-style: ayu-mirage
     code-link: false
-    code-copy: true
+    code-copy: false
     pagetitle: "RABO Habitat"
     author-meta: "Ryan Peek"
     date-meta: "2023-05-09"
 ---
 
 ::: {.my-title}
-# [Habitat]{.blue} of <br />of Foothill Yellow-Legged Frogs (*Rana boylii*)
+# [Habitat]{.blue} of <br />Foothill Yellow-Legged Frogs
 
 ::: {.my-grey}
-[Habitat | 2023-05-09]{}<br />
-[Ryan Peek | Elkhorn Slough CTP]{}
+[Ryan Peek | 2023-05-09]{}<br />
+[Elkhorn Slough CTP]{}
 :::
 
-![](../img/rabo_adult_dark_transparent.png){.absolute bottom=0 right=0 width=250}
+![](../img/hab_campck04_breeding.jpg){.br-100 .absolute top=300 bottom=0 left=0 width=300}
+![](../img/hab_nfa_bar.jpg){.absolute top=300 bottom=0 left=370 width=300}
+![](../img/hab_robbers_nfa.jpg){.br-100 .absolute bottom=0 top=300 left=740 width=250}
+
 :::
 
 ## Adult Habitat {.smaller}
+
+ - Most common along pool, glide, or riffles (Lind and Yarnell 2008, Bourque 2008, Haggarty 2006, Yarnell 2005, Van Wagner 1996, Lind 2005)
+ - Near stream cover may include wide array from shoreline rocks (especially cobble), to leaf litter, or overhanging vegetation [e.g. Carex sp.] (Bourque 2008, Haggarty 2006, Yarnell 2005, Hayes and Jennings 1988, Van Wagner 1996)
+ - Adults may prefer some riparian overhanging vegetation (e.g. Carex sp.) with moderate shade (Van Wagner 1996, Zweifel 1955, Moyle 1973, Hayes and Jennings 1988)
+
+<br>
+[**So pretty much all the possibilities!**]{.tc .f1 .blue .fragment}
 
 <!--
 
@@ -42,36 +52,41 @@ Post-metamorphic R. boylii remain in terrestrial riparian and riverine habitat a
 Habitat: Adults
 :::
 
+## 
+
+::: {.columns .pv4}
+
+::: {.column .pr4 width="50%"}
+![](../img/hab_campck03.jpg)
+:::
+
+::: {.column .tr .pr4 width="50%" .incremental}
+![](../img/hab_tuo.jpg)
+
+:::
+:::
+
+::: fragment
+ - Can use a very wide range of habitat
+ - From small intermittent first order tribs to large rivers
+:::
 
 ## Breeding Habitat {.smaller}
 
 ::: {.columns .pv4}
-::: {.column width="70%"}
-1.  Amphibians have been on [earth]{.b .blue} since the [Devonian]{.b .green} 
-    -   This is a long time
+::: {.column width="70%" .incremental}
 
-::: {.fragment .mt1}
-2.  Worldwide declines of [amphibians]{.b .orange} has only occurred in **our** lifetimes
-    -   This is not a long time
-:::
+ - Note
 
-::: {.fragment .mt1}
-3.  [Aquatic ecosystems]{.b .blue} are at highest risk
-    -   Amphibians form a link between the terrestrial and aquatic worlds
-:::
+ - Note
 
-::: {.fragment .mt1}
-4.  [Sentinel]{.b .gold} species like Foothill yellow-legged frogs integrate energy of ecosystems
-    - And can tell us much about the "health" of a system
-
-:::
+ - Note
+ 
 :::
 
 ::: {.column .tc .pv5 width="30%"}
 
-![](../img/rabo_eggs_sfy_dark.jpg){.br-100}
-
-![](../img/rabo_egg_mass_gos22.jpg){.br-100}
+![](../img/rabo_egg_mass_gos22.jpg)
 
 :::
 :::
@@ -79,6 +94,30 @@ Habitat: Adults
 ::: footer
 Habitat: Breeding
 :::
+
+::: notes
+Eggs Suitable Water Depths:
+ - 10-13 cm (Fitch 1936)
+ - 7-22 cm (Fuller and Lind 1992)
+ - 4-43 cm (Kupferberg 1996 & 1997)
+ - 6-28 cm (Van Wagner 1996)
+ - 6-40 cm (Lind 2005)
+ - Eggs: 90% found in 14-67 cm (Yarnell et al. 2011)
+
+Early Stage Tadpoles (90% within): 1-54 cm, Late Stage Tadpoles (90% within): 1-51 cm (Yarnell et al. 2011)
+ - Suitable Water Velocity:
+ - 0.0-0.06 m/s (Fuller and Lind 1992)
+ - 0.01-0.14 m/s (Kupferberg 1996 & 1997)
+ - 0.0-0.03 m/s (Van Wagner 1996)
+ - 0.00-0.21 m/s (Lind 2005)
+ - 0.04-0.17 m/s (Wheeler and Welsh 2008)
+ - Eggs: 90% found in 0.00-0.15 m/s (Yarnell et al. 2011)
+ - Early Stage Tadpoles (90% within): 0.00-0.16 m/s, Late Stage Tadpoles (90% within): 0.00-0.12 m/s (Yarnell et al. 2011)
+ - Critical velocities ranged from 0.01-0.04 m/s depending on developmental state, body size, and population of origin (Kupferberg et al. 2009c)
+Substrate: most common – cobbles and boulders, "clean" (no algae/sediment) surface for egg attachment (Kupferberg 1996 & 1997, Van Wagner 1996, Lind 2005, Wheeler et al. 2003)
+
+:::
+
 
 ## Rearing Habitat {.smaller}
 
@@ -102,7 +141,7 @@ Habitat: Breeding
 
 ::: {.column .tc .pv5 width="40%"}
 
-![](../img/rabo_eggs_sfy_dark.jpg){.br-100}
+![](../img/hab_tadpole.jpg)
 
 :::
 :::

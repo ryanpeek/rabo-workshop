@@ -35,102 +35,31 @@ editor_options:
 ![](../img/rabo_adult_dark_transparent.png){.absolute bottom=0 right=0 width=250}
 :::
 
-```{r setup}
-#| include: false
- 
-library(fontawesome)
-library(tidyverse)
-library(quarto)
-library(gt)
-library(gtExtras)
-library(gtsummary)
-# for fonts
-#library(showtext)
-#font_add_google("Jost", "Jost")
-#showtext_auto()
-#theme_set(theme_minimal(base_family = "Jost"))
 
-library(here)
-source(here("scripts/f_get_fonts.R"))
+## Frog Timeline
 
-# set fonts depending on system:
-font1 <- if(get_os()=="windows"){
-  "Century Gothic"
-} else {
-  "Atkinson Hyperlegible"
-}
-font2 <- "Roboto Condensed"
+- First described (Baird 1854)
+- Synopsis of Amphibia in CA (Storer 1925)
+- Full species detailed (Zweifel 1955)
+- Species of Special Concern (1994 Jennings and Hayes, CDFW)
+- Petition for Listing (2013? USFWS/CBD)
+- Status Review and Listing State ESA (2020)
+- Federal listing? (USFWS 2023)
 
-# load fonts
-f_get_fonts(font1, font2)
-
-# yellow for title slide: #FFF69F
-# yellow background: #ffe66b
-# blue for slide: #006791
-```
-
-```{r timer}
-#| echo: false
-
-library(countdown)
-countdown_timer <- function(
-    minutes = 1, 
-    play_sound = TRUE, 
-    font_size = "2em", 
-    ...
-) {
-  countdown(
-    minutes = minutes,
-    # Fanfare when it's over
-    play_sound = play_sound,
-    # Set timer theme to match solarized colors
-    color_border              = "#404041",
-    color_text                = "white",
-    color_background = "#447099",
-    color_running_background  = "#72994E",
-    color_running_text        = "white",
-    color_finished_background = "#EE6331",
-    color_finished_text       = "white",
-    font_size = font_size,
-    ...
-  )
-}
-```
-
-## Adult Habitat {.smaller}
-
-::: footer
-Habitat: Adults
-:::
-
-
-## Breeding Habitat {.smaller}
+## Legal Status
 
 ::: {.columns .pv4}
-::: {.column width="70%"}
-1.  Amphibians have been on [earth]{.b .blue} since the [Devonian]{.b .green} 
-    -   This is a long time
-
-::: {.fragment .mt1}
-2.  Worldwide declines of [amphibians]{.b .orange} has only occurred in **our** lifetimes
-    -   This is not a long time
-:::
-
-::: {.fragment .mt1}
-3.  [Aquatic ecosystems]{.b .blue} are at highest risk
-    -   Amphibians form a link between the terrestrial and aquatic worlds
-:::
-
-::: {.fragment .mt1}
-4.  [Sentinel]{.b .gold} species like Foothill yellow-legged frogs integrate energy of ecosystems
-    - And can tell us much about the "health" of a system
-
-:::
+::: {.column width="70%" .incremental}
+1. SSC means...
+2. State [ESA]{.b .blue} means...
+3. Federal [ESA]{.b .navy} means...
+4. Critical Habitat means...
+5. Recovery means...
 :::
 
 ::: {.column .tc .pv5 width="30%"}
 
-![](../img/rabo_eggs_sfy_dark.jpg){.br-100}
+{{< li xtkehzkm trigger=loop delay=3000 colors=secondary:#2a76dd class=rc >}}
 
 ![](../img/rabo_egg_mass_gos22.jpg){.br-100}
 
@@ -138,10 +67,10 @@ Habitat: Adults
 :::
 
 ::: footer
-Habitat: Breeding
+Status
 :::
 
-## Rearing Habitat {.smaller}
+## More Stuff {.smaller}
 
 ::: {.columns .pv4}
 ::: {.column width="60%"}
@@ -169,19 +98,15 @@ Habitat: Breeding
 :::
 
 ::: footer
-Habitat: Rearing
+Status
 :::
 
-## Overwintering Habitat {.smaller}
+## ESA {.smaller}
 
 ::: {.columns .pv4}
 ::: {.column width="70%" .incremental}
  
- - Very little data are available relating to overwintering habitat
- - Van Wagner (1996) observed *R. boylii* both in the water and along the stream-edge habitat beneath rocks, leaf litter, and Carex sp
- - Also found frogs appeared to be active whenever ambient conditions were favorable
- - Habitat use in large rivers may vary, juveniles & adults may move into smaller lateral tributaries to avoid risk of scouring (Kupferberg 1996)
- - Or move into adjacent terrestrial habitat to avoid winter flood events altogether.
+ - Review of things here
  
 :::
 ::: {.column .tc .pv4 width="30%"}
@@ -190,7 +115,7 @@ Habitat: Rearing
 :::
 
 ::: footer
-Habitat: Overwintering
+Status
 :::
 
 
@@ -203,9 +128,4 @@ Habitat: Overwintering
 ![](../img/rabo_juvenile_on_thumb.jpg){fig-alt="A frog rana boylii"}
 :::
 
-::: {.column width="40%"}
-::: fragment
-{{< qrcode https://github.com/ryanpeek/rabo_workshop_2023 qr1 width=450 height=450 colorDark='black' >}}
-:::
-:::
 :::

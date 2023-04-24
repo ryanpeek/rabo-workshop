@@ -55,7 +55,7 @@ editor_options:
 
 ::: {.column .tc .pv4 .relative width="45%"}
 
-![](../img/psre_multicolor.png){width=680}
+![](../img/psre_multicolor.jpg){width=680}
 
 :::
 :::
@@ -461,7 +461,7 @@ CRLF and NRLF can look similar
 
 ::: {layout="[[1,1]]"}
 
-![](../img/nrlf_adults.png)
+![](../img/nrlf_adults.jpg)
 
 
 ![](../img/lica_juvenile.png)

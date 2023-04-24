@@ -3,6 +3,7 @@ title: "Habitat"
 format:
   html:
     css: ../styles.css
+    code-link: false
 editor_options: 
   chunk_output_type: console
 ---
@@ -42,7 +43,7 @@ rb_sites <- read_csv(here("data/rb_sites_distinct.csv")) %>%
 
 #mapview::mapview(rb_sites) + mapview::mapview(rb_clades, zcol="Clade")
 
-leaflet() %>%
+map_l <- leaflet() %>%
   addTiles() %>%
   addProviderTiles("Esri.WorldImagery", group = "Aerial") %>%
   addProviderTiles("Esri.WorldTopoMap", group = "Topo") %>% 
@@ -63,6 +64,16 @@ leaflet() %>%
     overlayGroups = c("Sites", "Clades"),
     options = layersControlOptions(collapsed = T)) %>% 
   addFullscreenControl()
+
+```
+
+```{r mapl}
+#| echo: false
+#| eval: true
+#| message: false
+#| warning: false
+
+map_l
 
 ```
 
