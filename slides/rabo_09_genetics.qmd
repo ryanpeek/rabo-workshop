@@ -15,13 +15,13 @@ format:
     highlight-style: ayu-mirage
     code-link: false
     code-copy: true
-    pagetitle: "RABO Survey Methods"
+    pagetitle: "RABO Conservation Genetics"
     author-meta: "Ryan Peek"
     date-meta: "2023-05-09"
 ---
 
 ::: {.my-title}
-# [Survey]{.orange} [Methods]{.blue}
+# [Conservation]{.purple} [Genetics]{.blue}
 
 ::: {.my-grey}
 [Ryan Peek | 2023-05-09]{}<br />
@@ -187,6 +187,44 @@ Overview
 Overview
 :::
 
+## Life History I {.smaller background-color="black"}
+
+::: {.columns .pv4}
+::: {.column .pr4 width="70%"}
+
+#### The Basics
+
+1. Adults breed in the spring ([*amplexus*]{.yellow})
+3. Females pick oviposition location
+4. External fertilization, egg masses ~2-3 weeks
+5. After hatching tadpoles cannot swim or often see
+6. Sink to bottom for 5 days, typically jet black
+7. Tadpoles require 2.5 months 18C or greater
+8. Metamorphosis in late summer/fall
+
+:::
+
+::: {.column width="30%"}
+
+![](../img/rabo_egg_mass_gos22.jpg)
+
+:::
+:::
+
+::: aside
+*Note:* There is a great amount of plasticity depending on the region and habitat.
+:::
+
+
+## *Rana boylii* Calling
+
+<!-- youtube: https://www.youtube.com/embed/MmSPTZVqTG0-->
+
+  {{< video https://www.youtube.com/embed/MmSPTZVqTG0
+          title="Rana boylii calling"
+          width="100%" height="80%" >}}
+
+
 
 
 ## Resources {.smaller}
@@ -218,28 +256,4 @@ Overview
 Resources
 :::
 
-# Decontamination {background-color="#111111"}
 
-## Decon {.smaller}
-
-::: {.columns .pv4}
-::: {.column width="47%" .incremental}
- - Decontamination between and after sites is [critical]{.b .orange}
- - Before leaving a field site, thoroughly remove all organic matter (i.e., mud, algae, plants) from nets, sampling gear, boots/boot tread
- - Be especially cognizant of gear that came into contact with water or aquatic sediments
- 
-:::
-
-::: {.column .tc .pv5 width="48%"}
- 1. Pre-rinse with water before cleaning with solution
- 2. Clean with solution using appropriate dilution
- 3. Allow solution to sit for necessary time
- 4. Rinse off using hot water
- 5. Wear appropriate PPE
-
-:::
-:::
-
-::: footer
-Resources
-:::

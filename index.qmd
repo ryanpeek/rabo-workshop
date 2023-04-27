@@ -15,7 +15,7 @@ Developed and taught by [Ryan Peek](https://github.com/ryanpeek), Sarah Kupferbe
 
 ::: {layout-ncol=2}
 
-![A frog in the hand is worth...](img/IMGP0778.jpg){fig-align="left" width=400}
+![A frog in the hand is worth...](img/rabo_in_hand.jpg){fig-align="left" width=400}
 
 ![Tidy datasheet](img/artsy_datasheet_rabo.jpg){fig-align="right" width=400}
 :::

@@ -17,7 +17,7 @@ format:
     code-link: false
     code-copy: true
     pagetitle: "RABO Status"
-    author-meta: "Ryan Peek"
+    author-meta: "Marcia Grefsrud"
     date-meta: "2023-05-09"
     footer: "[RABO Workshop 2023](http://www.elkhornsloughctp.org/training/show_train_detail.php?TRAIN_ID=Ec66CMJ)"
 editor_options: 
@@ -29,22 +29,11 @@ editor_options:
 
 ::: {.my-grey}
 [Status | 2023-05-09]{}<br />
-[Ryan Peek | Elkhorn Slough CTP]{}
+[Marcia Grefsrud | Elkhorn Slough CTP]{}
 :::
 
 ![](../img/rabo_adult_dark_transparent.png){.absolute bottom=0 right=0 width=250}
 :::
-
-
-## Frog Timeline
-
-- First described (Baird 1854)
-- Synopsis of Amphibia in CA (Storer 1925)
-- Full species detailed (Zweifel 1955)
-- Species of Special Concern (1994 Jennings and Hayes, CDFW)
-- Petition for Listing (2013? USFWS/CBD)
-- Status Review and Listing State ESA (2020)
-- Federal listing? (USFWS 2023)
 
 ## Legal Status
 
@@ -70,47 +59,20 @@ editor_options:
 Status
 :::
 
-## More Stuff {.smaller}
-
-::: {.columns .pv4}
-::: {.column width="60%"}
--   This is a broad overview of the most current information about this **amazing** species
-
-::: {.fragment .mt1}
--   We don't expect you all to be experts at the end, but rather, learn "[where to look...]{.b .blue}"
-:::
-
-::: {.fragment .mt1}
--   Through [lectures]{.b .blue} and [field time]{.b .green}, you will learn the life history, breeding ecology, and habitat use of this species
-:::
-
-::: {.fragment .mt1}
--   Field attendees will get direct [experience]{.b .green} doing surveys and evaluating habitat, as well as conducting egg mass surveys
-:::
-
-:::
-
-::: {.column .tc .pv5 width="40%"}
-
-![](../img/rabo_eggs_sfy_dark.jpg){.br-100}
-
-:::
-:::
-
-::: footer
-Status
-:::
-
-## ESA {.smaller}
+## Frog Timeline
 
 ::: {.columns .pv4}
 ::: {.column width="70%" .incremental}
- 
- - Review of things here
- 
+
+- First described (Baird 1854)
+- Synopsis of Amphibia in CA (Storer 1925)
+- Full species detailed (Zweifel 1955)
+- Species of Special Concern (1994 Jennings and Hayes, CDFW)
+
 :::
-::: {.column .tc .pv4 width="30%"}
-{{< li xtkehzkm trigger=loop delay=3000 colors=secondary:#2a76dd class=rc >}}
+::: {.column width="30%"}
+
+![*Storer 1925*](../img/storer_1925_frog_plate_12.jpg){fig-align="center"}
 :::
 :::
 
@@ -118,13 +80,471 @@ Status
 Status
 :::
 
+## Frog Timeline
 
-# CONSERVATION
+- Petition for State Listing (2016 Center for Biological Diversity)
+- Status Review 
+- Fish and Game Commission vote to advance to candidacy June 21, 2017
+- Jul 7, 2017, [**projects within foothill yellow-legged frog habitat need authorization for take**]{.dark-blue} if take could not be avoided
+- Federal ESA listing expected June 15 (USFWS 2023)
 
-## Permits {background-color="gray80"}
 
-::: columns
-::: column
+::: footer
+Status
+:::
+
+##  DFW Listing Status {.smaller .r-stretch background-image="../img/clade_dfw_boundaries.jpg"  background-size="49%" background-position="right"}
+
+::: {.columns .pv4}
+::: {.column width="50%" .incremental}
+
+ - CDFW evaluated whether listing the species was warranted for six unique genetic clades.
+ - December 11, 2019 FGC made a finding pursuant to California Fish and Game Code Section 2075.5, in response to the petition
+
+:::
+::: {.column width="50%"}
+
+:::
+
+:::
+
+::: footer
+CDFW Status
+:::
+
+## North Coast (NW) {.smaller background-image="../img/clade_dfw_north_coast.jpg"  background-size="48%" background-position="right"}
+
+ - Listing not warranted at this time
+
+::: footer
+CDFW Status
+:::
+
+
+## Feather River {.smaller background-image="../img/clade_dfw_feather.jpg"  background-size="48%" background-position="right"}
+
+ - **Threatened**
+
+::: footer
+CDFW Status
+:::
+
+
+## North Sierra (NE) {.smaller background-image="../img/clade_dfw_north_sierra.jpg"  background-size="48%" background-position="right"}
+
+ - **Threatened**
+
+::: footer
+CDFW Status
+:::
+
+
+## Southern Sierra (E) {.smaller background-image="../img/clade_dfw_south_sierra.jpg"  background-size="48%" background-position="right"}
+
+ - [**Endangered**]{.dark-red}
+
+::: footer
+CDFW Status
+:::
+
+
+## Central Coast (W) {.smaller background-image="../img/clade_dfw_central_coast.jpg"  background-size="48%" background-position="right"}
+
+ - [**Endangered**]{.dark-red}
+
+::: footer
+CDFW Status
+:::
+
+
+## South Coast (SW) {.smaller background-image="../img/clade_dfw_south_coast.jpg"  background-size="48%" background-position="right"}
+
+ - [**Endangered**]{.dark-red}
+
+::: footer
+CDFW Status
+:::
+
+
+##  Federal Petition 
+
+ - July 11, **2012**, CBD petitioned to list 53 species of reptiles and amphibians as endangered or threatened under the ESA.
+    - [**included the foothill yellow-legged frog**]{.orange}
+ - July 1, **2015**, FWS found that listing may be warranted
+ - August 30, **2016**, settlement agreement complete findings, later extended to December 2021
+
+::: footer
+USFWS Status
+:::
+
+
+##  Distinct Population <br>Segments (DPS) {.smaller background-image="../img/clade_usfws_all.jpg"  background-size="50%" background-position="right"}
+
+
+::: {.columns .pv4}
+::: {.column width="50%" .incremental}
+
+ - USFWS also determined that the foothill yellow-legged frog is comprised of six entities
+ - North Coast, Central Coast, South Coast, North Feather, North Sierra, and South Sierra are both discrete and significant under DPS Policy
+:::
+:::
+
+::: footer
+USFWS Status
+:::
+
+
+## Federal Proposal {.smaller background-image="../img/clade_usfws_all_w_boundaries.png"  background-size="50%" background-position="right"}
+
+::: {.columns .pv4}
+::: {.column width="50%" .incremental}
+
+ - North Coast and North Sierra not warranted at this time
+    - _**CDFW determined the Northeast Sierra/Northern Sierra to be threatened**_
+ - FWS maps follow historic range
+ - Critical habitat has not been determined (likely Fall 2023)
+:::
+:::
+
+::: footer
+USFWS Status
+:::
+
+
+## North Feather DPS {.smaller background-image="../img/clade_usfws_nsierra-feather.png"  background-size="48%" background-position="right"}
+
+::: {.columns .pv4}
+::: {.column width="50%" .incremental}
+
+ - **Threatened**
+ - includes proposed 4(d) Rule
+:::
+:::
+
+::: footer
+USFWS Status
+:::
+
+## CDFW Comparison to USFWS {.smaller}
+
+::: {.columns .pv4}
+::: {.column width="49%"}
+[**Endangered**]{.dark-red}
+![](../img/clade_dfw_feather.jpg)
+:::
+
+::: {.column width="49%"}
+[**Endangered**]{.dark-red}
+![](../img/clade_usfws_nsierra-feather.png){fig-width="92%"}
+:::
+:::
+
+::: footer
+USFWS Status
+:::
+
+## Southern Sierra DPS {.smaller background-image="../img/clade_usfws_ssierra.jpg"  background-size="48%" background-position="right"}
+
+::: {.columns .pv4}
+::: {.column width="50%" .incremental}
+
+ - [**Endangered**]{.dark-red}
+ 
+:::
+:::
+
+::: footer
+USFWS Status
+:::
+
+
+## CDFW Comparison to USFWS {.smaller}
+
+::: {.columns .pv4}
+::: {.column width="49%"}
+[**Endangered**]{.dark-red}
+![](../img/clade_dfw_south_sierra.jpg)
+:::
+
+::: {.column width="49%"}
+[**Endangered**]{.dark-red}
+![](../img/clade_usfws_ssierra.jpg){fig-width="92%"}
+:::
+:::
+
+::: footer
+USFWS Status
+:::
+
+
+## South Coast DPS {.smaller background-image="../img/clade_usfws_scoast.jpg"  background-size="48%" background-position="right"}
+
+::: {.columns .pv4}
+::: {.column width="50%" .incremental}
+
+ - [**Endangered**]{.dark-red}
+ 
+:::
+:::
+
+::: footer
+USFWS Status
+:::
+
+
+## CDFW Comparison to USFWS {.smaller}
+
+::: {.columns .pv4}
+::: {.column width="49%"}
+[**Endangered**]{.dark-red}
+![](../img/clade_dfw_south_coast.jpg)
+:::
+
+::: {.column width="49%"}
+[**Endangered**]{.dark-red}
+![](../img/clade_usfws_scoast.jpg){fig-width="92%"}
+:::
+:::
+::: footer
+USFWS Status
+:::
+
+
+## Central Coast DPS {.smaller background-image="../img/clade_usfws_ccoast.jpg"  background-size="40%" background-position="right"}
+
+::: {.columns .pv4}
+::: {.column width="50%" .incremental}
+
+ - **Threatened**
+ 
+:::
+:::
+
+::: footer
+USFWS Status
+:::
+
+
+## CDFW Comparison to USFWS {.smaller}
+
+::: {.columns .pv4}
+::: {.column width="49%"}
+**Threatened**
+![](../img/clade_dfw_central_coast.jpg)
+:::
+
+::: {.column width="49%"}
+
+**Threatened**
+
+![](../img/clade_usfws_ccoast.jpg){width=120%}
+:::
+:::
+
+::: footer
+USFWS Status
+:::
+
+## 4(d) Proposal Exceptions
+
+ - This proposed 4(d) rule would provide **exceptions to “take” prohibitions**, such as: 
+    - forest management actions for the purpose of reducing the risk or severity of catastrophic wildfires and protecting stream habitat,
+    - removal and restoration of trespass cannabis cultivation sites as approved by the Service
+    - Non-native species removal
+
+::: footer
+4(d)
+:::
+
+
+## "*Take*"
+
+ > Fish & Game code section 86: 'take' defined as hunt, pursue, catch, capture, or kill or attempt to hunt, pursue, catch, capture, or kill.
+ 
+ - _**“take”**_ is prohibited unless authorized by CDFW pursuant to Fish and Game Code section 2080.1, 2081, subdivision (a) or (b), 2089.6, or 2835, or by the Commission pursuant to Fish and Game Code section 2084.
+
+::: footer
+Take
+:::
+
+
+## CA Take Authorization Types {.smaller}
+
+ - **Incidental take permit** (ITP; Fish & G. Code § 2081, subd. (b); Cal. Code Regs., tit. 14, §§ 783.2-783.8)
+ - **Consistency determination** if federal incidental take has been authorized (CD; Fish & G. Code, § 2080.1)
+ - **Safe harbor agreement** (SHA; Id., § 2089.6)
+ - **Natural community conservation plan** (NCCP; Id., § 2835)
+ - Take authorization issued pursuant to CESA requires project- and species-specific avoidance and minimization measures, as well as full mitigation for project related impacts
+
+::: footer
+Take
+:::
+
+
+## Federal Take Authorization
+
+ - **ESA Section 7** Biological Opinion- regulates federal government actions
+ - **ESA Section 10** Habitat Conservation Plans (HCPs)
+ - **Safe Harbor** Agreement
+
+::: footer
+Take
+:::
+
+
+## Projects & Permitting
+
+ - Most projects in FYLF habitat will require a Streambed Alteration Agreement (SAA)
+ - SAA does not provide take coverage
+ - If the project is in one of the listed clades and within habitat suitable for FYLF appropriate take coverage should be obtained.  
+
+![](../img/peek_swirl.png){fig-align="center"}
+
+::: footer
+Permitting
+:::
+
+
+## Project Considerations
+
+::: {.columns .pv4}
+::: {.column width="49%"}
+
+**Avoidance**
+
+:::{.f2}
+ - Conduct activity during dry conditions
+ - Use exclusion fencing to isolate project area or activities
+ - Provide refuge opportunities
+ - No ground disturbance
+ - Buffers along potential/connected habitats
+:::
+
+:::
+
+::: {.column width="49%"}
+![](../img/rabo_fencing.jpg)
+
+:::
+:::
+
+::: footer
+Permitting
+:::
+
+
+## Project Considerations {.smaller background-image="../img/rabo_tads_small.jpg"  background-size="44%" background-position="left"}
+
+::: {.columns .pv4}
+::: {.column width="49%"}
+:::
+
+::: {.column width="49%"}
+
+**Weekly egg mass surveys**
+
+ - Egg clutch relocation
+    - Best option to reduce mortality if instream work must occur prior to metamorphose or stream drying
+    - Easier to move intact clutch than partially or fully hatched
+    - Clutch with rock in bucket. 2-3 clutches/bucket
+    - Distribute clutches upstream
+    - If egg mass becomes dislodged use flow through bucket or laundry basket
+:::
+:::
+
+::: footer
+Permitting
+:::
+
+
+## Hatching Baskets
+
+If egg mass becomes dislodged, place in flow through bucket/laundry basket and anchor in streambed.
+
+::: {.columns .pv4}
+::: {.column width="49%"}
+
+![](../img/rabo_laundry_baskets.jpeg)
+:::
+
+::: {.column width="49%"}
+
+![](../img/rabo_laundry_baskets_vert.png)
+:::
+:::
+
+::: footer
+Permitting
+:::
+
+## Newly Hatched Tadpoles
+
+![](../img/rabo_laundry_baskety_inside.jpg)
+
+::: footer
+Permitting
+:::
+
+## Additional Measures
+
+ - Decontaminate equipment and gear that may become wet
+ - Diversion screening
+ - Qualified biologist onsite for clearing and grubbing phases
+ - Look under rocks, reach under overhanging banks
+
+::: footer
+Permitting
+:::
+
+## Compensatory Migration Example
+
+ - Must meet full mitigation requirement
+ - Creation/enhancement & long-term management of RABO breeding habitat and non-breeding habitat
+ - Conservation in perpetuity
+
+::: footer
+Permitting
+:::
+
+## Breeding Habitat Creation/Enhancement & Long Term Management {.smaller}
+
+ 1. Obtain CDFW written approval of the proposed RABO breeding habitat and non-breeding habitat
+ 2. Prepare a RABO Breeding Habitat Enhancement/Creation & Long-Term Management Plan
+ 3. Submit to CDFW for review and approval within 120 days of the issuance of this Amendment
+    - The Plan may incorporate a range of actions and may include invasive species management, opening the canopy to enhance RABO breeding habitat, planting riparian trees along tributary reaches, creating pool habitat in tributary reaches, or a combination of actions
+    - The Plan shall include a minimum of 10 years of monitoring and shall include success criteria for created/enhanced elements  
+		
+		
+::: footer
+Permitting
+:::
+
+## Breeding Habitat Creation/Enhancement & Long Term Management {.smaller}
+
+ 4. Provide a recent preliminary title report, initial hazardous materials survey report, (or other reports approved by CDFW that provide similar information) and other necessary documents for the RABO Habitat Plan.
+ 5. If, after a minimum of 3 breeding seasons, the analysis and monitoring at the Project site shows RABO breeding within the Project Area is not successful or has declined relative to control locations, then:
+    - Permittee shall enhance/create additional breeding habitat and an amendment to the permit shall be required.
+
+::: footer
+Permitting
+:::
+
+## Future Management Goals
+
+::: {.columns .pv4}
+::: {.column width="65%"}
+
+ - Require frog-friendly flow regimes
+ - Restore degraded habitat
+ - Eradicate invasive predators
+ - Restrict pesticide use
+ - Mitigate cannabis cultivation impacts
+ - Prevent future habitat loss
+ - Re-establishing extirpated population
+
+:::
+
+::: {.column width="35%"}
 ![](../img/rabo_juvenile_on_thumb.jpg){fig-alt="A frog rana boylii"}
 :::
 

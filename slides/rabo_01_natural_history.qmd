@@ -598,7 +598,7 @@ Natural History: Species ID
 Natural History: Eggs
 :::
 
-## Tadpoles {background-image="../img/storer_tadpoles.png" background-size="contain" background-position="right" background-opacity="0.95"}
+## Tadpoles {background-image="../img/storer_1925_tadpoles.png" background-size="contain" background-position="right" background-opacity="0.95"}
 
 ::: incremental
 

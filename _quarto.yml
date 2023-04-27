@@ -30,7 +30,7 @@ website:
             href: slides/D1_rabo_03.qmd
           - text: "Habitat"
             href: slides/D1_rabo_04.qmd
-          - text: "Breeding Timing"
+          - text: "Climate & Phenology"
             href: slides/D1_rabo_05.qmd
           - text: "Ecology"
             href: slides/D1_rabo_06.qmd
@@ -38,10 +38,8 @@ website:
             href: slides/D1_rabo_07.qmd
           - text: "Conservation"
             href: slides/D1_rabo_08.qmd
-          - text: "Decon"
+          - text: "Genetics"
             href: slides/D1_rabo_09.qmd
-          - text: "Conservation"
-            href: slides/D1_rabo_10.qmd
             
             
       - icon: github

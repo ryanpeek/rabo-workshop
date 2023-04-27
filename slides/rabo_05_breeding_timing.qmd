@@ -15,13 +15,13 @@ format:
     highlight-style: ayu-mirage
     code-link: false
     code-copy: true
-    pagetitle: "RABO Breeding Timing"
+    pagetitle: "RABO Climate Phenology"
     author-meta: "Ryan Peek"
     date-meta: "2023-05-09"
 ---
 
 ::: {.my-title}
-# [Breeding Timing]{.orange} and [Plasticity]{.blue}
+# [Climate]{.orange} and [Phenology]{.blue}
 
 ::: {.my-grey}
 [Ryan Peek | 2023-05-09]{}<br />

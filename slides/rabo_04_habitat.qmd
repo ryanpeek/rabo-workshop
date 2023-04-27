@@ -10,7 +10,7 @@ format:
     history: true
     hash-type: number
     logo: ../img/rabo_icon_color.png
-    theme: default
+    theme: [default, ../rabo.scss]
     code-block-background: true
     highlight-style: ayu-mirage
     code-link: false
