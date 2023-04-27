@@ -38,9 +38,6 @@ website:
             href: slides/D1_rabo_07.qmd
           - text: "Conservation"
             href: slides/D1_rabo_08.qmd
-          - text: "Genetics"
-            href: slides/D1_rabo_09.qmd
-            
             
       - icon: github
         href: https://www.github.com/ryanpeek/rabo-workshop
