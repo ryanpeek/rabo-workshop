@@ -86,6 +86,88 @@ Snorkeling<br />
 Overview
 :::
 
+## {background-image="../img/farside_preserves.jpg"  background-size="70%" background-position="center"}
+
+::: notes
+
+There is a balance in how we document, catalog, and observe wildlife. Nature is messy and it can be difficult to detail the pieces of interest. But consistent methods provide a framework we can use to compare and contrast our observations.
+
+:::
+
+## What is the objective? {.smaller}
+
+![](../img/survey_flow_chart.png)
+
+::: {.columns .pv4}
+::: {.column width="24%" .tc .fragment}
+Long-term monitoring of reproduction
+:::
+::: {.column width="24%" .fragment}
+Restoration sites: 
+
+ - Recolonization
+ - Persistence of restored habitat
+
+:::
+::: {.column width="24%" .fragment}
+Oviposition relative to flow and temperature
+:::
+::: {.column width="24%" .fragment}
+Development of larvae at different thermal regimes
+:::
+:::
+
+## Life Cycle {.smaller}
+
+::: {.r-stack}
+
+![](../img/nfa_2019_usgs_01_adults.jpg){.fragment fig-align="center"}
+
+![](../img/nfa_2019_usgs_02_amplexus.jpg){.fragment fig-align="center"}
+
+![](../img/nfa_2019_usgs_03_eggs_tads.jpg){.fragment fig-align="center"}
+
+![](../img/nfa_2019_usgs_04_metamorph.jpg){.fragment fig-align="center"}
+:::
+
+## Timing of Surveys 
+
+::: {.columns .pv4}
+::: {.column width="50%" .incremental}
+
+ - **Monitor local conditions**
+    - [River stage/discharge]{.blue} (CDEC, USGS)
+    - Storm forecasts
+    - [Water and air temperatures]{.red}
+ - **Compare with activity at reference sites**
+:::
+
+::: {.column width="50%"}
+
+![](../img/usgs_daily_flow_map.png){.fragment fig-align="right" width=90%}
+
+:::
+
+:::
+
+## Timing of Surveys {.smaller}
+
+![](../img/nfa_2019_usgs_w_median.jpg){.r-stretch fig-align="center"}
+
+## Visual Surveys (VES) {.smaller}
+
+::: {.columns .pv4}
+::: {.column width="60%" .incremental}
+
+ - Timing of surveys crucial to quantify effort
+ - Provides information on time-to-detection
+:::
+
+::: {.column width="40%" .incremental}
+
+![](../img/)
+:::
+
 ## References {.smaller}
 
 ::: {.columns .pv4}
@@ -136,88 +218,6 @@ Definitions
 :::
 
 
-## Workshop Roadmap {.smaller}
-
-::: {.columns .pv4}
-::: {.column width="30%" .incremental}
- 
- - Natural and Unnatural History
- - Breeding Timing & Plasticity
- - Status Review and Listing
-
- 
-:::
-::: {.column width="30%" .incremental}
- 
- - Habitat
- - Basic Ecology
- - Survey Methods
- - Conservation
- 
-:::
-::: {.column .tc .pv4 width="40%"}
-{{< li xtkehzkm trigger=loop delay=3000 colors=secondary:#2a76dd class=rc >}}
-:::
-:::
-
-::: footer
-Overview
-:::
-
-## Workshop Etiquette {.smaller}
-
-::: {.columns .pv4}
-::: {.column width="60%"}
-#### [Things to Do]{.green}
-
-::: {.incremental}
--   Act respectfully
--   Ask for help in chat or "raise hand"
--   Turn your camera on or off as desired
--   Please mute yourself when not speaking
-:::
-:::
-
-::: {.column .tc .pv5 width="40%"}
-{{< li syzdvjlt trigger=loop delay=3000 colors=secondary:#2a76dd class=rc >}}
-:::
-:::
-
-::: footer
-Overview
-:::
-
-
-
-## Resources {.smaller}
-
-::: {.columns .pv4}
-::: {.column width="60%"}
--   Here are some additional resources about the topic [TOPIC]{.b .green}
-    -   How we store and organize data
-    -   Templates for field data collection
-
-::: {.fragment .mt1}
--   Some links or survey stuff here
-    1.  Survey VES sheet
-    2.  Survey Habitat sheet
-:::
-
-::: {.fragment .mt1}
--   Summary statement [about surveys for frogs]{.b .blue}
-    -   Frogs are **X** and also can be **Y**
-:::
-:::
-
-::: {.column .tc .pv5 width="40%"}
-{{< li mgtgkkcb trigger=loop delay=3000 colors=secondary:#2a76dd class=rc >}}
-:::
-:::
-
-::: footer
-Resources
-:::
-
 # Decontamination {background-color="#111111"}
 
 ## Decon {.smaller}
@@ -225,21 +225,51 @@ Resources
 ::: {.columns .pv4}
 ::: {.column width="47%" .incremental}
  - Decontamination between and after sites is [critical]{.b .orange}
- - Before leaving a field site, thoroughly remove all organic matter (i.e., mud, algae, plants) from nets, sampling gear, boots/boot tread
+ - Before leaving a field site, thoroughly remove all organic matter (i.e., mud, algae, plants) from nets, sampling gear, boots/boot tread, clothing
  - Be especially cognizant of gear that came into contact with water or aquatic sediments
  
 :::
 
-::: {.column .tc .pv5 width="48%"}
+::: {.column .tc .pv5 width="10%" .incremental}
+:::
+
+::: {.column .tc .pv5 width="43%" .incremental}
+
+::: fragment
+**Decon Steps**
+:::
+
  1. Pre-rinse with water before cleaning with solution
- 2. Clean with solution using appropriate dilution
- 3. Allow solution to sit for necessary time
+ 2. Clean with solution using appropriate dilution (Bleach, Quat)
+ 3. Allow solution to sit for necessary time (depends on treatment)
  4. Rinse off using hot water
  5. Wear appropriate PPE
 
 :::
+
 :::
 
 ::: footer
-Resources
+Decon
 :::
+
+## Decon Options {.smaller}
+
+![](../img/decon_chart_options.jpg){.r-stretch fig-align="center"}
+
+## Decon: Bleach {.smaller}
+
+ - [**Bleach at 1:32 concentration**]{.orange} works well, though hard on gear
+ - breaks down quickly in environment, need fresh batch each time
+
+![](../img/dilution_table_bleach.jpg){fig-align="center"}
+
+
+## Decon Resources {.smaller}
+
+PARC has a nice overview [pdf](http://www.northeastparc.org/products/pdfs/NEPARC_Pub_2014-02_Disinfection_Protocol.pdf): 
+
+ - [http://www.northeastparc.org/products/pdfs/NEPARC_Pub_2014-02_Disinfection_Protocol.pdf](http://www.northeastparc.org/products/pdfs/NEPARC_Pub_2014-02_Disinfection_Protocol.pdf)
+ 
+
+![](../img/parc_decon_sheet.png){fig-align="center"}  
