@@ -34,11 +34,144 @@ format:
 
 :::
 
+## [*Rana boylii* Habitat]{.light-yellow} {background-image="../img/hab_nfy_bar.jpg" background-size="cover" background-position="center" background-color="#000000"}
+
+
+## [*Rana boylii* Habitat]{.light-yellow} {background-image="../img/hab_nfy_bar.jpg" background-size="cover" background-position="center" background-color="#000000" background-opacity=50%}
+
+::: {.incremental}
+ - [Habitat Characteristics]{.f1}
+    - Microhabitat, reach-scale, heterogeneity
+ - [Life Stage Hydrologic Requirements]{.f1}
+    - Spring breeding (flow & temp cues)
+    - Summer rearing (flow & temp stability)
+ - [Regulated River Impacts]{.f1}
+    - Effects of altered flow regimes on early lifestages
+:::
+
+## Microhabitat
+
+> Physical habitat variables measured at each frog
+
+ - [*Quantitative*]{.purple}: local velocity, depth, channel width
+ - [*Categorical*]{.purple}: dominant substrate, cover, geomorphic unit, hydraulic unit, reach type, riparian type
+
+::: {.fragment}
+![](../img/habitat_breeding_rabo.jpg){.absolute left=0 bottom=0 width=30%}
+
+![](../img/hab_campck02.jpg){.absolute right=0 bottom=0 width=30%}
+:::
+
+## Microhabitat Associations 
+
+:::{.incremental}
+ - While RABO use a wide array of habitat, local hydraulic conditions are main physical control on breeding and rearing habitat
+ - Egg and tadpoles are susceptible to scour / dessication from high velocities or stage drops
+ - Predictability and variability (heterogeneity) are important
+:::
+
+## Habitat Suitability Criteria {.smaller}
+
+::: {.columns .pv4}
+
+::: {.column .pr4 width="40%" .incremental}
+
+ - Use vs. Available habitat clearly shows preference for low-velocity/depth
+
+ - 90% of eggs observed in Sierras were in shallow, sheltered waters (n=147) (Bondi et al. 2013)
+    - < 0.67 m total depth
+    - < 0.15 m/s velocity
+
+:::
+
+::: {.column .pr4 width="60%"}
+
+::: {.r-stack .incremental}
+
+::: {.fragment}
+![Bondi et al. 2013](../img/bondi_et_al_2013_hsc_pts.jpg){fig-align="center"}
+:::
+
+::: {.fragment}
+![](../img/bondi_et_al_2013_hsc_curves.jpg){fig-align="center"}
+:::
+
+:::
+:::
+:::
+
+## Mesohabitat Use 
+
+![](../img/breeding_habitat_diagram.png)
+
+::: {.columns}
+
+::: {.column .pr4 width="45%"}
+
+**Low survival site** <br>(low *width:depth* ratio)
+
+:::
+::: {.column .pr4 width="10%"}
+:::
+::: {.column .pr4 width="45%"}
+
+**High survival site** <br>(large *width:depth* ratio)
+
+:::
+:::
+
+::: footer
+Modified from S.Kupferberg, 1996
+:::
+
+## Reach Heterogeneity
+
+::: {.columns}
+
+::: {.column .pr4 width="45%"}
+
+ - Compared 10 study reaches, Shannons Diversity Index key predictor of frog abundance (Yarnell 2008)
+ - Habitat diversity within a reach matters
+
+:::
+::: {.column .pr4 width="55%"}
+![Yarnell 2008](../img/yarnell_2008_shannons.png){fig-align="center"}
+:::
+:::
+
+## River Network Heterogeneity {.smaller background-image="../img/azimuth_inset_map_nfamerican.png" background-size="cover" background-color="#000000"}
+
+## Network Heterogeneity {.smaller background-image="../img/peek_2010_conf_fig.png" background-size="50%" background-position="right" background-color="#000000"}
+
+::: {.columns}
+
+::: {.column .f2 .pr4 width="45%" .incremental}
+
+ - Not only does the diversity of habitats within a reach matter, but the location of the reach within the stream network matters. 
+ - Frogs occur closer to confluences than random or “expected” (Peek 2010)
+ - Confluences are known to have higher diversity of habitats and create refugia
+
+:::
+
+:::
+
+::: notes
+
+Frogs associate with stream reaches of greater physical habitat heterogeneity
+
+Analysing the complexity of geomorphic units at the reach scale is appropriate for this species
+
+:::
+
 ## Adult Habitat {.smaller}
+
+::: {.incremental}
 
  - Most common along pool, glide, or riffles (Lind and Yarnell 2008, Bourque 2008, Haggarty 2006, Yarnell 2005, Van Wagner 1996, Lind 2005)
  - Near stream cover may include wide array from shoreline rocks (especially cobble), to leaf litter, or overhanging vegetation [e.g. Carex sp.] (Bourque 2008, Haggarty 2006, Yarnell 2005, Hayes and Jennings 1988, Van Wagner 1996)
  - Adults may prefer some riparian overhanging vegetation (e.g. Carex sp.) with moderate shade (Van Wagner 1996, Zweifel 1955, Moyle 1973, Hayes and Jennings 1988)
+
+:::
 
 <br>
 [**So pretty much all the possibilities!**]{.tc .f1 .blue .fragment}
