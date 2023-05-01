@@ -34,6 +34,7 @@ format:
 
 :::
 
+
 ## [*Rana boylii* Habitat]{.light-yellow} {background-image="../img/hab_nfy_bar.jpg" background-size="cover" background-position="center" background-color="#000000"}
 
 
@@ -41,12 +42,12 @@ format:
 
 ::: {.incremental}
  - [Habitat Characteristics]{.f1}
-    - Microhabitat, reach-scale, heterogeneity
+    - Microhabitat [| Mesohabitat]{.fragment .fade-in} [| Reach-scale]{.fragment} [| Heterogeneity]{.fragment}
  - [Life Stage Hydrologic Requirements]{.f1}
-    - Spring breeding (flow & temp cues)
-    - Summer rearing (flow & temp stability)
+    - [Breeding (flow & temp cues)]{.fragment .fade-in} [| Rearing (food & flow)]{.fragment .fade-in}
  - [Regulated River Impacts]{.f1}
-    - Effects of altered flow regimes on early lifestages
+    - Altered flow regimes on early lifestages
+    - Case Study: Tuolumne
 :::
 
 ## Microhabitat
@@ -62,6 +63,11 @@ format:
 ![](../img/hab_campck02.jpg){.absolute right=0 bottom=0 width=30%}
 :::
 
+::: footer
+Microhabitat
+:::
+
+
 ## Microhabitat Associations 
 
 :::{.incremental}
@@ -69,6 +75,11 @@ format:
  - Egg and tadpoles are susceptible to scour / dessication from high velocities or stage drops
  - Predictability and variability (heterogeneity) are important
 :::
+
+::: footer
+Microhabitat
+:::
+
 
 ## Habitat Suitability Criteria {.smaller}
 
@@ -100,6 +111,11 @@ format:
 :::
 :::
 
+::: footer
+Microhabitat
+:::
+
+
 ## Mesohabitat Use 
 
 ![](../img/breeding_habitat_diagram.png)
@@ -124,6 +140,243 @@ format:
 Modified from S.Kupferberg, 1996
 :::
 
+## Mesohabitat Use {.smaller}
+
+![](../img/van_wagner_1996.png){fig-align="center" width=800}
+
+ - As conditions shift seasonally, so do life stages and channel habitat use (Van Wagner 1996)
+
+::: footer
+Van Wagner 1996
+:::
+
+
+
+## Reach Scale: Channel Shapes {.smaller}
+
+::: {.columns .pv4}
+
+::: {.column .pr4 width="70%" .incremental}
+
+![**Broad**](../img/yarnell_broad_channel_shape.png){.r-stretch width=90%}
+
+![**Alternating**](../img/yarnell_alternating_channel_shape.png){.r-stretch width=90%}
+
+:::
+
+::: {.column .pr4 width="30%"}
+![**Confined**](../img/yarnell_confined_channel_shape.png)
+
+ - Breeding typically in wide shallow cross sections in larger stream
+ - Associations different by stream order, region, and hydrology
+ 
+:::
+:::
+
+::: footer
+Yarnell 2000
+:::
+
+::: notes
+
+ - From YUBA: YOY and juveniles associated with alternating channel types (shallow at high flows, deeper at low flows), adult in pools year-round (Yarnell 2000)
+
+:::
+
+## Channel Shape: <br>Stream Order {.smaller background-image="../img/skunk_gulch_MFA.jpg" background-size="contain" background-position="right" background-color="#000000"}
+
+::: {.columns}
+
+::: {.column .pr4 width="55%" .fragment}
+
+<br>
+
+![NF American](../img/hab_nfa_bar.jpg)
+
+:::
+
+:::
+
+
+
+# Breeding <br> Habitat<br> Details {background-image="../img/storer_1925_egg_drawing.png" background-size="contain" background-position="right" background-color="#000000"}
+
+
+## Egg Mass Habitat {.smaller}
+
+::: {.columns}
+::: {.column width="60%" .incremental}
+
+ - [Egg Mass Water Depths:]{.f2 .blue}
+    - 10--13 cm (Fitch 1936) 
+    - 7--22 cm (Fuller & Lind 1992)
+    - 4--43 cm (Kupferberg 1996 & 1997)
+    - 6--28 cm (Van Wagner 1996)
+    - 6--40 cm (Lind 2005)
+    - [\> 2m!]{.red} (Peek, pers. obs. 2017)
+    - 90% found in 14--67 cm in Sierras (Yarnell et al. 2011)
+
+:::
+
+::: {.column width="40%"}
+
+![](../img/rabo_eggs_sfy_dark.jpg){width=80% fig-align="right"}
+
+![Butte](../img/hab_breeding_ButteCreek.jpg){width=80% fig-align="right"}
+
+:::
+:::
+
+::: footer
+Breeding
+:::
+
+## Egg Mass Habitat {.smaller}
+
+::: {.columns}
+::: {.column width="60%" .incremental}
+
+- [**Egg Mass Water Velocities**]{.blue .f2}:
+  - 0.0--0.06 m/s (Fuller and Lind 1992)
+  - 0.01--0.14 m/s (Kupferberg 1996 & 1997)
+  - 0.0--0.03 m/s (Van Wagner 1996)
+  - 0.00--0.21 m/s (Lind 2005)
+  - 0.04--0.17 m/s (Wheeler and Welsh 2008)
+  - Eggs: 90% found in 0.00--0.15 m/s (Yarnell et al. 2011)
+ 
+
+:::
+
+::: {.column width="40%"}
+
+
+![](../img/rabo_em_gos09.jpg){width=80% fig-align="right"}
+
+![Eel](../img/hab_breeding_EelRiver.jpg){width=80% fig-align="right"}
+
+:::
+:::
+
+::: notes
+
+Substrate: most common – cobbles and boulders, "clean" (no algae/sediment) surface for egg attachment (Kupferberg 1996 & 1997, Van Wagner 1996, Lind 2005, Wheeler et al. 2003)
+
+:::
+
+::: footer
+Breeding
+:::
+
+## Tadpole Habitat {.smaller}
+
+::: {.columns .pv4}
+::: {.column width="60%"}
+
+::: {.fragment .mt1}
+
+[**Depths**]{.f2 .blue}
+
+ - Early Stage Tadpoles (90% within): 1--54 cm
+ - Late Stage Tadpoles (90% within): 1--51 cm (Yarnell et al. 2011)
+
+:::
+
+::: {.fragment .mt1}
+
+[**Velocities**]{.f2 .blue}
+
+ - Early Stage Tadpoles (90% within): 0.00--0.16 m/s
+ - Late Stage Tadpoles (90% within): 0.00--0.12 m/s (Yarnell et al. 2011)
+ - Critical velocities ranged from 0.01--0.04 m/s depending on developmental state, body size, and population of origin (Kupferberg et al. 2009)
+
+:::
+
+:::
+
+::: {.column width="40%"}
+
+![](../img/hab_tadpole.jpg){width=80% fig-align="right"}
+
+![](../img/rabo_large_tadpole.jpg){width=80% fig-align="right"}
+
+:::
+:::
+
+::: footer
+Rearing
+:::
+
+
+## Adult Habitat {.smaller}
+
+::: {.incremental}
+
+ - Most common along pool, glide, or riffles (Lind and Yarnell 2008, Bourque 2008, Haggarty 2006, Yarnell 2005, Van Wagner 1996, Lind 2005)
+ - Near stream cover may include wide array from shoreline rocks (especially cobble), to leaf litter, or overhanging vegetation [e.g. Carex sp.] (Bourque 2008, Haggarty 2006, Yarnell 2005, Hayes and Jennings 1988, Van Wagner 1996)
+ - Adults may prefer some riparian overhanging vegetation (e.g. Carex sp.) with moderate shade (Van Wagner 1996, Zweifel 1955, Moyle 1973, Hayes and Jennings 1988)
+
+:::
+
+<br>
+[**So pretty much all the possibilities!**]{.tc .f1 .blue .fragment}
+
+
+::: footer
+Adults
+:::
+
+::: notes
+
+Post-metamorphic R. boylii remain in terrestrial riparian and riverine habitat adjacent to the wetted channel during the non-breeding season (Bourque 2008, Kupferberg 1996, Lind et al. 1996, Moyle 1973, Van Wagner 1996, Zweifel 1955). Rana boylii have been documented in a wide range of habitats, but all generally occur within a short distance of flowing water (see Bourque 2008) although differences appear to vary both regionally and seasonally (Bourque 2008, Haggarty 2006, Van Wagner 1996, Yarnell 2000, Yarnell 2005).
+
+:::
+
+## 
+
+::: {.columns .pv4}
+
+::: {.column .pr4 width="50%"}
+![](../img/hab_campck03.jpg)
+:::
+
+::: {.column .tr .pr4 width="50%" .incremental}
+![](../img/hab_tuo.jpg)
+
+:::
+:::
+
+::: fragment
+ - Can use a very wide range of habitat
+ - From small intermittent first order tribs to large rivers
+:::
+
+::: footer
+Adult Habitat
+:::
+
+## Overwintering Habitat {.smaller}
+
+::: {.columns .pv4}
+::: {.column width="70%" .incremental}
+ 
+ - Very little data are available relating to overwintering habitat
+ - Van Wagner (1996) observed *R. boylii* both in the water and along the stream-edge habitat beneath rocks, leaf litter, and *Carex spp*
+ - Also found frogs appeared to be active whenever ambient conditions were favorable
+ - Habitat use in large rivers may vary, juveniles & adults may move into smaller lateral tributaries to avoid risk of scouring (Kupferberg 1996)
+ - Or move into adjacent terrestrial habitat to avoid winter flood events altogether.
+ 
+:::
+::: {.column .tc .pv4 width="30%"}
+{{< li xtkehzkm trigger=loop delay=3000 colors=secondary:#2a76dd class=rc >}}
+:::
+:::
+
+::: footer
+Overwintering
+:::
+
+
+
 ## Reach Heterogeneity
 
 ::: {.columns}
@@ -135,11 +388,21 @@ Modified from S.Kupferberg, 1996
 
 :::
 ::: {.column .pr4 width="55%"}
-![Yarnell 2008](../img/yarnell_2008_shannons.png){fig-align="center"}
+
+::: {.r-stack .incremental}
+
+![Yarnell 2008](../img/yarnell_2008_geomorphic_reach_type.png){.fragment width=90%}
+
+![](../img/yarnell_2008_shannons.png){.fragment fig-align="center"}
+
+
+
+:::
+
 :::
 :::
 
-## River Network Heterogeneity {.smaller background-image="../img/azimuth_inset_map_nfamerican.png" background-size="cover" background-color="#000000"}
+## Network Heterogeneity { background-image="../img/azimuth_inset_map_nfamerican.png" background-size="cover" background-color="#000000"}
 
 ## Network Heterogeneity {.smaller background-image="../img/peek_2010_conf_fig.png" background-size="50%" background-position="right" background-color="#000000"}
 
@@ -163,150 +426,191 @@ Analysing the complexity of geomorphic units at the reach scale is appropriate f
 
 :::
 
-## Adult Habitat {.smaller}
+## Habitat Summary {background-image="../img/habitat_willow_bars.jpg" background-size="cover" background-position="right" background-color="#000000" background-opacity=30%}
 
 ::: {.incremental}
+ - Different life stages require different [hydraulic]{.light-blue} and [substrate]{.light-yellow} conditions
+ - [Hydraulic]{.light-blue} and [substrate]{.light-yellow} conditions characterize mesohabitats (e.g., geomorphic units like riffles, pools)
+ - Certain reach types, differentiated by higher diversity of geomorphic units, are preferred by life stages
+ - Reaches near tributaries are often preferred because structurally more diverse & provide refugia
+:::
 
- - Most common along pool, glide, or riffles (Lind and Yarnell 2008, Bourque 2008, Haggarty 2006, Yarnell 2005, Van Wagner 1996, Lind 2005)
- - Near stream cover may include wide array from shoreline rocks (especially cobble), to leaf litter, or overhanging vegetation [e.g. Carex sp.] (Bourque 2008, Haggarty 2006, Yarnell 2005, Hayes and Jennings 1988, Van Wagner 1996)
- - Adults may prefer some riparian overhanging vegetation (e.g. Carex sp.) with moderate shade (Van Wagner 1996, Zweifel 1955, Moyle 1973, Hayes and Jennings 1988)
+
+
+# Hydrology for Frogs {background-color="#000000"}
+
+## {background-image="../img/recession_seasonality_breeding.png" background-size="contain" background-position="right" background-color="#FFFFFF"}
+
+
+## {background-image="../img/yarnell_biosci_flow_recession_2010.png" background-size="contain" background-position="right" background-color="#FFFFFF"}
+
+::: notes
+Flow management has greatest control over magnitude and rate of change from releases.
+We can quantify 5 components: see functional flows
+:::
+
+
+## Quantifying<br>the Sierra<br>Spring Recession {.smaller background-image="../img/unregulated_basins_sierras_epke_2011.png" background-size="59%" background-position="right" background-color="#FFFFFF"}
+
+## Quantifying the Sierra Spring Recession {.smaller background-image="../img/meandaily_recession_sierras_epke_2011.png" background-size="70%" background-position="center" background-color="#FFFFFF"}
+
+::: notes
+
+Daily recession rates consistent across elevations and basins in Sierras: timing, pattern, and rate of recession the same. Magnitude and peak are different.
 
 :::
+
+
+## {.smaller background-image="../img/thermohydrograph_nfa_combined_2011-2012.png" background-size="contain" background-position="center" background-color="#FFFFFF"}
+
+::: {.columns}
+
+::: {.column .f2 .pr4 width="25%" .incremental}
+:::
+::: {.column .tl .pr4 width="75%" .incremental}
 
 <br>
-[**So pretty much all the possibilities!**]{.tc .f1 .blue .fragment}
-
-<!--
-
-Post-metamorphic R. boylii remain in terrestrial riparian and riverine habitat adjacent to the wetted channel during the non-breeding season (Bourque 2008, Kupferberg 1996, Lind et al. 1996, Moyle 1973, Van Wagner 1996, Zweifel 1955). Rana boylii have been documented in a wide range of habitats, but all generally occur within a short distance of flowing water (see Bourque 2008) although differences appear to vary both regionally and seasonally (Bourque 2008, Haggarty 2006, Van Wagner 1996, Yarnell 2000, Yarnell 2005).
--->
-
-::: footer
-Habitat: Adults
+[**2011**]{.purple}
+<br><br><br><br><br><br><br><br><br><br>
+[**2012**]{.purple}
 :::
-
-## 
-
-::: {.columns .pv4}
-
-::: {.column .pr4 width="50%"}
-![](../img/hab_campck03.jpg)
-:::
-
-::: {.column .tr .pr4 width="50%" .incremental}
-![](../img/hab_tuo.jpg)
-
-:::
-:::
-
-::: fragment
- - Can use a very wide range of habitat
- - From small intermittent first order tribs to large rivers
-:::
-
-## Breeding Habitat {.smaller}
-
-::: {.columns .pv4}
-::: {.column width="70%" .incremental}
-
- - Note
-
- - Note
-
- - Note
- 
-:::
-
-::: {.column .tc .pv5 width="30%"}
-
-![](../img/rabo_egg_mass_gos22.jpg)
-
-:::
-:::
-
-::: footer
-Habitat: Breeding
 :::
 
 ::: notes
-Eggs Suitable Water Depths:
- - 10-13 cm (Fitch 1936)
- - 7-22 cm (Fuller and Lind 1992)
- - 4-43 cm (Kupferberg 1996 & 1997)
- - 6-28 cm (Van Wagner 1996)
- - 6-40 cm (Lind 2005)
- - Eggs: 90% found in 14-67 cm (Yarnell et al. 2011)
-
-Early Stage Tadpoles (90% within): 1-54 cm, Late Stage Tadpoles (90% within): 1-51 cm (Yarnell et al. 2011)
- - Suitable Water Velocity:
- - 0.0-0.06 m/s (Fuller and Lind 1992)
- - 0.01-0.14 m/s (Kupferberg 1996 & 1997)
- - 0.0-0.03 m/s (Van Wagner 1996)
- - 0.00-0.21 m/s (Lind 2005)
- - 0.04-0.17 m/s (Wheeler and Welsh 2008)
- - Eggs: 90% found in 0.00-0.15 m/s (Yarnell et al. 2011)
- - Early Stage Tadpoles (90% within): 0.00-0.16 m/s, Late Stage Tadpoles (90% within): 0.00-0.12 m/s (Yarnell et al. 2011)
- - Critical velocities ranged from 0.01-0.04 m/s depending on developmental state, body size, and population of origin (Kupferberg et al. 2009c)
-Substrate: most common – cobbles and boulders, "clean" (no algae/sediment) surface for egg attachment (Kupferberg 1996 & 1997, Van Wagner 1996, Lind 2005, Wheeler et al. 2003)
-
+At RABO XS we see recession rates typically 30cm per 3 weeks (~10 cm a week) no matter the water year. SO stage change is consistent! Makes sense given avg depths for eggs usually 20-40cm, and 2-3 weeks to hatch out.
 :::
 
+## Recession Rates
 
-## Rearing Habitat {.smaller}
+::: {.columns}
 
-::: {.columns .pv4}
-::: {.column width="60%"}
--   This is a broad overview of the most current information about this **amazing** species
+::: {.column .pr4 width="40%" .incremental}
 
-::: {.fragment .mt1}
--   We don't expect you all to be experts at the end, but rather, learn "[where to look...]{.b .blue}"
-:::
-
-::: {.fragment .mt1}
--   Through [lectures]{.b .blue} and [field time]{.b .green}, you will learn the life history, breeding ecology, and habitat use of this species
-:::
-
-::: {.fragment .mt1}
--   Field attendees will get direct [experience]{.b .green} doing surveys and evaluating habitat, as well as conducting egg mass surveys
-:::
+![](../img/rabo_tad_bean.jpg)
 
 :::
+::: {.column .pr4 width="60%" .incremental}
 
-::: {.column .tc .pv5 width="40%"}
-
-![](../img/hab_tadpole.jpg)
+ - In RABO breeding areas, recession rates are typically 30cm per 3 weeks (~10 cm a week)
+ - This is consistent across water years
+ - Thus stage change is consistent, matches natural history observations (depth and velocities obs, hatching timing ~2-3 weeks to hatch out)
 
 :::
 :::
 
-::: footer
-Habitat: Rearing
-:::
+## Dams change flow patterns {.smaller background-image="../img/lytle_poff_2004.jpg" background-size="80%" background-position="center" background-color="#FFFFFF"}
 
-## Overwintering Habitat {.smaller}
-
-::: {.columns .pv4}
-::: {.column width="70%" .incremental}
- 
- - Very little data are available relating to overwintering habitat
- - Van Wagner (1996) observed *R. boylii* both in the water and along the stream-edge habitat beneath rocks, leaf litter, and Carex sp
- - Also found frogs appeared to be active whenever ambient conditions were favorable
- - Habitat use in large rivers may vary, juveniles & adults may move into smaller lateral tributaries to avoid risk of scouring (Kupferberg 1996)
- - Or move into adjacent terrestrial habitat to avoid winter flood events altogether.
- 
-:::
-::: {.column .tc .pv4 width="30%"}
-{{< li xtkehzkm trigger=loop delay=3000 colors=secondary:#2a76dd class=rc >}}
-:::
-:::
-
-::: footer
-Habitat: Overwintering
+:::footer
+Lytle and Poff 2004
 :::
 
 
+## Type of flow alteration plays a big role {.smaller background-image="../img/regulation_types_combined.png" background-size="contain" background-position="center" background-color="#000000"}
 
 
+::: notes
+
+ - Altered flows often aseasonal/asynchronous to natural flow regime
+ - Decoupling of flow cues from environmental cues
+ - Eggs can be scoured or dessicated by changing flows
+ - Changes in algal/insect prey base
+ - Tadpole energetic costs to "hunkering down" and issues when refugia not available (bed armoring)
+
+:::
 
 
+## {background-image="../img/mfa_flow_patterns_zoomed.png" background-size="contain" background-position="top" background-color="#000000"}
 
+![](../img/dam_sierras.jpg){.absolute width=20% left=40 bottom=300}
+
+
+## {background-image="../img/forbestown_egg_stranding.jpg" background-size="contain" background-position="right" background-color="#000000"}
+
+![](../img/slate_ck_dam.png){.absolute width=40% left=0}
+
+
+## Case Study {.tl background-image="../img/clavey.jpg" background-size="cover" background-position="center" background-color="#000000"}
+
+## Tuolumne River {background-image="../img/astriegle_hab/hab_as_02.png" background-size="contain" background-position="center" background-color="#000000"}
+
+## Tuolumne River {background-image="../img/astriegle_hab/hab_as_03.png" background-size="contain" background-position="center" background-color="#000000"}
+
+## Tuolumne River {background-image="../img/astriegle_hab/hab_as_04.png" background-size="contain" background-position="center" background-color="#000000"}
+
+## Tuolumne River {background-image="../img/astriegle_hab/hab_as_05.png" background-size="contain" background-position="center" background-color="#000000"}
+
+## Tuolumne River {background-image="../img/astriegle_hab/hab_as_06.png" background-size="contain" background-position="center" background-color="#000000"}
+
+## Tuolumne River {background-image="../img/astriegle_hab/hab_as_07.png" background-size="contain" background-position="center" background-color="#000000"}
+
+## Tuolumne River {background-image="../img/astriegle_hab/hab_as_08.png" background-size="contain" background-position="center" background-color="#000000"}
+
+## Tuolumne River {background-image="../img/astriegle_hab/hab_as_09.png" background-size="contain" background-position="center" background-color="#000000"}
+
+## Tuolumne River {background-image="../img/astriegle_hab/hab_as_10.png" background-size="contain" background-position="center" background-color="#000000"}
+
+## Tuolumne River {background-image="../img/astriegle_hab/hab_as_11.png" background-size="contain" background-position="center" background-color="#000000"}
+
+## Tuolumne River {background-image="../img/astriegle_hab/hab_as_12.png" background-size="contain" background-position="center" background-color="#000000"}
+
+## Tuolumne River {background-image="../img/astriegle_hab/hab_as_13.png" background-size="contain" background-position="center" background-color="#000000"}
+
+## Tuolumne River {background-image="../img/astriegle_hab/hab_as_14.png" background-size="contain" background-position="center" background-color="#000000"}
+
+## Tuolumne River {background-image="../img/astriegle_hab/hab_as_15.png" background-size="contain" background-position="center" background-color="#000000"}
+
+## Tuolumne River {background-image="../img/astriegle_hab/hab_as_16.png" background-size="contain" background-position="center" background-color="#000000"}
+
+## Tuolumne River {background-image="../img/astriegle_hab/hab_as_17.png" background-size="contain" background-position="center" background-color="#000000"}
+
+## Tuolumne River {background-image="../img/astriegle_hab/hab_as_15.png" background-size="contain" background-position="center" background-color="#000000"}
+
+## Tuolumne River {background-image="../img/astriegle_hab/hab_as_16.png" background-size="contain" background-position="center" background-color="#000000"}
+
+## Tuolumne River {background-image="../img/astriegle_hab/hab_as_17.png" background-size="contain" background-position="center" background-color="#000000"}
+
+## Tuolumne River {background-image="../img/astriegle_hab/hab_as_18.png" background-size="contain" background-position="center" background-color="#000000"}
+
+## Tuolumne River {background-image="../img/astriegle_hab/hab_as_19.png" background-size="contain" background-position="center" background-color="#000000"}
+
+## Tuolumne River {background-image="../img/astriegle_hab/hab_as_20.png" background-size="contain" background-position="center" background-color="#000000"}
+
+## Tuolumne River {background-image="../img/astriegle_hab/hab_as_21.png" background-size="contain" background-position="center" background-color="#000000"}
+
+## Tuolumne River {background-image="../img/astriegle_hab/hab_as_22.png" background-size="contain" background-position="center" background-color="#000000"}
+
+## Tuolumne River {background-image="../img/astriegle_hab/hab_as_23.png" background-size="contain" background-position="center" background-color="#000000"}
+
+## Tuolumne River {background-image="../img/astriegle_hab/hab_as_24.png" background-size="contain" background-position="center" background-color="#000000"}
+
+## Tuolumne River {background-image="../img/astriegle_hab/hab_as_25.png" background-size="contain" background-position="center" background-color="#000000"}
+
+## Tuolumne River {background-image="../img/astriegle_hab/hab_as_26.png" background-size="contain" background-position="center" background-color="#000000"}
+
+## Tuolumne River {background-image="../img/astriegle_hab/hab_as_27.png" background-size="contain" background-position="center" background-color="#000000"}
+
+## Tuolumne River {background-image="../img/astriegle_hab/hab_as_28.png" background-size="contain" background-position="center" background-color="#000000"}
+
+## Tuolumne River {background-image="../img/astriegle_hab/hab_as_29.png" background-size="contain" background-position="center" background-color="#000000"}
+
+## Tuolumne River {background-image="../img/astriegle_hab/hab_as_30.png" background-size="contain" background-position="center" background-color="#000000"}
+
+## Tuolumne River {background-image="../img/astriegle_hab/hab_as_31.png" background-size="contain" background-position="center" background-color="#000000"}
+
+## Tuolumne River {background-image="../img/astriegle_hab/hab_as_32.png" background-size="contain" background-position="center" background-color="#000000"}
+
+## Tuolumne River {background-image="../img/astriegle_hab/hab_as_33.png" background-size="contain" background-position="center" background-color="#000000"}
+
+## Tuolumne River {background-image="../img/astriegle_hab/hab_as_34.png" background-size="contain" background-position="center" background-color="#000000"}
+
+## Tuolumne River {background-image="../img/astriegle_hab/hab_as_35.png" background-size="contain" background-position="center" background-color="#000000"}
+
+## Tuolumne River {background-image="../img/astriegle_hab/hab_as_36.png" background-size="contain" background-position="center" background-color="#000000"}
+
+## Tuolumne River {background-image="../img/astriegle_hab/hab_as_37.png" background-size="contain" background-position="center" background-color="#000000"}
+
+## Tuolumne River {background-image="../img/astriegle_hab/hab_as_38.png" background-size="contain" background-position="center" background-color="#000000"}
+
+## Tuolumne River {background-image="../img/astriegle_hab/hab_as_39.png" background-size="contain" background-position="center" background-color="#000000"}
+
+## Tuolumne River {background-image="../img/astriegle_hab/hab_as_40.png" background-size="contain" background-position="center" background-color="#000000"}
