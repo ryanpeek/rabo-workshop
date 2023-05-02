@@ -536,18 +536,45 @@ Decon
 
 ## Decon: Bleach {.smaller}
 
- - [**Bleach at 1:32 concentration**]{.orange} works well, though hard on gear
- - breaks down quickly in environment, need fresh batch each time
+ - [**Bleach at 1:32 concentration**]{.orange} for 15 min works well, though hard on gear
+ - If exposed to air or sunlight, will only last ~5 days
+ - For half a 5 gallon bucket, need about 10 oz or 1.25 CUPS
 
 ![](../img/dilution_table_bleach.jpg){fig-align="center"}
+
+::: notes
+
+ - In fresh opaque container, will remain active for 1 month. If older, dispose and get new.
+ - If exposed to sunlight or air, it will only last ~5 days.
+ - Can use a 1:20 solution 5% solution for 5 min, which is about 3/4 C or 6 oz per gallon of water (see [Chellman & McKenny MYLF NPS document](https://www.fws.gov/sites/default/files/documents/MYLF%20Attachment%204_Decon%20Protocol.pdf).
+ - Can use trash bag and transport water from water body upland to decon site.
+
+:::
+
+## Decon: Quat-128 {.smaller}
+
+ - [**Quat-128 (%5 DDAC)** (.25 oz / 0.5 TBSP / 7.5 mL) per gallon of water]{.orange} to make 0.01% solution
+ - If exposed to air or sunlight, will only last ~5 days
+ - For half a 5 gallon bucket, need about 10 oz or 1.25 CUPS
+
+![](../img/quat128.jpg){fig-align="center"}
+
+::: notes
+
+ - In fresh opaque container, will remain active for 1 month. If older, dispose and get new.
+ - If exposed to sunlight or air, it will only last ~5 days.
+ - Can use a 1:20 solution 5% solution for 5 min, which is about 3/4 C or 6 oz per gallon of water (see [Chellman & McKenny MYLF NPS document](https://www.fws.gov/sites/default/files/documents/MYLF%20Attachment%204_Decon%20Protocol.pdf).
+ - Can use trash bag and transport water from water body upland to decon site.
+
+:::
 
 
 ## Decon Resources {.smaller}
 
-PARC has a nice overview [pdf](http://www.northeastparc.org/products/pdfs/NEPARC_Pub_2014-02_Disinfection_Protocol.pdf): 
+ - PARC has a nice overview and [**.PDF here**](http://www.northeastparc.org/products/pdfs/NEPARC_Pub_2014-02_Disinfection_Protocol.pdf): 
 
- - [http://www.northeastparc.org/products/pdfs/NEPARC_Pub_2014-02_Disinfection_Protocol.pdf](http://www.northeastparc.org/products/pdfs/NEPARC_Pub_2014-02_Disinfection_Protocol.pdf)
- 
+ - The [**MYLF Decon Strategy**](https://www.fws.gov/sites/default/files/documents/MYLF%20Attachment%204_Decon%20Protocol.pdf) from the NPS (Chellman & McKenny) 
+
 
 ![](../img/parc_decon_sheet.png){fig-align="center" width=80%}  
 
