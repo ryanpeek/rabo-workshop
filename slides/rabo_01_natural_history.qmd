@@ -506,7 +506,7 @@ Natural History: Species ID
 
 :::
 
-## [**Even frogs get confused!**]{.navy} {.smaller background-image="../img/lica_rabo_false_clasp.jpg" background-size="cover" background-position="bottom" background-opacity="0.95"}
+## [**Even frogs get confused!**]{.navy} {.smaller background-image="../img/lica_rabo_false_clasp.jpg" background-size="contain" background-position="bottom" background-opacity="0.95"}
 
 ::: {.fragment}
 ![](https://photos.smugmug.com/photos/i-p7sqRJs/0/fc02de7f/L/i-p7sqRJs-L.jpg){fig-align="center"}
@@ -720,3 +720,5 @@ Natural History: Adults
 ::: footer
 Natural History: Adults
 :::
+
+## Questions? {background-color="#111111" background-image="../img/artsy_datasheet_rabo.jpg" background-size="cover" background-position="bottom"}

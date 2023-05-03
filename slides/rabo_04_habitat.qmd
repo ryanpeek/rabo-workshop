@@ -183,7 +183,7 @@ Yarnell 2000
 
 :::
 
-## Channel Shape: <br>Stream Order {.smaller background-image="../img/skunk_gulch_MFA.jpg" background-size="contain" background-position="right" background-color="#000000"}
+## Channel varies <br>by Stream Order {.smaller background-image="../img/skunk_gulch_MFA.jpg" background-size="contain" background-position="right" background-color="#000000"}
 
 ::: {.columns}
 
@@ -202,7 +202,7 @@ Yarnell 2000
 # Breeding <br> Habitat<br> Details {background-image="../img/storer_1925_egg_drawing.png" background-size="contain" background-position="right" background-color="#000000"}
 
 
-## Egg Mass Habitat {.smaller}
+## Egg Mass Hydrologic Habitat {.smaller}
 
 ::: {.columns}
 ::: {.column width="60%" .incremental}
@@ -231,7 +231,7 @@ Yarnell 2000
 Breeding
 :::
 
-## Egg Mass Habitat {.smaller}
+## Egg Mass Hydrologic Habitat {.smaller}
 
 ::: {.columns}
 ::: {.column width="60%" .incremental}
@@ -267,7 +267,7 @@ Substrate: most common – cobbles and boulders, "clean" (no algae/sediment) sur
 Breeding
 :::
 
-## Tadpole Habitat {.smaller}
+## Tadpole Hydrologic Habitat {.smaller}
 
 ::: {.columns .pv4}
 ::: {.column width="60%"}
@@ -493,7 +493,7 @@ At RABO XS we see recession rates typically 30cm per 3 weeks (~10 cm a week) no 
 
  - In RABO breeding areas, recession rates are typically 30cm per 3 weeks (~10 cm a week)
  - This is consistent across water years
- - Thus stage change is consistent, matches natural history observations (depth and velocities obs, hatching timing ~2-3 weeks to hatch out)
+ - Thus stage change is consistent, matches natural history observations of depth/velocity (hatching timing ~2-3 weeks to hatch out)
 
 :::
 :::
