@@ -5,7 +5,8 @@ format:
     slide-number: true
     show-slide-number: all
     preview-links: auto
-    self-contained: false
+    self-contained: true
+    multiplex: true
     progress: true
     history: true
     hash-type: number
@@ -531,88 +532,49 @@ Lytle and Poff 2004
 
 ## Case Study {.tl background-image="../img/clavey.jpg" background-size="cover" background-position="center" background-color="#000000"}
 
-## Tuolumne River {background-image="../img/astriegle_hab/hab_as_02.png" background-size="contain" background-position="center" background-color="#000000"}
+## Tuolumne River {background-image="../img/hab_as_02.png" background-size="contain" background-position="center" background-color="#000000"}
 
-## Tuolumne River {background-image="../img/astriegle_hab/hab_as_03.png" background-size="contain" background-position="center" background-color="#000000"}
+## Tuolumne River {background-image="../img/hab_as_03.png" background-size="contain" background-position="center" background-color="#000000"}
 
-## Tuolumne River {background-image="../img/astriegle_hab/hab_as_04.png" background-size="contain" background-position="center" background-color="#000000"}
+## Tuolumne River {background-image="../img/hab_as_04.png" background-size="contain" background-position="center" background-color="#000000"}
 
-## Tuolumne River {background-image="../img/astriegle_hab/hab_as_05.png" background-size="contain" background-position="center" background-color="#000000"}
+## Tuolumne River {background-image="../img/hab_as_05.png" background-size="contain" background-position="center" background-color="#000000"}
 
-## Tuolumne River {background-image="../img/astriegle_hab/hab_as_06.png" background-size="contain" background-position="center" background-color="#000000"}
+## Tuolumne River {background-image="../img/hab_as_06.png" background-size="contain" background-position="center" background-color="#000000"}
 
-## Tuolumne River {background-image="../img/astriegle_hab/hab_as_07.png" background-size="contain" background-position="center" background-color="#000000"}
+## Tuolumne River {background-image="../img/hab_as_07.png" background-size="contain" background-position="center" background-color="#000000"}
 
-## Tuolumne River {background-image="../img/astriegle_hab/hab_as_08.png" background-size="contain" background-position="center" background-color="#000000"}
+## Tuolumne River {background-image="../img/hab_as_08.png" background-size="contain" background-position="center" background-color="#000000"}
 
-## Tuolumne River {background-image="../img/astriegle_hab/hab_as_09.png" background-size="contain" background-position="center" background-color="#000000"}
+## Tuolumne River {background-image="../img/hab_as_09.png" background-size="contain" background-position="center" background-color="#000000"}
 
-## Tuolumne River {background-image="../img/astriegle_hab/hab_as_10.png" background-size="contain" background-position="center" background-color="#000000"}
+## Tuolumne River {background-image="../img/hab_as_10.png" background-size="contain" background-position="center" background-color="#000000"}
 
-## Tuolumne River {background-image="../img/astriegle_hab/hab_as_11.png" background-size="contain" background-position="center" background-color="#000000"}
+## Tuolumne River {background-image="../img/hab_as_11.png" background-size="contain" background-position="center" background-color="#000000"}
 
-## Tuolumne River {background-image="../img/astriegle_hab/hab_as_12.png" background-size="contain" background-position="center" background-color="#000000"}
+## Tuolumne River {background-image="../img/hab_as_12.png" background-size="contain" background-position="center" background-color="#000000"}
 
-## Tuolumne River {background-image="../img/astriegle_hab/hab_as_13.png" background-size="contain" background-position="center" background-color="#000000"}
+## Tuolumne River {background-image="../img/hab_as_13.png" background-size="contain" background-position="center" background-color="#000000"}
 
-## Tuolumne River {background-image="../img/astriegle_hab/hab_as_14.png" background-size="contain" background-position="center" background-color="#000000"}
+## Tuolumne River {background-image="../img/hab_as_14.png" background-size="contain" background-position="center" background-color="#000000"}
 
-## Tuolumne River {background-image="../img/astriegle_hab/hab_as_15.png" background-size="contain" background-position="center" background-color="#000000"}
+## Tuolumne River {background-image="../img/hab_as_15.png" background-size="contain" background-position="center" background-color="#000000"}
 
-## Tuolumne River {background-image="../img/astriegle_hab/hab_as_16.png" background-size="contain" background-position="center" background-color="#000000"}
+## Tuolumne River {background-image="../img/hab_as_16.png" background-size="contain" background-position="center" background-color="#000000"}
 
-## Tuolumne River {background-image="../img/astriegle_hab/hab_as_17.png" background-size="contain" background-position="center" background-color="#000000"}
+## Tuolumne River {background-image="../img/hab_as_17.png" background-size="contain" background-position="center" background-color="#000000"}
 
-## Tuolumne River {background-image="../img/astriegle_hab/hab_as_15.png" background-size="contain" background-position="center" background-color="#000000"}
+## Tuolumne River {background-image="../img/hab_as_15.png" background-size="contain" background-position="center" background-color="#000000"}
 
-## Tuolumne River {background-image="../img/astriegle_hab/hab_as_16.png" background-size="contain" background-position="center" background-color="#000000"}
+## Tuolumne River {background-image="../img/hab_as_16.png" background-size="contain" background-position="center" background-color="#000000"}
 
-## Tuolumne River {background-image="../img/astriegle_hab/hab_as_17.png" background-size="contain" background-position="center" background-color="#000000"}
+## Tuolumne River {background-image="../img/hab_as_17.png" background-size="contain" background-position="center" background-color="#000000"}
 
-## Tuolumne River {background-image="../img/astriegle_hab/hab_as_18.png" background-size="contain" background-position="center" background-color="#000000"}
+## Tuolumne River {background-image="../img/hab_as_18.png" background-size="contain" background-position="center" background-color="#000000"}
 
-## Tuolumne River {background-image="../img/astriegle_hab/hab_as_19.png" background-size="contain" background-position="center" background-color="#000000"}
+## Tuolumne River {background-image="../img/hab_as_19.png" background-size="contain" background-position="center" background-color="#000000"}
 
-## Tuolumne River {background-image="../img/astriegle_hab/hab_as_20.png" background-size="contain" background-position="center" background-color="#000000"}
+## Tuolumne River {background-image="../img/hab_as_20.png" background-size="contain" background-position="center" background-color="#000000"}
 
-## Tuolumne River {background-image="../img/astriegle_hab/hab_as_21.png" background-size="contain" background-position="center" background-color="#000000"}
-
-## Tuolumne River {background-image="../img/astriegle_hab/hab_as_22.png" background-size="contain" background-position="center" background-color="#000000"}
-
-## Tuolumne River {background-image="../img/astriegle_hab/hab_as_23.png" background-size="contain" background-position="center" background-color="#000000"}
-
-## Tuolumne River {background-image="../img/astriegle_hab/hab_as_24.png" background-size="contain" background-position="center" background-color="#000000"}
-
-## Tuolumne River {background-image="../img/astriegle_hab/hab_as_25.png" background-size="contain" background-position="center" background-color="#000000"}
-
-## Tuolumne River {background-image="../img/astriegle_hab/hab_as_26.png" background-size="contain" background-position="center" background-color="#000000"}
-
-## Tuolumne River {background-image="../img/astriegle_hab/hab_as_27.png" background-size="contain" background-position="center" background-color="#000000"}
-
-## Tuolumne River {background-image="../img/astriegle_hab/hab_as_28.png" background-size="contain" background-position="center" background-color="#000000"}
-
-## Tuolumne River {background-image="../img/astriegle_hab/hab_as_29.png" background-size="contain" background-position="center" background-color="#000000"}
-
-## Tuolumne River {background-image="../img/astriegle_hab/hab_as_30.png" background-size="contain" background-position="center" background-color="#000000"}
-
-## Tuolumne River {background-image="../img/astriegle_hab/hab_as_31.png" background-size="contain" background-position="center" background-color="#000000"}
-
-## Tuolumne River {background-image="../img/astriegle_hab/hab_as_32.png" background-size="contain" background-position="center" background-color="#000000"}
-
-## Tuolumne River {background-image="../img/astriegle_hab/hab_as_33.png" background-size="contain" background-position="center" background-color="#000000"}
-
-## Tuolumne River {background-image="../img/astriegle_hab/hab_as_34.png" background-size="contain" background-position="center" background-color="#000000"}
-
-## Tuolumne River {background-image="../img/astriegle_hab/hab_as_35.png" background-size="contain" background-position="center" background-color="#000000"}
-
-## Tuolumne River {background-image="../img/astriegle_hab/hab_as_36.png" background-size="contain" background-position="center" background-color="#000000"}
-
-## Tuolumne River {background-image="../img/astriegle_hab/hab_as_37.png" background-size="contain" background-position="center" background-color="#000000"}
-
-## Tuolumne River {background-image="../img/astriegle_hab/hab_as_38.png" background-size="contain" background-position="center" background-color="#000000"}
-
-## Tuolumne River {background-image="../img/astriegle_hab/hab_as_39.png" background-size="contain" background-position="center" background-color="#000000"}
-
-## Tuolumne River {background-image="../img/astriegle_hab/hab_as_40.png" background-size="contain" background-position="center" background-color="#000000"}
 
 ## Questions? {background-color="#111111" background-image="../img/artsy_datasheet_rabo.jpg" background-size="cover" background-position="bottom"}

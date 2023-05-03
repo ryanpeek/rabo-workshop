@@ -6,6 +6,7 @@ format:
     show-slide-number: all
     preview-links: auto
     self-contained: true
+    multiplex: false
     progress: true
     history: true
     hash-type: number
