@@ -7,6 +7,7 @@
 /_site/
 /_examples/
 img/*.m4v
+/.quarto/
 
 slides/*speaker.html
 data/*zip
