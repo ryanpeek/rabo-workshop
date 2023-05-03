@@ -68,14 +68,13 @@ Snorkeling<br />
 ::: {.column width="65%"}
 ::: {.fragment .incremental}
 
- - Adult Surveys
- - Underwater calling
- - Tadpole surveys
- - Egg Mass (EM) surveys
- - eDNA monitoring (methodology & application)
- - River Size vs. Survey Techniques
- - Detection Inhibitors
+ - Visual Encounter Surveys (VES): 
+    - Egg Masses (EM)
+    - Tadpoles
+    - Adults
  - Equipment
+ - Conditions vs. Survey Techniques
+ - Other Methods
  - Decontamination
 
 :::
@@ -86,7 +85,38 @@ Snorkeling<br />
 Overview
 :::
 
-## References {.smaller}
+## {background-image="../img/farside_preserves.jpg"  background-size="70%" background-position="center"}
+
+::: notes
+
+There is a balance in how we document, catalog, and observe wildlife. Nature is messy and it can be difficult to detail the pieces of interest. But consistent methods provide a framework we can use to compare and contrast our observations.
+
+:::
+
+## What is the objective? {.smaller}
+
+![](../img/survey_flow_chart.png)
+
+::: {.columns .pv4}
+::: {.column width="24%" .tc .fragment}
+Long-term monitoring of reproduction
+:::
+::: {.column width="24%" .fragment}
+Restoration sites: 
+
+ - Recolonization
+ - Persistence of restored habitat
+
+:::
+::: {.column width="24%" .fragment}
+Oviposition relative to flow and temperature
+:::
+::: {.column width="24%" .fragment}
+Development of larvae at different thermal regimes
+:::
+:::
+
+## Resources {.smaller}
 
 ::: {.columns .pv4}
 ::: {.column width="50%"}
@@ -96,8 +126,6 @@ Overview
  - PARC 2013
    Gabrielle J. Graeter, Kurt A. Buhlmann, Lucas R. Wilkinson, J. Whitfield Gibbons
 
-:::
-::: {.fragment}
 
 ![](../img/parc_2013_cover.png)
 :::
@@ -115,7 +143,6 @@ Overview
 :::
 :::
 :::
-:::
 
 ::: footer
 References
@@ -123,123 +150,432 @@ References
 
 ## Definitions {.smaller}
 
-**Definitions**	Measuring and Monitoring Biological Diversity: Standard Methods for Amphibians.  1994.  Eds, Heyer et al.
- 
- - **Relative abundance**:  proportional representation of species in a sample
- - **Inventory**:  study of a specific area, site, or habitat to determine the number of species present (i.e. species richness)
- - **Monitoring**: study of the abundance of individuals in one or more populations of a species at a site through time
- - **Mark-recapture** techniques:  methods for determining population size that involve capturing, marking, and releasing animals, and subsequently recapturing or re-sighting them one or more times.
- - **Visual Encounter Survey (VES)**:  estimate the diversity (number of. different species) and abundance (number of different individuals) of animals at a particular location
+ > Measuring and Monitoring Biological Diversity: Standard Methods for Amphibians.  1994.  Eds, Heyer et al.
+
+::: {.incremental}
+
+ - [*Relative abundance*:]{.purple}  proportional representation of species in a sample
+ - [*Inventory*:]{.purple}  study of a specific area, site, or habitat to determine the number of species present (i.e. species richness)
+ - [*Monitoring*:]{.purple} study of the abundance of individuals in one or more populations of a species at a site through time
+ - [*Mark-recapture techniques*:]{.purple}  methods for determining population size that involve capturing, marking, and releasing animals, and subsequently recapturing or re-sighting them one or more times.
+ - [*Visual Encounter Survey (VES)*:]{.purple}  estimate the diversity (number of. different species) and abundance (number of different individuals) of animals at a particular location
+
+:::
 
 ::: footer
 Definitions
 :::
 
 
-## Workshop Roadmap {.smaller}
+
+## Life Cycle & Survey Timing
+
+::: {.r-stack}
+
+![](../img/nfa_2019_usgs_01_adults.jpg){.fragment fig-align="center"}
+
+![](../img/nfa_2019_usgs_02_amplexus.jpg){.fragment fig-align="center"}
+
+![](../img/nfa_2019_usgs_03_eggs_tads.jpg){.fragment fig-align="center"}
+
+![](../img/nfa_2019_usgs_04_metamorph.jpg){.fragment fig-align="center"}
+:::
+
+## Timing of Surveys 
 
 ::: {.columns .pv4}
-::: {.column width="30%" .incremental}
- 
- - Natural and Unnatural History
- - Breeding Timing & Plasticity
- - Status Review and Listing
+::: {.column width="50%"}
 
- 
-:::
-::: {.column width="30%" .incremental}
- 
- - Habitat
- - Basic Ecology
- - Survey Methods
- - Conservation
- 
-:::
-::: {.column .tc .pv4 width="40%"}
-{{< li xtkehzkm trigger=loop delay=3000 colors=secondary:#2a76dd class=rc >}}
-:::
+::: {.fragment fragment-index=1}
+
+ - **Monitor local conditions**
+    - [River stage/discharge]{.blue} (CDEC, USGS)
+    - Storm forecasts
+    - [Water and air temperatures]{.red}
+
 :::
 
-::: footer
-Overview
+::: {.fragment fragment-index=2}
+
+ - **Compare with activity at reference sites**
+
 :::
 
-## Workshop Etiquette {.smaller}
+:::
+
+::: {.column width="50%"}
+
+::: {.fragment fragment-index=1}
+
+![](../img/usgs_daily_flow_map.png){.fragment fig-align="right" width=90%}
+
+:::
+
+:::
+
+:::
+
+# Visual <br>Ecounter<br> Surveys<br> (VES) {.tr .smaller background-image="../img/ALC2023hab.jpg" background-size="contain" background-position="left" background-color="#000000"}
+
+
+## VES {.smaller}
+
+::: {.columns .pv4}
+::: {.column width="65%"}
+
+ - **Search Area**: need GPS of begin/end
+
+:::{.fragment}
+ - **Habitat**: 
+    - Wetted width / bankfull width
+    - Avg depth / max depth
+    - turbidity / sedimentation / embeddedness
+    - canopy cover
+    - geomorphic type (run / riffle / pool)
+    - invasives | disturbance
+:::
+
+:::{.fragment}
+ - **Conditions**: survey conditions important
+    - sunny/windy/warm/cold
+    - flow/water quality at site
+    - air/water temp at site
+:::
+:::
+
+::: {.column width="35%"}
+
+:::{.fragment}
+
+ - **Search Duration**: crucial to quantify effort
+    - Obs times provides information on time-to-detection
+
+![](../img/watch.jpg)
+
+:::
+:::
+:::
+
+## [Important to check shoreline]{.lightest-yellow} {.tl .smaller background-image="../img/rabo_dried_egg_mass.jpg" background-size="contain" background-position="left" background-color="#000000"}
+
+## [and edgewater...]{.lightest-yellow} {.tl .smaller background-image="../img/rabo_egg_hanging_dessication_ashton.jpg" background-size="contain" background-position="left" background-color="#000000"}
+
+## VES Snorkeling {.smaller}
+
+ - Snorkeling highly recommended/mandatory for spring egg mass surveys
+ - Suitable for monitoring the abundance & distribution
+ - tandem teams ideal for paired survey
+
+![](../img/survey_dual_snorkel.jpg){.r-stretch fig-align=center}
+
+## VES Snorkeling {.smaller}
+
+![](../img/didymo_cell.jpg){.br-100 .fragment fragment-index=2 .absolute top=0 right=0 width=10%}
+
+::: {.fragment fragment-index=1}
+ - Egg masses can be very cryptic
+ - Snorkeling has been found to be highly effective
+ - Site conditions can greatly impact where egg masses are located (didymo)
+
+:::
+
+::: {.fragment fragment-index=2}
+![](../img/didymo_carpet.jpg){.absolute left=0 bottom=0 width=50%}
+:::
+
+::: {.fragment fragment-index=3}
+![](../img/survey_reach_under_bld.jpg){.absolute left=0 bottom=0 width=55%}
+:::
+
+::: {.fragment fragment-index=4}
+![](../img/snorkel_under_rock_eggs.jpg){.absolute bottom=0 right=10}
+:::
+
+## Survey Gear {.smaller}
 
 ::: {.columns .pv4}
 ::: {.column width="60%"}
-#### [Things to Do]{.green}
 
-::: {.incremental}
--   Act respectfully
--   Ask for help in chat or "raise hand"
--   Turn your camera on or off as desired
--   Please mute yourself when not speaking
+::: {.fragment .f2}
+ - Polarized glasses
+ - Ruler/calipers
+ - Temperature / WQ probe
+ - Measuring tape
+ - Depth rod/stick
+ 
+![](../img/survey_tape.png){fig-align="center" width=50%}
+
+:::
+:::
+::: {.column width="40%" .fragment}
+
+![](../img/ruler.jpg)
+![](../img/digital_thermometer.png){width=80%}
 :::
 :::
 
-::: {.column .tc .pv5 width="40%"}
-{{< li syzdvjlt trigger=loop delay=3000 colors=secondary:#2a76dd class=rc >}}
-:::
-:::
 
-::: footer
-Overview
-:::
+# [Egg Masses]{.near-white} {.tl .smaller background-image="../img/rabo_soccer_eggs.jpg" background-size="cover" background-position="center" background-color="#000000"}
 
 
-
-## Resources {.smaller}
+## Observational Data: Oviposition {.smaller}
 
 ::: {.columns .pv4}
 ::: {.column width="60%"}
--   Here are some additional resources about the topic [TOPIC]{.b .green}
-    -   How we store and organize data
-    -   Templates for field data collection
 
-::: {.fragment .mt1}
--   Some links or survey stuff here
-    1.  Survey VES sheet
-    2.  Survey Habitat sheet
-:::
+:::{.fragment}
+**Stream Habitat – Physical Attributes:**
 
-::: {.fragment .mt1}
--   Summary statement [about surveys for frogs]{.b .blue}
-    -   Frogs are **X** and also can be **Y**
-:::
+ - Water Temperature | Velocity 
+ - Total Depth | Egg mass depth
+ - Distance to Shore | Geomorphic unit
 :::
 
-::: {.column .tc .pv5 width="40%"}
-{{< li mgtgkkcb trigger=loop delay=3000 colors=secondary:#2a76dd class=rc >}}
+:::{.fragment}
+**Attachment Substrate:**
+
+ - Pebble (33-64 mm) | Cobble (65-256 mm) | Boulder (>256 mm)
+ - Bedrock | Woody material | Riparian vegetation
+ - Orientation (upstream / downstream / shore / under / top)
+:::
+
+:::{.fragment}
+**Egg Stage (Gosner)**
+
+ - Early | Bean | Tail | Hatching
+:::
+:::
+::: {.column width="40%"}
+![](../img/rabo_measuring_eggs.jpg)
+
+:::{.r-stack}
+
+![](../img/gosner_chart_1.jpg){.fragment width=75%}
+
+![](../img/gosner_chart_2.jpg){.fragment width=75%}
+
+:::
+
+:::
+
+:::
+
+## Tracking Fate of Eggs {.smaller}
+
+::: {.columns .pv4}
+::: {.column width="45%"}
+
+ - Multiple visits are important during breeding period
+ - Knowing if eggs are going to be stranded or scoured
+ - Track development and dispersal
+
+:::
+::: {.column width="55%"}
+ 
+![](../img/forbestown_egg_stranding.jpg){fig-align="center"}
+
 :::
 :::
 
-::: footer
-Resources
+## Tracking Fate of Eggs {.smaller}
+
+::: {.columns .pv4}
+::: {.column width="45%"}
+
+ - Multiple visits are important during breeding period
+ - Knowing if eggs are going to be stranded or scoured
+ - Track development and dispersal
+
+:::
+::: {.column width="55%"}
+ 
+![](../img/rabo_egg_hanging_dessication_ashton.jpg){fig-align="center" width=70%}
+
+![](../img/rabo_butte_tadpoles_dried.jpg){fig-align="center"  width=80%}
+
+:::
 :::
 
-# Decontamination {background-color="#111111"}
+
+# [Larvae]{.navy} {.tl .smaller background-image="../img/rabo_tads_hatched.jpg" background-size="cover" background-position="center" background-color="#000000"}
+
+
+## Observational Data: Larvae {.smaller}
+
+::: {.columns .pv4}
+::: {.column width="60%"}
+
+:::{.fragment}
+[*Developmental Stage*]{.f2}
+
+ - Gosner or other
+ - Condition
+ - Algae observations
+ - Predators?
+
+:::
+
+:::{.fragment}
+[*Cues to Search for!*]{.f2}
+
+ - Circular tadpole gut...circular poop
+ - A tell-tale sign but very cryptic!
+ - Flipping rocks can be key
+
+:::
+:::
+
+::: {.column width="40%"}
+
+![](../img/rabo_tad_in_algae.jpg)
+
+![](../img/rabo_closeup_recent_tad_mcloud.jpg)
+
+:::
+:::
+
+## Post-metamorphs {background-image="../img/rabo_camo_on_rock.jpg" background-size="cover" background-position="center" background-color="#000000"}
+
+## Observational Data: <br>Post-metamorphs {.smaller}
+
+::: {.columns .pv4}
+::: {.column width="40%"}
+
+:::{.fragment}
+
+
+ - Snout-urostyle length (SUL)
+ - Photos | Chin photos
+ - Location (X/Y)
+ - Time of observation
+
+:::
+:::
+
+::: {.column width="60%"}
+
+![](../img/rabo_juv_chinphoto.jpg){width=50% fig-align=center}
+
+![](../img/rabo_on_cobble_closeup.jpg)
+
+:::
+:::
+
+## Incidental Observations {.smaller}
+
+ - Can be valuable source of natural history
+ - Tracking distributions over time (CNDDB, iNaturalist)
+ 
+![](../img/wpt_feeding_on_dicamp.jpg){.absolute left=0 bottom=0 width=50%}
+ 
+![](../img/thco_in_willow.jpg){.absolute right=0 bottom=0 width=45%}
+ 
+# Other Methods {background-color="#000000"}
+
+## Time/Area Constrained Surveys {.smaller}
+
+![](../img/acs_3_plots.png){fig-align="center"}
+
+## PIT Tagging {.smaller}
+
+ - [*PIT tag*:]{.purple} a marking tag made of a passive integrated transponder (PIT) that relies on passive radio-frequency identification of a 10-digit hexadecimal number, read with a scanner and portable reader.  
+ 
+![](../img/pit_tags.png){fig-align="center"}
+
+## e-DNA (Environmental DNA) {.smaller}
+
+![Machler et al. 2014. Freshwater Science](../img/edna_overview.png)
+
+::: {.fragment .tc}
+ - Filter a lot of water
+ - Clean/sterile replicates
+ - Cover more ground (but not proof of absence)
+:::
+
+# Decontamination {background-color="#111111" background-image="../img/decon_steps.png" background-size="contain" background-position="bottom"}
+
 
 ## Decon {.smaller}
 
 ::: {.columns .pv4}
 ::: {.column width="47%" .incremental}
  - Decontamination between and after sites is [critical]{.b .orange}
- - Before leaving a field site, thoroughly remove all organic matter (i.e., mud, algae, plants) from nets, sampling gear, boots/boot tread
+ - Before leaving a field site, thoroughly remove all organic matter (i.e., mud, algae, plants) from nets, sampling gear, boots/boot tread, clothing
  - Be especially cognizant of gear that came into contact with water or aquatic sediments
  
+![](../img/muddy_boots.jpg){.br-100 fig-align="center" width=70%}
+
 :::
 
-::: {.column .tc .pv5 width="48%"}
+::: {.column .tc .pv5 width="10%" .incremental}
+:::
+
+::: {.column .tc .pv5 width="43%" .incremental}
+
+::: fragment
+[**Decon Steps**]{.f2}
+:::
+
  1. Pre-rinse with water before cleaning with solution
- 2. Clean with solution using appropriate dilution
- 3. Allow solution to sit for necessary time
+ 2. Clean with solution using appropriate dilution (Bleach, Quat)
+ 3. Allow solution to sit for necessary time (depends on treatment)
  4. Rinse off using hot water
  5. Wear appropriate PPE
 
 :::
+
 :::
 
 ::: footer
-Resources
+Decon
 :::
+
+## Decon Options {.smaller}
+
+![](../img/decon_chart_options.jpg){.r-stretch fig-align="center"}
+
+## Decon: Bleach {.smaller}
+
+ - [**Bleach at 1:32 concentration**]{.orange} for 15 min works well, though hard on gear
+ - If exposed to air or sunlight, will only last ~5 days
+ - For half a 5 gallon bucket, need about 10 oz or 1.25 CUPS
+
+![](../img/dilution_table_bleach.jpg){fig-align="center"}
+
+::: notes
+
+ - In fresh opaque container, will remain active for 1 month. If older, dispose and get new.
+ - If exposed to sunlight or air, it will only last ~5 days.
+ - Can use a 1:20 solution 5% solution for 5 min, which is about 3/4 C or 6 oz per gallon of water (see [Chellman & McKenny MYLF NPS document](https://www.fws.gov/sites/default/files/documents/MYLF%20Attachment%204_Decon%20Protocol.pdf).
+ - Can use trash bag and transport water from water body upland to decon site.
+
+:::
+
+## Decon: Quat-128 {.smaller}
+
+ - [**Quat-128 (%5 DDAC)** (.25 oz / 0.5 TBSP / 7.5 mL) per gallon of water]{.orange} to make 0.01% solution
+ - If exposed to air or sunlight, will only last ~5 days
+ - For half a 5 gallon bucket, need about 10 oz or 1.25 CUPS
+
+![](../img/quat128.jpg){fig-align="center"}
+
+::: notes
+
+ - In fresh opaque container, will remain active for 1 month. If older, dispose and get new.
+ - If exposed to sunlight or air, it will only last ~5 days.
+ - Can use a 1:20 solution 5% solution for 5 min, which is about 3/4 C or 6 oz per gallon of water (see [Chellman & McKenny MYLF NPS document](https://www.fws.gov/sites/default/files/documents/MYLF%20Attachment%204_Decon%20Protocol.pdf).
+ - Can use trash bag and transport water from water body upland to decon site.
+
+:::
+
+
+## Decon Resources {.smaller}
+
+ - PARC has a nice overview and [**.PDF here**](http://www.northeastparc.org/products/pdfs/NEPARC_Pub_2014-02_Disinfection_Protocol.pdf): 
+
+ - The [**MYLF Decon Strategy**](https://www.fws.gov/sites/default/files/documents/MYLF%20Attachment%204_Decon%20Protocol.pdf) from the NPS (Chellman & McKenny) 
+
+
+![](../img/parc_decon_sheet.png){fig-align="center" width=80%}  
+
+## Questions? {background-color="#111111" background-image="../img/artsy_datasheet_rabo.jpg" background-size="cover" background-position="bottom"}

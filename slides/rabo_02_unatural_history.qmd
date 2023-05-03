@@ -366,28 +366,78 @@ Conservation Management
 
 ## *And still...<br>[persisted?]{.fragment .semi-fade-out}* {.smaller .tl background-image="../img/rabo_hand_on_hips.jpg" background-size="contain" background-position="right" background-opacity="0.95" background-color="#000000"}
 
-## Disease / Drought / Decline {.smaller}
+## Perils of Unpalatable Periphyton {.smaller}
 
-:::{layout="[[1,1],[1,1]]"}
+ - "**Rock Snot**" (*Didymo*) is spreading in rivers with flucuating flows and cold water releases (MFA, SFY)
+ - impacts tadpole growth and survival
+ - impacts egg deposition sites!
+ 
+::: {.columns}
 
-![](../img/harmful_algae_in_drought_yrs.jpg)
-
+::: {.column width="50%"}
 ![](../img/perils_of_rocksnot.jpg)
-
-![](../img/unpalatable_periphyton_diatoms.png)
-
-
-![](../img/rabo_copepod_parasites.jpg)
 
 :::
 
+::: {.column width="50%"}
+![](../img/didymo_carpet.jpg)
+:::
+:::
+
+
+## Didymo can limit oviposition surfaces!  {.smaller background-image="../img/rabo_eggs_sfy_dark.jpg" background-size="cover" background-position="center" background-color="#000000"}
+
+## Didymo periphyton limited tadpole growth {.smaller}
+
+![](../img/unpalatable_periphyton_diatoms.png){.absolute bottom=0 right=0 width=600} 
+
+![](../img/didymo_feeding_exp_kupferberg.png){.fragment .absolute top=60 right=10 width=600}
+
+
+## Drought & [H]{.dark-green}armful [A]{.dark-green}lgal [B︎]{.dark-green}looms {.smaller}
+
+::: {.columns}
+
+::: {.column width="70%"}
+
+![Bouma-Gregson et al 2017](../img/harmful_algae_in_drought_yrs.jpg)
+
+:::
+::: {.column width="30%" .incremental}
+
+ - Climate change "whiplash" will ⬆ winter floods and drought periods, which can favor cyanobacteria proliferations
+ - Water withdrawal/diversion ⬇ summer river flow and ⬆ likelihood of cyanotoxin production.
+
+:::
+:::
+
 ::: notes
+Bouma-Gregson, K., Power, M. E., & Bormans, M. (2017). Rise and fall of toxic benthic freshwater cyanobacteria (Anabaena spp.) in the Eel river: Buoyancy and dispersal. Harmful algae, 66, 79-87
+:::
 
-Didymo (diatom) proliferating in regulated rivers & cold water is released from bottom of reservoir. Important to understand how Epithemia and N fixing taxa affect tadpole growth and survival
+## Disease 
 
-HABs in drought years (Bouma-Gregson, K., Power, M. E., & Bormans, M. (2017))
+![](../img/rabo_copepod_parasites.jpg){fig-align="center"}
+
+::: notes
 
 Just because we don't see a specific trend doesn't mean things are stable:
  - if high volatility combines with small population sizes, trends may not be detected until populations decline below critical thresholds (*extinction vortex*)
 
 :::
+
+## Summary
+
+::: {.incremental}
+
+ - High variability (i.e., climate/flow) is combined with sparse density, trends may not be detectable until populations decline below critical thresholds
+
+ - Background variation in population size and shifts in spatial distribution makes it difficult to detect effects even with years of data
+
+ - Encroachment by riparian vegetation and trespass cultivation exacerbate local decline
+
+ - Climate uncertainty (more extreme droughts and floods) likely to increase risk of extirpation
+
+:::
+
+## Questions? {background-color="#111111" background-image="../img/artsy_datasheet_rabo.jpg" background-size="cover" background-position="bottom"}

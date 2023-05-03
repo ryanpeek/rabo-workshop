@@ -39,11 +39,11 @@ editor_options:
 
 ::: {.columns .pv4}
 ::: {.column width="70%" .incremental}
-1. SSC means...
-2. State [ESA]{.b .blue} means...
-3. Federal [ESA]{.b .navy} means...
-4. Critical Habitat means...
-5. Recovery means...
+1. Multiple levels
+2. Species of Special Concern
+3. State [ESA]{.b .blue}
+4. Federal [ESA]{.b .navy}
+
 :::
 
 ::: {.column .tc .pv5 width="30%"}
@@ -57,6 +57,68 @@ editor_options:
 
 ::: footer
 Status
+:::
+
+## Species of Special Concern (SSC) {.smaller}
+
+ - a species, subspecies, or distinct population of an animal<sup>*</sup> native to California that currently satisfies one or more of the following (not necessarily mutually exclusive) criteria<sup>**</sup>:
+    - is extirpated from the State or, in the case of birds, is extirpated in its primary season or breeding role;
+    - is listed as Federally, but not State, threatened or endangered; 
+    - meets the State definition of threatened or endangered but has not formally been listed;
+    - is experiencing, or formerly experienced, serious (non-cyclical) population declines or range retractions (not reversed) that, if continued or resumed, could qualify it for State threatened or endangered status;
+    - has naturally small populations exhibiting high susceptibility to risk from any factor(s), that if realized, could lead to declines that would qualify it for State threatened or endangered status.
+
+## Federal ESA (1973) {.smaller}
+
+ > *Purpose: to protect and recover imperiled species and the ecosystems upon which they depend.*
+ 
+ - Administered by the U.S. Fish and Wildlife Service (Service) and the Commerce Department's National Marine Fisheries Service (NMFS)
+ - Species may be listed as either endangered or threatened
+    - [**"Endangered"**]{.dark-red} means a species is in danger of extinction throughout all or a significant portion of its range
+    - [**"Threatened"**]{.orange} means a species is likely to become endangered within the foreseeable future
+    - All species of plants and animals, except pest insects, are eligible for listing as endangered or threatened.
+
+## California ESA (CESA, 1970) {.smaller}
+
+ > *Enacted in 1970 based on concern regarding the decline of wildlife species in CA.  1997 amendment gives explicit authority to permit*
+ 
+  - First state to prohibit the importation, take, possession, or sale of rare and endangered species. 
+  - Species may be listed as [**Threatened**]{.orange} , [**Endangered**]{.dark-red}, or *candidates*
+
+## CESA Definitions {.smaller}
+
+ - [**Endangered**]{.dark-red}: A native species or subspecies of bird, mammal, fish, amphibian, reptile, or plant which is in serious danger of becoming extinct throughout all, or a significant portion, of its range due to one or more causes, including loss of habitat, change in habitat, overexploitation, predation, competition, or disease
+ - [**Threatened**]{.orange}: A native species or subspecies…that, although not presently threatened with extinction, is likely to become an endangered species in the foreseeable future in the absence of the special protection and management efforts required by this chapter
+ - **Candidate**: A native species or subspecies that the commission has formally noticed as being under review by the Department for listing. Candidates are given full CESA protection
+
+## Comparisons {.smaller}
+
+::: {.columns .pv4}
+
+::: {.column width="49%" .incremental}
+
+**ESA**
+
+ - Take: Harass, harm, pursue, hunt, *shoot, wound*, kill, *trap*, capture, or *collect*, or to attempt
+ 
+ - Harass:  An intentional or negligent act or omission which creates the likelihood of injury to wildlife by annoying it to such an extent as to significantly disrupt normal behavioral patterns (e.g., breeding, feeding, or sheltering)
+ 
+ - Harm: an act that kills or injures wildlife includes significant habitat modification or degradation that kills or injures wildlife.
+ 
+ - Candidate: No protection
+
+:::
+
+::: {.column width="49%" .incremental}
+
+**CESA**
+
+ - Take hunt, pursue, catch, capture or kill or attempt to do so
+ - Harass-no state equivalent
+ - Harm-no state equivalent
+ - Candidate: provides protection as if it were listed. 
+
+:::
 :::
 
 ## Frog Timeline
@@ -496,7 +558,7 @@ Permitting
 Permitting
 :::
 
-## Compensatory Migration Example
+## Compensatory Mitigation Example
 
  - Must meet full mitigation requirement
  - Creation/enhancement & long-term management of RABO breeding habitat and non-breeding habitat
@@ -549,3 +611,5 @@ Permitting
 :::
 
 :::
+
+## Questions? {background-color="#111111" background-image="../img/artsy_datasheet_rabo.jpg" background-size="cover" background-position="bottom"}

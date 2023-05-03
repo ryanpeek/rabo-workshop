@@ -15,245 +15,52 @@ format:
     highlight-style: ayu-mirage
     code-link: false
     code-copy: true
-    pagetitle: "RABO Breeding Timing"
-    author-meta: "Ryan Peek"
+    pagetitle: "RABO Larval Ecology"
+    author-meta: "Sarah Kupferberg"
     date-meta: "2023-05-09"
 ---
 
 ::: {.my-title}
-# [Breeding Timing]{.orange} and [Plasticity]{.blue}
+# [Tadpoles]{.orange} in <br> [agal based]{.green} food webs
 
 ::: {.my-grey}
-[Ryan Peek | 2023-05-09]{}<br />
+[Sarah Kupferberg | 2023-05-09]{}<br />
 [Elkhorn Slough CTP]{}
 :::
 
-![](../img/rabo_adult_dark_transparent.png){.absolute bottom=0 right=0 width=250}
-:::
+![](../img/sk/02_tad.png){.absolute top=0 right=10 width=370}
 
-<!-- Overview -->
-
-# 
-
-::: {.columns .pv4}
-::: {.column width="30%"}
-::: {.tc}
-![](../img/eye_of_newt_cover)
-:::
-:::
-
-::: {.column width="70%"}
-
- > One thing to remember is to talk to the animals. If you do, they will talk back to you. But if you don’t talk to them, they won’t talk back to you, then you won’t understand. And when you don’t understand, you will fear, and when you fear, you will destroy the animals, and if you destroy the animals you will destroy yourself
- 
-[*Chief Dan George | Tseil-Waututh Nation (1899-1981)*]{.gray}
+![](../img/sk/03_garter.jpg){.br-100 .absolute top=300 bottom=0 left=0 width=300}
+![](../img/sk/04_algae_tad.png){.absolute top=300 bottom=0 left=200 width=490}
+![](../img/sk/01_algae_mat.png){.absolute bottom=0 top=300 left=700 width=330}
 
 :::
-:::
 
-## Overview {.smaller}
-
-::: {.columns .pv4}
-::: {.column width="30%"}
-::: {.tc}
-![](../img/ryan_snorkel_river.png ){.br-100}
-
-Snorkeling<br /> 
-:::
-:::
-
-::: {.column width="5%"}
-:::
-
-::: {.column width="65%"}
-::: {.fragment .incremental}
-
- - Adult Surveys
- - Underwater calling
- - Tadpole surveys
- - Egg Mass (EM) surveys
- - eDNA monitoring (methodology & application)
- - River Size vs. Survey Techniques
- - Detection Inhibitors
- - Equipment
- - Decontamination
-
-:::
-:::
-:::
-
-::: footer
-Overview
-:::
-
-## References {.smaller}
-
-::: {.columns .pv4}
-::: {.column width="50%"}
-
-::: {.fragment}
-
- - PARC 2013
-   Gabrielle J. Graeter, Kurt A. Buhlmann, Lucas R. Wilkinson, J. Whitfield Gibbons
-
-:::
-::: {.fragment}
-
-![](../img/parc_2013_cover.png)
-:::
-:::
+## [The goal of being a tadpole is to graze and avoid predators to reach metamorphosis]{.washed-blue} {background-image="../img/sk/image7.jpg" background-size="cover" background-position="center" background-color="#000000" background-opacity=75%}
 
 
-::: {.column .relative width="50%"}
-::: {.fragment}
 
- - Smithsonian 1994 
-   Heyer, W. R., M. D. Donnelly, R. W. McDiarmid, L. C. Hayek,  M. S. Foster
+## Algae and temperature explain why frogs don't breed in the tributaries where they spend the rest of the year {.smaller}
 
-
-![](../img/heyer_et_al_1994_cover.png)
-:::
-:::
-:::
-:::
-
-::: footer
-References
-:::
-
-## Definitions {.smaller}
-
-**Definitions**	Measuring and Monitoring Biological Diversity: Standard Methods for Amphibians.  1994.  Eds, Heyer et al.
- 
- - **Relative abundance**:  proportional representation of species in a sample
- - **Inventory**:  study of a specific area, site, or habitat to determine the number of species present (i.e. species richness)
- - **Monitoring**: study of the abundance of individuals in one or more populations of a species at a site through time
- - **Mark-recapture** techniques:  methods for determining population size that involve capturing, marking, and releasing animals, and subsequently recapturing or re-sighting them one or more times.
- - **Visual Encounter Survey (VES)**:  estimate the diversity (number of. different species) and abundance (number of different individuals) of animals at a particular location
-
-::: footer
-Definitions
-:::
-
-
-## Workshop Roadmap {.smaller}
-
-::: {.columns .pv4}
-::: {.column width="30%" .incremental}
- 
- - Natural and Unnatural History
- - Breeding Timing & Plasticity
- - Status Review and Listing
-
- 
-:::
-::: {.column width="30%" .incremental}
- 
- - Habitat
- - Basic Ecology
- - Survey Methods
- - Conservation
- 
-:::
-::: {.column .tc .pv4 width="40%"}
-{{< li xtkehzkm trigger=loop delay=3000 colors=secondary:#2a76dd class=rc >}}
-:::
-:::
-
-::: footer
-Overview
-:::
-
-## Workshop Etiquette {.smaller}
-
-::: {.columns .pv4}
+::: {.columns}
 ::: {.column width="60%"}
-#### [Things to Do]{.green}
 
-::: {.incremental}
--   Act respectfully
--   Ask for help in chat or "raise hand"
--   Turn your camera on or off as desired
--   Please mute yourself when not speaking
-:::
-:::
-
-::: {.column .tc .pv5 width="40%"}
-{{< li syzdvjlt trigger=loop delay=3000 colors=secondary:#2a76dd class=rc >}}
-:::
-:::
-
-::: footer
-Overview
-:::
-
-## Life History I {.smaller background-color="black"}
-
-::: {.columns .pv4}
-::: {.column .pr4 width="70%"}
-
-#### The Basics
-
-1. Adults breed in the spring ([*amplexus*]{.yellow})
-3. Females pick oviposition location
-4. External fertilization, egg masses ~2-3 weeks
-5. After hatching tadpoles cannot swim or often see
-6. Sink to bottom for 5 days, typically jet black
-7. Tadpoles require 2.5 months 18C or greater
-8. Metamorphosis in late summer/fall
+![](../img/sk/image8.jpg){width=90%}
 
 :::
 
-::: {.column width="30%"}
+::: {.column width="39%"}
 
-![](../img/rabo_egg_mass_gos22.jpg)
+![](../img/sk/image9.jpg)
+
+![](../img/sk/image10.jpg)
 
 :::
 :::
 
-::: aside
-*Note:* There is a great amount of plasticity depending on the region and habitat.
-:::
+## {background-image=../img/sk/05_tadpole_seasonal.jpg background-size="contain"}
+
+## {background-image=../img/sk/06_algae.png background-size="contain"}
 
 
-## *Rana boylii* Calling
-
-<!-- youtube: https://www.youtube.com/embed/MmSPTZVqTG0-->
-
-  {{< video https://www.youtube.com/embed/MmSPTZVqTG0
-          title="Rana boylii calling"
-          width="100%" height="80%" >}}
-
-
-
-
-## Resources {.smaller}
-
-::: {.columns .pv4}
-::: {.column width="60%"}
--   Here are some additional resources about the topic [TOPIC]{.b .green}
-    -   How we store and organize data
-    -   Templates for field data collection
-
-::: {.fragment .mt1}
--   Some links or survey stuff here
-    1.  Survey VES sheet
-    2.  Survey Habitat sheet
-:::
-
-::: {.fragment .mt1}
--   Summary statement [about surveys for frogs]{.b .blue}
-    -   Frogs are **X** and also can be **Y**
-:::
-:::
-
-::: {.column .tc .pv5 width="40%"}
-{{< li mgtgkkcb trigger=loop delay=3000 colors=secondary:#2a76dd class=rc >}}
-:::
-:::
-
-::: footer
-Resources
-:::
-
-
+## Periphyton and temperature affects development rate {.smaller background-image=../img/sk/07_periphyton.png background-size="contain" background-position="bottom"}
