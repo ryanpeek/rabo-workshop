@@ -1,7 +1,6 @@
 {
   "dependencies": {
     "@quarto/netlify-plugin-quarto": "^0.0.5"
-    "karma": ">=6.3.16"
   }
 }
 
