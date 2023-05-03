@@ -32,13 +32,13 @@ website:
             href: slides/D1_rabo_04.qmd
           - text: "---"
           - text: "Ecology"
-            href: slides/D1_rabo_06.qmd
+            href: TBA
           - text: "Climate & Phenology"
-            href: slides/D1_rabo_05.qmd
+            href: TBA
           - text: "Survey Methods"
             href: slides/D1_rabo_07.qmd
           - text: "Conservation"
-            href: slides/D1_rabo_08.qmd
+            href: TBA
             
       - icon: github
         href: https://www.github.com/ryanpeek/rabo-workshop
