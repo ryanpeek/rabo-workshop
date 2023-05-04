@@ -24,20 +24,20 @@ website:
           - text: "Intro"
             href: slides/D1_rabo_00.qmd
           - text: "Natural History"
-            href: slides/D1_rabo_01.qmd
+            href: slides/rabo_01_natural_history.qmd
           - text: "Status"
-            href: slides/D1_rabo_03.qmd
+            href: slides/rabo_02_status.qmd
           - text: "Un-Natural History"
-            href: slides/D1_rabo_02.qmd
+            href: slides/rabo_03_unnatural_history.qmd
           - text: "Habitat"
-            href: slides/D1_rabo_04.qmd
+            href: slides/rabo_04_habitat.qmd
           - text: "---"
           - text: "Ecology"
             href: TBA
           - text: "Climate & Phenology"
             href: TBA
           - text: "Survey Methods"
-            href: slides/D1_rabo_07.qmd
+            href: slides/rabo_07_surveys.qmd
           - text: "Conservation"
             href: TBA
             

@@ -5,7 +5,7 @@ format:
     slide-number: c/t
     show-slide-number: all
     preview-links: auto
-    self-contained: true
+    self-contained: false
     multiplex: false
     incremental: true
     progress: true
