@@ -53,3 +53,4 @@ format:
       light: cosmo
       dark: superhero
     css: styles.css
+    link-external-newwindow: true
