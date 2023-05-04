@@ -461,16 +461,32 @@ CRLF and NRLF can look similar
 
 ::: {layout="[[1,1]]"}
 
-![](../img/nrlf_adults.jpg)
+![?](../img/nrlf_adults.jpg)
 
 
-![](../img/lica_juvenile.png)
+![?](../img/lica_juvenile.png)
 
 :::
 
 ::: footer
 Natural History: Species ID
 :::
+
+## Other species can appear similar {.smaller}
+
+::: {layout="[[1,1]]"}
+
+![NRLF](../img/nrlf_adults.jpg)
+
+
+![Bullfrog](../img/lica_juvenile.png)
+
+:::
+
+::: footer
+Natural History: Species ID
+:::
+
 
 
 ## [*RABO* can have many colors/textures]{.light-yellow} {.smaller background-image="../img/rabo_in_water_bright_sun.jpg" background-size="cover" background-position="center" background-opacity="0.95" background-color="#001B44"}
@@ -524,7 +540,7 @@ Natural History: Species ID
 :::
 
 
-## [This may help]{.washed-yellow} {.smaller background-image="../img/rabo_adult_ventral.jpg" background-size="cover" background-position="center" background-opacity="0.95"}
+## [This may help]{.washed-yellow} {.smaller background-image="../img/rabo_adult_ventral.jpg" background-size="contain" background-position="center" background-opacity="0.95"}
 
 ::: footer
 Natural History: Species ID
@@ -561,9 +577,9 @@ Natural History: Species ID
 
 ::: {layout="[[1,1]]"}
 
-![](../img/rabo_em_gos09.jpg)
+![RABO](../img/rabo_em_gos09.jpg)
 
-![](../img/crlf_eggs.jpg)
+![CRLF](../img/crlf_eggs.jpg)
 
 :::
 
