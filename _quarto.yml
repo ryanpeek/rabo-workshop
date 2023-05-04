@@ -46,8 +46,6 @@ website:
   search: false
   page-footer: "written in Quarto by R. Peek"
 
-execute:
-  freeze: auto
 format:
   html:
     theme:

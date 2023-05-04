@@ -4,10 +4,9 @@
 .Ruserdata
 /.quarto/
 .DS_Store
-/_site/
 /_examples/
 img/*.m4v
-/.quarto/
+
 
 slides/*speaker.html
 data/*zip
