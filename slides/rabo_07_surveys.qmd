@@ -403,11 +403,12 @@ Definitions
 from S. Kupferberg, SF Eel
 :::
 
-# [Larvae]{.navy} {.tl .smaller background-image="../img/rabo_tads_hatched.jpg" background-size="cover" background-position="center" background-color="#000000"}
-
 ::: notes
 cumulative frequency curves from the SF Eel to show that a well timed survey 3-4 weeks after egg laying starts could capture about 90% of the egg laying. In other words at a site with cool temperatures most clutches would not have completely hatched and dispersed, and could still be counted.
 :::
+
+
+# [Larvae]{.navy} {.tl .smaller background-image="../img/rabo_tads_hatched.jpg" background-size="cover" background-position="center" background-color="#000000"}
 
 :::
 
