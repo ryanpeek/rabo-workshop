@@ -69,15 +69,15 @@ Status
     - is experiencing, or formerly experienced, serious (non-cyclical) population declines or range retractions (not reversed) that, if continued or resumed, could qualify it for State threatened or endangered status;
     - has naturally small populations exhibiting high susceptibility to risk from any factor(s), that if realized, could lead to declines that would qualify it for State threatened or endangered status.
 
-## Federal ESA (1973) {.smaller}
+## Species of Special Concern (SSC) {.smaller}
 
- > *Purpose: to protect and recover imperiled species and the ecosystems upon which they depend.*
- 
- - Administered by the U.S. Fish and Wildlife Service (Service) and the Commerce Department's National Marine Fisheries Service (NMFS)
- - Species may be listed as either endangered or threatened
-    - [**"Endangered"**]{.dark-red} means a species is in danger of extinction throughout all or a significant portion of its range
-    - [**"Threatened"**]{.orange} means a species is likely to become endangered within the foreseeable future
-    - All species of plants and animals, except pest insects, are eligible for listing as endangered or threatened.
+Is an administrative designation and carries no formal legal status. However, SSCs should be considered during the environmental review process. 
+
+[**The intent of designating SSCs is to:**]{.navy}
+
+  - focus attention on animals at conservation risk by the Department, other State, local and Federal governmental entities, regulators, land managers, planners, consulting biologists, and others; 
+  - stimulate research on poorly known species; 
+  - achieve conservation and recovery of these animals before they meet California Endangered Species Act criteria for listing as threatened or endangered. 
 
 ## California ESA (CESA, 1970) {.smaller}
 
@@ -88,9 +88,36 @@ Status
 
 ## CESA Definitions {.smaller}
 
- - [**Endangered**]{.dark-red}: A native species or subspecies of bird, mammal, fish, amphibian, reptile, or plant which is in serious danger of becoming extinct throughout all, or a significant portion, of its range due to one or more causes, including loss of habitat, change in habitat, overexploitation, predation, competition, or disease
- - [**Threatened**]{.orange}: A native species or subspecies…that, although not presently threatened with extinction, is likely to become an endangered species in the foreseeable future in the absence of the special protection and management efforts required by this chapter
- - **Candidate**: A native species or subspecies that the commission has formally noticed as being under review by the Department for listing. Candidates are given full CESA protection
+ - [**Endangered**]{.dark-red}: A native species or subspecies of bird, mammal, fish, amphibian, reptile, or plant which is in *serious danger of becoming extinct throughout all, or a significant portion, of its range* due to one or more causes, including loss of habitat, change in habitat, overexploitation, predation, competition, or disease
+ - [**Threatened**]{.orange}: A native species or subspecies…that, although *not presently threatened with extinction, is likely to become an endangered species in the foreseeable future* in the absence of the special protection and management efforts required by this chapter
+ - **Candidate**: A native species or subspecies that the commission has *formally noticed as being under review by the Department for listing*. Candidates are given full CESA protection
+
+## Federal ESA (1973) {.smaller}
+
+ > *Purpose: to protect and recover imperiled species and the ecosystems upon which they depend.*
+ 
+ - Administered by the U.S. Fish and Wildlife Service (Service) and the Commerce Department's National Marine Fisheries Service (NMFS)
+ - Species may be listed as either endangered or threatened
+    - [**"Endangered"**]{.dark-red} means a species is *in danger of extinction throughout all or a significant portion of its range*
+    - [**"Threatened"**]{.orange} means a species is *likely to become endangered* within the foreseeable future
+    - All species of plants and animals, except pest insects, are eligible for listing as endangered or threatened.
+    
+## Federal ESA (1973) {.smaller}
+
+ - [**"Candidate species"**]{.blue} are plants and animals for which the FWS or NMFS has sufficient information on their biological status and threats to propose them as endangered or threatened under the ESA, but for which development of a proposed listing regulation is precluded by other higher priority listing activities.  Currently reviewing.
+
+## Critical Habitat
+
+ - [Critical Habitat]{.navy}: FWS (or NMFS) identifies specific areas essential to the species conservation
+ - Critical habitat is a tool that supports the continued conservation of imperiled species by guiding cooperation within the federal government. Designations affect only federal agency actions or federally funded or permitted activities. 
+
+## Recovery
+
+Recovery is the process of restoring endangered and threatened species to the point where they no longer require the safeguards of the Endangered Species Act. A recovery plan serves as a road map for species recovery. 
+
+ - For more information on CESA and ESA please visit our website: 
+
+ - [https://wildlife.ca.gov/Conservation/CESA/FESA](https://wildlife.ca.gov/Conservation/CESA/FESA)
 
 ## Comparisons {.smaller}
 
@@ -122,25 +149,27 @@ Status
 :::
 :::
 
-## Frog Timeline
+## Frog Timeline {.smaller}
 
 ::: {.columns .pv4}
-::: {.column width="70%" .incremental}
+::: {.column width="55%" .incremental}
 
-- First described (Baird 1854)
-- Synopsis of Amphibia in CA (Storer 1925)
+- First described as *Rana boylii* (Baird 1854)
+- Described *R. boylii boylii* as exclusively as stream frog (Storer 1925)
 - Full species detailed (Zweifel 1955)
 - Species of Special Concern (1994 Jennings and Hayes, CDFW)
 
 :::
-::: {.column width="30%"}
+::: {.column width="45%"}
 
-![*Storer 1925*](../img/storer_1925_frog_plate_12.jpg){fig-align="center"}
+![*Baird 1854*](../img/baird_1854.png)
+
+![*Storer 1925*](../img/storer_1925_frog_plate_12.jpg){fig-align="left" width=55%}
 :::
 :::
 
 ::: footer
-Status
+
 :::
 
 ## Frog Timeline
@@ -507,7 +536,7 @@ Permitting
 **Weekly egg mass surveys**
 
  - Egg clutch relocation
-    - Best option to reduce mortality if instream work must occur prior to metamorphose or stream drying
+    - Best option to reduce mortality if instream work must occur prior to metamorphosis or stream drying
     - Easier to move intact clutch than partially or fully hatched
     - Clutch with rock in bucket. 2-3 clutches/bucket
     - Distribute clutches upstream
@@ -573,7 +602,7 @@ Permitting
 
  1. Obtain CDFW written approval of the proposed RABO breeding habitat and non-breeding habitat
  2. Prepare a RABO Breeding Habitat Enhancement/Creation & Long-Term Management Plan
- 3. Submit to CDFW for review and approval within 120 days of the issuance of this Amendment
+ 3. Submit to CDFW for review and approval within 120 days of the issuance
     - The Plan may incorporate a range of actions and may include invasive species management, opening the canopy to enhance RABO breeding habitat, planting riparian trees along tributary reaches, creating pool habitat in tributary reaches, or a combination of actions
     - The Plan shall include a minimum of 10 years of monitoring and shall include success criteria for created/enhanced elements  
 		

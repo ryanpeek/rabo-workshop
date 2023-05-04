@@ -6,7 +6,7 @@ format:
     show-slide-number: all
     preview-links: auto
     self-contained: true
-    multiplex: true
+    multiplex: false
     progress: true
     history: true
     hash-type: number
@@ -192,13 +192,15 @@ Yarnell 2000
 
 <br>
 
-![NF American](../img/hab_nfa_bar.jpg)
+![NF American: alternating](../img/hab_nfa_bar.jpg)
 
 :::
 
 :::
 
-
+::: footer
+[&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ➙ Skunk Canyon: confined]{.white}
+:::
 
 # Breeding <br> Habitat<br> Details {background-image="../img/storer_1925_egg_drawing.png" background-size="contain" background-position="right" background-color="#000000"}
 
@@ -358,7 +360,7 @@ Adult Habitat
 ## Overwintering Habitat {.smaller}
 
 ::: {.columns .pv4}
-::: {.column width="70%" .incremental}
+::: {.column width="60%" .incremental}
  
  - Very little data are available relating to overwintering habitat
  - Van Wagner (1996) observed *R. boylii* both in the water and along the stream-edge habitat beneath rocks, leaf litter, and *Carex spp*
@@ -367,8 +369,8 @@ Adult Habitat
  - Or move into adjacent terrestrial habitat to avoid winter flood events altogether.
  
 :::
-::: {.column .tc .pv4 width="30%"}
-{{< li xtkehzkm trigger=loop delay=3000 colors=secondary:#2a76dd class=rc >}}
+::: {.column .tc .pv4 width="39%"}
+![Cave RABO!](../img/rabo_overwintering.jpg)
 :::
 :::
 
@@ -530,51 +532,135 @@ Lytle and Poff 2004
 ![](../img/slate_ck_dam.png){.absolute width=40% left=0}
 
 
-## Case Study {.tl background-image="../img/clavey.jpg" background-size="cover" background-position="center" background-color="#000000"}
+# Case Study {.tl background-image="../img/clavey.jpg" background-size="cover" background-position="center" background-color="#000000"}
 
-## Tuolumne River {background-image="../img/hab_as_02.png" background-size="contain" background-position="center" background-color="#000000"}
+## <br /> FYLF Habitats within the <br />Tuolumne Watershed {.tr .smaller background-image="../img/striegle_hab_01.jpg" background-size="contain" background-position="center" background-color="#000000"}
 
-## Tuolumne River {background-image="../img/hab_as_03.png" background-size="contain" background-position="center" background-color="#000000"}
+## {.tr .smaller background-image="../img/striegle_hab_02.jpg" background-size="contain" background-position="center" background-color="#000000"}
 
-## Tuolumne River {background-image="../img/hab_as_04.png" background-size="contain" background-position="center" background-color="#000000"}
+::: {.columns}
 
-## Tuolumne River {background-image="../img/hab_as_05.png" background-size="contain" background-position="center" background-color="#000000"}
+::: {.column .pr4 width="25%"}
+:::
+::: {.column .pr4 width="70%"}
 
-## Tuolumne River {background-image="../img/hab_as_06.png" background-size="contain" background-position="center" background-color="#000000"}
+<br><br><br>
+<br><br>
+<br><br><br>
+<br><br>
 
-## Tuolumne River {background-image="../img/hab_as_07.png" background-size="contain" background-position="center" background-color="#000000"}
+- 2022 survey data
+- Primary survey area covers 28-miles of MSTR
+- All age-classes of FYLF observations shown as yellow dots
+- Survey Effort: 2022 surveys shown as downstream “start” (green star) and upstream “end” (red star)
+:::
+:::
 
-## Tuolumne River {background-image="../img/hab_as_08.png" background-size="contain" background-position="center" background-color="#000000"}
+## MSR at "Early Intake"<br/> Elevation ~2300' {.tr .smaller background-image="../img/striegle_hab_03.png" background-size="contain" background-position="center" background-color="#000000"}
 
-## Tuolumne River {background-image="../img/hab_as_09.png" background-size="contain" background-position="center" background-color="#000000"}
+## {background-image="../img/striegle_hab_04.png" background-size="contain" background-position="center" background-color="#000000"}
 
-## Tuolumne River {background-image="../img/hab_as_10.png" background-size="contain" background-position="center" background-color="#000000"}
+## {background-image="../img/striegle_hab_05.png" background-size="contain" background-position="center" background-color="#000000"}
 
-## Tuolumne River {background-image="../img/hab_as_11.png" background-size="contain" background-position="center" background-color="#000000"}
+## {background-image="../img/striegle_hab_06.jpg" background-size="contain" background-position="center" background-color="#000000" background-opacity="70%"}
 
-## Tuolumne River {background-image="../img/hab_as_12.png" background-size="contain" background-position="center" background-color="#000000"}
+ - Late Summer: Expecting late-stage larvae
+ - Wading/visual techniques (looking for poop)
+ - Looking everywhere, but focusing on warmer side edgewaters (even on south-bank)
 
-## Tuolumne River {background-image="../img/hab_as_13.png" background-size="contain" background-position="center" background-color="#000000"}
+## {background-image="../img/striegle_hab_07.png" background-size="contain" background-position="center" background-color="#000000"}
 
-## Tuolumne River {background-image="../img/hab_as_14.png" background-size="contain" background-position="center" background-color="#000000"}
+![](../img/striegle_hab_08.png){.absolute top=0 right=0 width=300}
 
-## Tuolumne River {background-image="../img/hab_as_15.png" background-size="contain" background-position="center" background-color="#000000"}
+::: footer
+[9/14/2022]{.white}
+:::
 
-## Tuolumne River {background-image="../img/hab_as_16.png" background-size="contain" background-position="center" background-color="#000000"}
+## {background-image="../img/striegle_hab_09.png" background-size="contain" background-position="center" background-color="#000000"}
 
-## Tuolumne River {background-image="../img/hab_as_17.png" background-size="contain" background-position="center" background-color="#000000"}
+## {background-image="../img/striegle_hab_10.png" background-size="contain" background-position="center" background-color="#000000"}
 
-## Tuolumne River {background-image="../img/hab_as_15.png" background-size="contain" background-position="center" background-color="#000000"}
+## <br /><br /> MSTR below <br />Cherry Creek {.tc .smaller background-image="../img/striegle_hab_11.jpg" background-size="contain" background-position="center" background-color="#000000"}
 
-## Tuolumne River {background-image="../img/hab_as_16.png" background-size="contain" background-position="center" background-color="#000000"}
+## {background-image="../img/striegle_hab_12.png" background-size="contain" background-position="center" background-color="#000000"}
 
-## Tuolumne River {background-image="../img/hab_as_17.png" background-size="contain" background-position="center" background-color="#000000"}
+## {background-image="../img/striegle_hab_13.png" background-size="contain" background-position="center" background-color="#000000"}
 
-## Tuolumne River {background-image="../img/hab_as_18.png" background-size="contain" background-position="center" background-color="#000000"}
+## {background-image="../img/striegle_hab_14.jpg" background-size="contain" background-position="center" background-color="#000000"}
 
-## Tuolumne River {background-image="../img/hab_as_19.png" background-size="contain" background-position="center" background-color="#000000"}
+![](../img/striegle_hab_15.jpg){.absolute left=0 bottom=0 width=340}
 
-## Tuolumne River {background-image="../img/hab_as_20.png" background-size="contain" background-position="center" background-color="#000000"}
+## <br /> MSTR near <br />Clavey Confluence {.tc .smaller background-image="../img/striegle_hab_16.jpg" background-size="contain" background-position="center" background-color="#000000"}
+
+::: footer
+8/9/2022
+:::
+
+## {background-image="../img/striegle_hab_17.jpg" background-size="contain" background-position="center" background-color="#000000"}
+
+## {background-image="../img/striegle_hab_17.jpg" background-size="contain" background-position="center" background-color="#000000" background-opacity="60%"}
+
+ - Good low flow rearing (with daily pulse)
+ - Multiple tads of similar age. Egg location?
+
+## {background-image="../img/striegle_hab_18.jpg" background-size="contain" background-position="center" background-color="#000000"}
+
+
+## [Tributaries to MSTR: Observations since 2018]{.f1} {background-image="../img/striegle_hab_19.jpg" background-size="contain" background-position="center" background-color="#000000"}
+
+ - FYLF Breeding: E, L, [M (aqua arrow)]{.light-green}
+ - Older life stages ([orange]{.orange})
+
+
+## SF Tuolumne:<br /> Egg clutch obs 6/1/2022, larvae 7/27 {.smaller background-image="../img/striegle_hab_20.jpg" background-size="contain" background-position="bottom" background-color="#000000"}
+
+## {background-image="../img/striegle_hab_21.jpg" background-size="contain" background-position="center" background-color="#000000"}
+
+## Clavey River (8/9/2022 Flow < 5cfs) { .smaller background-image="../img/striegle_hab_22.jpg" background-size="contain" background-position="bottom" background-color="#FFFFFF"}
+
+## Larvae <br />locations {.tl .smaller background-image="../img/striegle_hab_23.jpg" background-size="cover" background-position="center" background-color="#FFFFFF"}
+
+##    ...and smaller tribs {.tr .smaller background-image="../img/striegle_hab_24.jpg" background-size="cover" background-position="bottom" background-color="#FFFFFF"}
+
+##    ...and even smaller tribs {.tr .smaller background-image="../img/striegle_hab_25.jpg" background-size="contain" background-position="bottom" background-color="#FFFFFF"}
+
+## {.smaller background-image="../img/striegle_hab_26.jpg" background-size="contain" background-position="center" background-color="#FFFFFF"}
+
+## {.smaller background-image="../img/striegle_hab_27.jpg" background-size="contain" background-position="right" background-color="#000000" background-opacity="99%"}
+
+## Spring-fed trib <1cfs: 2 EM on 5/11  {.smaller background-image="../img/striegle_hab_27.jpg" background-size="contain" background-position="right" background-color="#000000" background-opacity="70%"}
+
+## [FYLF clutches observed on 5/11 & follow-up 6/1/2022]{.f1 .smaller}
+
+::: {.columns}
+
+::: {.column width="50%"}
+![](../img/striegle_hab_28.jpg)
+:::
+
+::: {.column  width="50%"}
+![](../img/striegle_hab_29.jpg)
+:::
+:::
+
+## <br /><br /><br /><br /><br /><br /><br />Lest we forget the older ones...{.smaller background-image="../img/striegle_hab_30.jpg" background-size="contain" background-position="center" background-color="#000000"}
+
+## 
+
+::: {.columns}
+
+::: {.column width="50%"}
+![](../img/striegle_hab_31.jpg)
+:::
+
+::: {.column  width="50%"}
+![](../img/striegle_hab_32.jpg)
+:::
+:::
+
+##  {background-image="../img/striegle_hab_33.jpg" background-size="contain" background-position="center" background-color="#000000"}
+
+##  {background-image="../img/striegle_hab_34.jpg" background-size="contain" background-position="center" background-color="#000000"}
 
 
 ## Questions? {background-color="#111111" background-image="../img/artsy_datasheet_rabo.jpg" background-size="cover" background-position="bottom"}
