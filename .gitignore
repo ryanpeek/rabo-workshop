@@ -13,5 +13,3 @@ data/*zip
 
 img/sk/*
 img/astriegle_hab/
-# Local Netlify folder
-.netlify
