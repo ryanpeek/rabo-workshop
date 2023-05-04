@@ -8,7 +8,7 @@ format:
     self-contained: true
     progress: true
     history: true
-    multiplex: true
+    multiplex: false
     hash-type: number
     logo: ../img/rabo_icon_color.png
     theme: [default, ../rabo.scss]

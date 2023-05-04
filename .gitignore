@@ -7,9 +7,11 @@
 /_examples/
 img/*.m4v
 
+/_site/
 /.quarto/
 slides/*speaker.html
 data/*zip
 
 img/sk/*
 img/astriegle_hab/
+

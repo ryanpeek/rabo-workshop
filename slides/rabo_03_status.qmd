@@ -6,7 +6,7 @@ format:
     show-slide-number: all
     preview-links: auto
     self-contained: true
-    multiplex: true
+    multiplex: false
     incremental: true
     progress: true
     history: true
