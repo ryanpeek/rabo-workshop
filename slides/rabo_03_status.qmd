@@ -215,7 +215,7 @@ CDFW Status
 
 ## Feather River {.smaller background-image="../img/clade_dfw_feather.jpg"  background-size="48%" background-position="right"}
 
- - **Threatened**
+ - [**Threatened**]{.orange}
 
 ::: footer
 CDFW Status
@@ -224,7 +224,7 @@ CDFW Status
 
 ## North Sierra (NE) {.smaller background-image="../img/clade_dfw_north_sierra.jpg"  background-size="48%" background-position="right"}
 
- - **Threatened**
+ - [**Threatened**]{.orange}
 
 ::: footer
 CDFW Status
@@ -308,7 +308,7 @@ USFWS Status
 ::: {.columns .pv4}
 ::: {.column width="50%" .incremental}
 
- - **Threatened**
+ - [**Threatened**]{.orange}
  - includes proposed 4(d) Rule
 :::
 :::
@@ -407,7 +407,7 @@ USFWS Status
 ::: {.columns .pv4}
 ::: {.column width="50%" .incremental}
 
- - **Threatened**
+ - [**Threatened**]{.orange}
  
 :::
 :::
@@ -421,13 +421,13 @@ USFWS Status
 
 ::: {.columns .pv4}
 ::: {.column width="49%"}
-**Threatened**
+[**Endangered**]{.dark-red}
 ![](../img/clade_dfw_central_coast.jpg)
 :::
 
 ::: {.column width="49%"}
 
-**Threatened**
+[**Threatened**]{.orange}
 
 ![](../img/clade_usfws_ccoast.jpg){width=120%}
 :::
