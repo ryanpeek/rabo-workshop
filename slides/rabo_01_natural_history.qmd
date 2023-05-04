@@ -540,7 +540,7 @@ Natural History: Species ID
 :::
 
 
-## [This may help]{.washed-yellow} {.smaller background-image="../img/rabo_adult_ventral.jpg" background-size="contain" background-position="center" background-opacity="0.95"}
+## [This is RABO]{.washed-yellow} {.tl .smaller background-image="../img/rabo_adult_ventral.jpg" background-size="contain" background-position="center"}
 
 ::: footer
 Natural History: Species ID
