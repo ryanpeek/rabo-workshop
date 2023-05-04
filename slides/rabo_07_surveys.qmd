@@ -410,11 +410,6 @@ cumulative frequency curves from the SF Eel to show that a well timed survey 3-4
 
 # [Larvae]{.navy} {.tl .smaller background-image="../img/rabo_tads_hatched.jpg" background-size="cover" background-position="center" background-color="#000000"}
 
-:::
-
-:::
-
-
 
 ## Observational Data: Larvae {.smaller}
 
@@ -470,7 +465,7 @@ cumulative frequency curves from the SF Eel to show that a well timed survey 3-4
 
 ::: {.column width="60%"}
 
-![](../img/rabo_juv_chinphoto.jpg){width=50% fig-align=center}
+![](../img/rabo_juv_chinphoto.jpg){width=50% fig-align="center"}
 
 ![](../img/rabo_on_cobble_closeup.jpg)
 
