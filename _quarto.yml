@@ -24,13 +24,13 @@ website:
           - text: "Intro"
             href: slides/D1_rabo_00.qmd
           - text: "Natural History"
-            href: slides/rabo_01_natural_history.qmd
+            href: slides/D1_rabo_01.qmd
           - text: "Status"
-            href: slides/rabo_02_status.qmd
+            href: slides/D1_rabo_02.qmd
           - text: "Un-Natural History"
-            href: slides/rabo_03_unnatural_history.qmd
+            href: slides/D1_rabo_03.qmd
           - text: "Habitat"
-            href: slides/rabo_04_habitat.qmd
+            href: slides/D1_rabo_04.qmd
           - text: "---"
           - text: "Ecology"
             href: TBA

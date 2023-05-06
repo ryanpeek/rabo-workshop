@@ -284,7 +284,7 @@ Range shrinking at multiple scales, north/south, high elevations, within watersh
 :::
 
 ::: {.column .relative width="40%"}
-![Zweifel 1955](../img/zweifel_range_1955.jpg)
+![Zweifel 1955](../img/zweifel_range_1955.pdf)
 :::
 :::
 

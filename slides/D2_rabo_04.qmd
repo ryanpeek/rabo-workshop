@@ -1,0 +1,15 @@
+---
+title: "Conservation"
+format:
+  html:
+    css: ../styles.css
+    code-link: false
+editor_options: 
+  chunk_output_type: console
+---
+
+<iframe class="slide-deck" src="./rabo_08_conservation.html" title="Conservation Slides">
+</iframe>
+
+*Note.* To view the slideshow in full screen mode, click inside it and press the "f" key on your keyboard.<br />
+You can also use the menu by clicking on the icon at the bottom-left of each slide.

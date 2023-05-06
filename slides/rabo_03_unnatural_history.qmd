@@ -19,6 +19,8 @@ format:
     pagetitle: "RABO Unnatural History"
     author-meta: "Ryan Peek"
     date-meta: "2023-05-09"
+editor_options: 
+  chunk_output_type: console
 ---
 
 
@@ -143,7 +145,7 @@ Unnatural History: Mining
 :::
 
 
-## CA Mines {.smaller .tr .r-stretch background-image="../img/usgs_gold_mines_map.jpg"  background-size="48%" background-position="left"}
+## CA Mines {.smaller .tr .r-stretch background-image="../img/usgs_gold_mines_map.png"  background-size="48%" background-position="left"}
 
 ::: {.columns .pv4}
 
