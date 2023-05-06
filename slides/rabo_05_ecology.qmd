@@ -29,39 +29,111 @@ format:
 [Elkhorn Slough CTP]{}
 :::
 
-![](../img/sk/02_tad.png){.absolute top=0 right=10 width=370}
+![](../img/sk_02_tad.png){.absolute top=0 right=10 width=370}
 
-![](../img/sk/03_garter.jpg){.br-100 .absolute top=300 bottom=0 left=0 width=300}
-![](../img/sk/04_algae_tad.png){.absolute top=300 bottom=0 left=200 width=490}
-![](../img/sk/01_algae_mat.png){.absolute bottom=0 top=300 left=700 width=330}
+![](../img/sk_03_garter.jpg){.br-100 .absolute top=300 bottom=0 left=0 width=300}
+![](../img/sk_04_algae_tad.png){.absolute top=300 bottom=0 left=200 width=490}
+![](../img/sk_01_algae_mat.png){.absolute bottom=0 top=300 left=700 width=330}
 
 :::
 
-## [The goal of being a tadpole is to graze and avoid predators to reach metamorphosis]{.washed-blue} {background-image="../img/sk/image7.jpg" background-size="cover" background-position="center" background-color="#000000" background-opacity=75%}
+## [ The goal of being a tadpole is to graze and avoid predators to reach metamorphosis]{.washed-blue} {background-image="../img/sk_image7.jpg" background-size="cover" background-position="center" background-color="#000000" background-opacity=75%}
 
 
 
-## Algae and temperature explain why frogs don't breed in the tributaries where they spend the rest of the year {.smaller}
+## Algae and temperature explain... {.smaller}
+
+ [...why frogs don't breed in the tributaries where they spend the rest of the year]{.fragment}
 
 ::: {.columns}
 ::: {.column width="60%"}
 
-![](../img/sk/image8.jpg){width=90%}
+![](../img/sk_image8.jpg){width=85%}
 
 :::
 
 ::: {.column width="39%"}
 
-![](../img/sk/image9.jpg)
+![](../img/sk_image9.jpg)
 
-![](../img/sk/image10.jpg)
+![](../img/sk_image10.jpg)
 
 :::
 :::
 
-## {background-image=../img/sk/05_tadpole_seasonal.jpg background-size="contain"}
+## {background-image=../img/sk_05_tadpole_seasonal.jpg background-size="contain" background-position="bottom"}
 
-## {background-image=../img/sk/06_algae.png background-size="contain"}
+## {background-image=../img/sk_06_algae.png background-size="contain"}
 
 
-## Periphyton and temperature affects development rate {.smaller background-image=../img/sk/07_periphyton.png background-size="contain" background-position="bottom"}
+## Periphyton and temperature affects development rate {.smaller background-image=../img/sk_07_periphyton.png background-size="contain" background-position="bottom"}
+
+## Warmer temperatures improve growth and size at metamorphosis...<br />up to a certain point {.smaller background-image=../img/sk_08_water_temp.png background-size="60%" background-position="bottom" background-color="#000000"}
+
+
+## [Harmful algal<br /> blooms and<br />parasites<br /> under very<br /> warm low flow<br /> conditions]{.salmon} {.smaller background-image=../img/sk_09_habs.png background-size="55%" background-position="right"}
+
+::: {.columns}
+::: {.column width="40%"}
+
+[Bouma-Gregson, K., Power, M. E., & Bormans, M. 2017. Rise and fall of toxic benthic freshwater cyanobacteria (*Anabaena* spp.) in the Eel river: Buoyancy and dispersal.Harmful algae,66, 79-87.]{.f3}
+
+:::
+::: {.column width="60%"}
+
+:::
+:::
+
+
+## [Thermal preference <br />range matches peak<br /> performance range]{.navy} {.smaller background-image=../img/sk_10_m30dat.png background-size="47%" background-position="right"}
+
+::: {.columns}
+
+::: {.column width="45%"}
+
+![](../img/sk_11_m30dat.png)
+:::
+::: {.column width="40%"}
+:::
+
+:::
+
+
+## Impacts of Parasites {.smaller}
+
+[Avoiding warm temperatures is adaptive]{.f1 .blue}
+
+::: {.columns}
+
+::: {.column width="45%"}
+![](../img/sk_12_fig.png)
+
+ - **Smaller metamorph body size**
+
+:::
+
+::: {.column width="50%"}
+
+![](../img/sk_12_abnormality.png)
+
+ - **Possible association with limb abnormalities**
+
+:::
+:::
+
+
+## Bullfrogs have relatively higher prevalence and tolerance of parasites {.smaller background-image=../img/sk_image32.jpg background-size="47%" background-position="left"}
+
+::: {.columns}
+
+::: {.column width="45%"}
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="50%"}
+![](../img/sk_13_fig.png)
+
+ - Superior competitors to *R. boylii*
+
+:::
+:::
