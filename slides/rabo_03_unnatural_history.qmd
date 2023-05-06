@@ -26,7 +26,7 @@ editor_options:
 
 ::: {.my-title}
 
-## [Unnatural History]{.gold}<br />of Foothill Yellow-Legged Frogs{background-color="#111111" background-image="../img/simulated_sat_1851_mark_clark.jpg" background-position="right" background-size="contain"}
+## [Unnatural History]{.gold}<br /> of Foothill Yellow-Legged Frogs{background-color="#111111" background-image="../img/simulated_sat_1851_mark_clark.jpg" background-position="right" background-size="contain"}
 
 <br>
 
@@ -45,14 +45,14 @@ editor_options:
 ## Changed Landscapes {.smaller background-image="../img/fire_hydraulic_IMG_8718.jpg" background-size="cover" background-position="top" background-opacity="0.95"}
 
 
-## {background-image="../img/fire_hydraulic_edited_transmission.jpg" background-size="contain" background-position="top" background-opacity="0.95"}
+## {data-menu-title="Changed Landscapes: Power" background-image="../img/fire_hydraulic_edited_transmission.jpg" background-size="contain" background-position="top" background-opacity="0.95"}
 
-## {background-image="../img/fire_hydraulic_edited_fire.jpg" background-size="contain" background-position="top" background-opacity="0.95"}
+## {data-menu-title="Changed Landscapes: Fire" background-image="../img/fire_hydraulic_edited_fire.jpg" background-size="contain" background-position="top" background-opacity="0.95"}
 
-## {background-image="../img/fire_hydraulic_edited_hydro.jpg" background-size="contain" background-position="top" background-opacity="0.95"}
+## {data-menu-title="Changed Landscapes: Hydro" background-image="../img/fire_hydraulic_edited_hydro.jpg" background-size="contain" background-position="top" background-opacity="0.95"}
 
 
-## {background-color="#CCCCCC"}
+## {background-color="#CCCCCC" data-menu-title="Geological Agents"}
 
 ::: center
 <h3>
@@ -316,7 +316,7 @@ Species life histories are finely tuned to capitalize on specialized temporal ni
 ![](../img/rabo_em_gos09.jpg){.br-100 .absolute bottom=0 right=200 width=200}
 :::
 
-## {.smaller background-image="../img/mfa_flow_patterns_zoomed.png" background-size="contain" background-position="bottom" background-color="white"}
+## {data-menu-title="MFA Flow Patterns" .smaller background-image="../img/mfa_flow_patterns_zoomed.png" background-size="contain" background-position="bottom" background-color="white"}
 
 ::: {.fragment fragment-index=1 .tc .f2}
 <br>
@@ -336,13 +336,13 @@ Species life histories are finely tuned to capitalize on specialized temporal ni
 Often asynchronous, altered flow regimes have affected freshwater species that evolved under natural flow patterns by limiting connectivity, reducing flow cues, and eliminating habitat.
 :::
 
-## {background-image="../img/regulation_mean_hrly_discharge.png" background-size="contain" background-position="center" background-color="white"}
+## {data-menu-title="Hourly Discharge" background-image="../img/regulation_mean_hrly_discharge.png" background-size="contain" background-position="center" background-color="white"}
 
-## {background-image="../img/regulation_mean_ann_discharge.png" background-size="contain" background-position="center" background-color="white"}
+## {data-menu-title="Mean Annual Discharge" background-image="../img/regulation_mean_ann_discharge.png" background-size="contain" background-position="center" background-color="white"}
 
-## Flow Predictability vs. Seasonality {.smaller background-image="../img/seasonality_predam.png" background-size="contain" background-position="center" background-color="#001B44"}
+## Flow Predictability vs. Seasonality {data-menu-title="Seasonality vs Predictability: Pre" .smaller background-image="../img/seasonality_predam.png" background-size="contain" background-position="center" background-color="#001B44"}
 
-## Flow Predictability vs. Seasonality {.smaller background-image="../img/seasonality_postdam.png" background-size="contain" background-position="center" background-color="#001B44"}
+## Flow Predictability vs. Seasonality {data-menu-title="Seasonality vs Predictability: Post" .smaller background-image="../img/seasonality_postdam.png" background-size="contain" background-position="center" background-color="#001B44"}
 
 ## Functional Flows Concept {background-color="white"}
 

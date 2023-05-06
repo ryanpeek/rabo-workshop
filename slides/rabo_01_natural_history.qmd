@@ -70,7 +70,7 @@ The critical importance of understanding natural history in order to achieve eff
 
 :::
 
-## {background-image="../img/ale_snorkel_frog.jpg" background-size="cover" background-position="center" background-opacity="0.95"}
+## {data-menu-title="Natural History" background-image="../img/ale_snorkel_frog.jpg" background-size="contain" background-position="center" background-opacity="0.95"}
 
 ::: {.columns .pv4}
 
@@ -219,7 +219,7 @@ Long ago only the three Yellow Jacket sisters had fire. Even though other animal
 
 
 
-## *Rana boylii*
+## *Rana boylii* 
 
 ::: columns
 ::: column
@@ -246,7 +246,7 @@ Natural History: Species Overview
 R. boylii was first described by Baird (1854). A half century of taxonomic uncertainty followed with several name changes (Zweifel 1968). Since 1955, Rana boylii has been recognized as a distinct species in the family Ranidae (Zweifel 1955, Collins 1990). Zweifel (1955) described six species in the R. boylii group. R. boylii’s closest relative, both geographically and phylogenetically, is Rana muscosa. The four other ranids included in the R. boylii group by Zweifel (R. pustulosa, R. tarahumarae, R. pueblae, and R. moori) occur in Mexico, the latter extending into southern Arizona. Subsequent research suggests minor modifications to Zweifel’s work on the R. boylii group (Dumas 1966, Green 1986a, Green 1986b). No subspecies of R. boylii are known to date, but detailed genetic analysis may reveal cryptic taxa (Jennings and Hayes 1994)
 :::
 
-## Distribution {.smaller}
+## Distribution {.smaller data-menu-title="Distribution 1"}
 
 ::: {.columns .pv4}
 
@@ -271,7 +271,7 @@ Natural History: Distribution
 Range shrinking at multiple scales, north/south, high elevations, within watersheds, dams, hab loss and Bd
 :::
 
-## Distribution {.smaller}
+## Distribution {.smaller data-menu-title="Distribution 2"}
 
 ::: {.columns .pv4}
 
@@ -284,7 +284,7 @@ Range shrinking at multiple scales, north/south, high elevations, within watersh
 :::
 
 ::: {.column .relative width="40%"}
-![Zweifel 1955](../img/zweifel_range_1955.pdf)
+![Zweifel 1955](../img/zweifel_range_1955.jpg)
 :::
 :::
 
@@ -292,7 +292,7 @@ Range shrinking at multiple scales, north/south, high elevations, within watersh
 Natural History: Distribution
 :::
 
-## Life History {.incremental}
+# Life History {.incremental}
 
 ::: {.r-stack}
 ::: {.fragment .fade-in-then-out}
@@ -313,7 +313,7 @@ Natural History: Distribution
 :::
 
 
-## Life History {.smaller}
+## Life History {.smaller data-menu-title="Life Cycle"}
 
 ::: {.columns .pv4}
 ::: {.column .pr4 width="50%" .incremental}
@@ -361,15 +361,10 @@ Natural History: Adults
 :::
 
 
-## {.smaller background-image="../img/rabo_amplexus.jpg" background-size="cover" background-position="center" background-opacity="0.95" background-color="#001B44"}
+## {.smaller data-menu-title="Amplexus & Oviposition" background-image="../img/rabo_amplexus.jpg" background-size="cover" background-position="center" background-opacity="0.95" background-color="#001B44"}
 
-::: footer
-Natural History: Amplexus
-:::
 
-## {.smaller background-image="../img/rabo_amplexus.jpg" background-size="cover" background-position="center" background-opacity="0.95" background-color="#001B44"}
-
-![](../img/rabo_oviposit.png){.absolute top=50 right=20 width=400}
+![](../img/rabo_oviposit.png){.fragment .absolute top=50 right=20 width=400}
 
 ::: footer
 Natural History: Amplexus
@@ -382,20 +377,20 @@ Evolved with external fertilization, so there is a water velocity constraint!
 
 :::
 
-## {background-image="../img/rabo_soccer_eggs.jpg" background-size="cover" background-position="center" background-opacity="0.95" background-color="#001B44"}
+## {data-menu-title="Eggs" background-image="../img/rabo_soccer_eggs.jpg" background-size="cover" background-position="center" background-opacity="0.95" background-color="#001B44"}
 
 ::: footer
 Natural History: Eggs
 :::
 
-## {background-image="../img/rabo_em_NFA3EM.jpg" background-size="cover" background-position="center" background-opacity="0.95" background-color="#001B44"}
+## {data-menu-title="Multiple Clutches" background-image="../img/rabo_em_NFA3EM.jpg" background-size="cover" background-position="center" background-opacity="0.95" background-color="#001B44"}
 
 ::: footer
 Natural History: Oviposition
 :::
 
 
-## {background-image="../img/rabo_tads_hatched.jpg" background-size="cover" background-position="center" background-opacity="0.95"}
+## {data-menu-title="Hatching" background-image="../img/rabo_tads_hatched.jpg" background-size="cover" background-position="center" background-opacity="0.95"}
 
 
 ::: footer
@@ -403,7 +398,7 @@ Natural History: Tadpoles
 :::
 
 
-## {background-image="../img/rabo_closeup_recent_tad_mcloud.jpg" background-size="cover" background-position="center" background-opacity="0.95"}
+## {data-menu-title="Tadpoles" background-image="../img/rabo_closeup_recent_tad_mcloud.jpg" background-size="cover" background-position="center" background-opacity="0.95"}
 
 
 ::: footer
@@ -411,7 +406,7 @@ Natural History: Tadpoles
 :::
 
 
-## {background-image="../img/rabo_late_gos_yoy.jpg" background-size="cover" background-position="center" background-opacity="0.95"}
+## {data-menu-title="YOY" background-image="../img/rabo_late_gos_yoy.jpg" background-size="cover" background-position="center" background-opacity="0.95"}
 
 ::: footer
 YOY
@@ -438,7 +433,7 @@ Natural History: Observations
 Natural History: Species ID
 :::
 
-## Species ID: Who's who? {.smaller}
+## Species ID: Who's who? {.smaller data-menu-title="Answer 1"}
 
 ::: {layout="[[1,1]]"}
 
@@ -457,11 +452,11 @@ CRLF and NRLF can look similar
 :::
 
 
-## Other species can appear similar {.smaller}
+## Other species can appear similar {.smaller data-menu-title="Similar Species"}
 
 ::: {layout="[[1,1]]"}
 
-![?](../img/nrlf_adults.jpg)
+![?](../img/nrlf_adults.png)
 
 
 ![?](../img/lica_juvenile.png)
@@ -472,11 +467,11 @@ CRLF and NRLF can look similar
 Natural History: Species ID
 :::
 
-## Other species can appear similar {.smaller}
+## Other species can appear similar {.smaller data-menu-title="Similar Species 2"}
 
 ::: {layout="[[1,1]]"}
 
-![NRLF](../img/nrlf_adults.jpg)
+![NRLF](../img/nrlf_adults.png)
 
 
 ![Bullfrog](../img/lica_juvenile.png)
@@ -489,7 +484,7 @@ Natural History: Species ID
 
 
 
-## [*RABO* can have many colors/textures]{.light-yellow} {.smaller background-image="../img/rabo_in_water_bright_sun.jpg" background-size="cover" background-position="center" background-opacity="0.95" background-color="#001B44"}
+## [*RABO* can have many colors/textures]{.light-yellow} {data-menu-title="RABO Colors" .smaller background-image="../img/rabo_in_water_bright_sun.jpg" background-size="cover" background-position="center" background-opacity="0.95" background-color="#001B44"}
 
 <br>
 <br>
@@ -546,7 +541,7 @@ Natural History: Species ID
 Natural History: Species ID
 :::
 
-## Different eggs {.smaller}
+## Different eggs {.smaller data-menu-title="Different Amphib Eggs"}
 
 ::: {layout="[[1,1]]"}
 
@@ -573,7 +568,7 @@ Natural History: Species ID
 :::
 
 
-## Different eggs {.smaller}
+## Different eggs {.smaller data-menu-title="Different Frog Eggs"}
 
 ::: {layout="[[1,1]]"}
 
@@ -590,7 +585,7 @@ Natural History: Species ID
 ## [Egg Masses]{.washed-red}{.tr background-image="../img/rabo_EMCloseup_alameda.jpg" background-size="cover" background-position="center" background-opacity="0.95"}
 
 
-## 
+## {data-menu-title="Clutches as Indicators"}
 
 ::: {.columns .pv4}
 
@@ -605,7 +600,7 @@ Natural History: Species ID
 :::
 
 ::: {.column width="60%"}
-![](../img/kupf_em_Rb_EggDensity_Color.jpg){fig-align="center" width=85%}
+![](../img/kupf_em_Rb_EggDensity_Color.png){fig-align="center" width=85%}
 :::
 
 :::

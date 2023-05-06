@@ -110,7 +110,7 @@ Overview
 ::: {.column .tc .pv5 .relative width="30%"}
 {{< li emzrtjck trigger=hover delay=3000 colors=secondary:#2a76dd class=rc >}}
 
-![](../img/frog_general_green.svg){width=150}
+![](../img/rabo_icon_color.png){width=150}
 :::
 :::
 

@@ -444,10 +444,10 @@ Analysing the complexity of geomorphic units at the reach scale is appropriate f
 
 # Hydrology for Frogs {background-color="#000000"}
 
-## {background-image="../img/recession_seasonality_breeding.png" background-size="contain" background-position="right" background-color="#FFFFFF"}
+## {data-menu-title="Recession Seasonality" background-image="../img/recession_seasonality_breeding.png" background-size="contain" background-position="right" background-color="#FFFFFF"}
 
 
-## {background-image="../img/yarnell_biosci_flow_recession_2010.png" background-size="contain" background-position="right" background-color="#FFFFFF"}
+## {data-menu-title="Quantifying Flow" background-image="../img/yarnell_biosci_flow_recession_2010.png" background-size="contain" background-position="right" background-color="#FFFFFF"}
 
 ::: notes
 Flow management has greatest control over magnitude and rate of change from releases.
@@ -466,7 +466,7 @@ Daily recession rates consistent across elevations and basins in Sierras: timing
 :::
 
 
-## {.smaller background-image="../img/thermohydrograph_nfa_combined_2011-2012.png" background-size="contain" background-position="center" background-color="#FFFFFF"}
+## { data-menu-title="Thermohydrographs" .smaller background-image="../img/thermohydrograph_nfa_combined_2011-2012.png" background-size="contain" background-position="center" background-color="#FFFFFF"}
 
 ::: {.columns}
 
@@ -524,17 +524,17 @@ Lytle and Poff 2004
 :::
 
 
-## {background-image="../img/mfa_flow_patterns_zoomed.png" background-size="contain" background-position="top" background-color="#000000"}
+## {data-menu-title="MFA Flow" background-image="../img/mfa_flow_patterns_zoomed.png" background-size="contain" background-position="top" background-color="#000000"}
 
 ![](../img/dam_sierras.jpg){.absolute width=20% left=40 bottom=300}
 
 
-## {background-image="../img/forbestown_egg_stranding.jpg" background-size="contain" background-position="right" background-color="#000000"}
+## {data-menu-title="Egg Stranding" background-image="../img/forbestown_egg_stranding.jpg" background-size="contain" background-position="right" background-color="#000000"}
 
 ![](../img/slate_ck_dam.png){.absolute width=40% left=0}
 
 
-# Case Study {.tl background-image="../img/clavey.jpg" background-size="cover" background-position="center" background-color="#000000"}
+# Case Study {data-menu-title="Tuolumne Case Study" .tl background-image="../img/clavey.jpg" background-size="cover" background-position="center" background-color="#000000"}
 
 ## <br /> FYLF Habitats within the <br />Tuolumne Watershed {.tr .smaller background-image="../img/striegle_hab_01.jpg" background-size="contain" background-position="center" background-color="#000000"}
 
