@@ -22,239 +22,287 @@ format:
 ---
 
 ::: {.my-title}
-# [Conservation]{.orange} and [Management]{.blue}
+# [Conservation]{.orange} & [Management]{.blue}
 
 ::: {.my-grey}
-[Ryan Peek | 2023-05-09]{}<br />
-[Elkhorn Slough CTP]{}
+[Elkhorn Slough CTP | 2023-05-09]{}<br />
 :::
 
-![](../img/rabo_adult_dark_transparent.png){.absolute bottom=0 right=0 width=250}
+![](../img/rabo_adult_dark_transparent.png){.absolute bottom=0 right=0}
 :::
 
 <!-- Overview -->
 
-# 
+# {data-menu-title="Wangari Maathai quote"}
 
 ::: {.columns .pv4}
 ::: {.column width="30%"}
 ::: {.tc}
-![](../img/eye_of_newt_cover)
+![](../img/wangari_unbowed.jpg)
 :::
 :::
 
 ::: {.column width="70%"}
 
- > One thing to remember is to talk to the animals. If you do, they will talk back to you. But if you don’t talk to them, they won’t talk back to you, then you won’t understand. And when you don’t understand, you will fear, and when you fear, you will destroy the animals, and if you destroy the animals you will destroy yourself
+ > “Education, if it means anything, should not take people away from the land, but instill in them even more respect for it, because educated people are in a position to understand what is being lost. The future of the planet concerns all of us, and all of us should do what we can to protect it. As I told the foresters, and the women, [*you don't need a diploma to plant a tree.*]{.navy}”
  
-[*Chief Dan George | Tseil-Waututh Nation (1899-1981)*]{.gray}
+[*Wangari Maathai | Unbowed (2008)*]{.gray}
 
 :::
 :::
 
-## Overview {.smaller}
+::: notes
+Wangari Maathai, Kenyan peace activist and environmentalist, who in 2004 became the first African woman to win the Nobel Peace Prize. 
+:::
+
+## Conservation Strategies
+
+ - Removal of dams / Flow Management in RABO habitat
+ - Augmentation / Translocation
+ - Watershed protection
+ - Stream Habitat and Nonnative Species Management
+ - Watershed Scale Management
+ - Population and Habitat Monitoring
+ - Improve gene flow & connectivity
+
+## {.smaller data-menu-title="Dam removal" background-image=../img/sk_image_c001.jpg background-size="contain" background-position="top" background-color="#FFFFFF"}
+
+::: footer
+[Dam Removal]{.f2 .black}
+:::
+
+
+## {.smaller data-menu-title="Dam removal: 2" background-image=../img/sk_image_c002.jpg background-size="contain" background-position="top" background-color="#000000"}
+
+::: footer
+[Dam Removal]{.white}
+:::
+
+## After dam removal<br /> sediment grain <br />size was much <br /> smaller {.tl .smaller data-menu-title="Dam removal: 3" background-image=../img/sk_image_c003.jpg background-size="contain" background-position="right" background-color="#FFFFFF"}
+
 
 ::: {.columns .pv4}
-::: {.column width="30%"}
-::: {.tc}
-![](../img/ryan_snorkel_river.png ){.br-100}
+::: {.column width="35%"}
 
-Snorkeling<br /> 
+<br /><br /><br /><br /><br />
+
+ - Pacific Lamprey to the rescue!
+ 
+![](../img/sk_image_c004.png){fig-align="center"}
 :::
 :::
 
-::: {.column width="5%"}
+## Excavation and Bioturbation
+
+ {{< video https://www.youtube.com/embed/ibHFoRBGMgU
+          title="Lamprey building redd"
+          width="100%" height="80%" >}}
+
+## Breeding shifted upstream...but {.tl .smaller}
+
+::: {.columns .pv4}
+::: {.column width="40%"}
+
+[also observed 81 clutches [**in lamprey redds**]{.orange}]{.fragment}
+
+[![](../img/sk_image_c01.jpg)]{.fragment}
+:::
+::: {.column width="60%"}
+
+::: {.fragment}
+Eggmasses in redds benefit from:
+
+ - ⬇︎ depth without exposure to ⬆︎ velocity
+ - ⬇ mortality due to stranding
+
+ 
+![](../img/sk_image_c02.jpg)
+:::
+:::
 :::
 
-::: {.column width="65%"}
-::: {.fragment .incremental}
+# {data-menu-title="Jim Lichatowitch quote"}
 
- - Adult Surveys
- - Underwater calling
- - Tadpole surveys
- - Egg Mass (EM) surveys
- - eDNA monitoring (methodology & application)
- - River Size vs. Survey Techniques
- - Detection Inhibitors
- - Equipment
- - Decontamination
+![](../img/sk_rabo_on_lamprey.jpg){fig-align="center"}
 
+ > [“Animals don’t go extinct because someone shoots the last one, or a bulldozer scrapes away the last habitat. They go extinct because the web of relationships that sustain them unravels...”]{.black}
+ 
+[*Jim Lichatowitch | (2013)*]{.gray}
+
+## Dam Removal {.smaller background-color="#FFFFFF"}
+
+[Population increased when dam was no longer operated.<br /> 
+Deconstruction did not have a long-lasting impact.]{.f2}
+
+![](../img/sk_image_c03.png)
+
+
+::: footer
+Dam Removal
 :::
+
+## Augment threatened populations {.smaller}
+
+::: {.columns .pv4}
+::: {.column width="45%"}
+
+ - Cresta Reach of NF Feather
+ - PG&E license boating releases
+ - Surveyed by Garcia and Associates (2002-2021)
+ - Historically, > 30 egg masses / yr
+ - [**Only 4 in 2016, 2 in 2017**]{.b .orange}
+ - Management changed, population not recovering
+ - Introduced predators (bass, crayfish)
+:::
+
+::: {.column width="55%"}
+![](../img/sk_image_c04.png){width="80%" fig-align="right"}
 :::
 :::
 
 ::: footer
-Overview
+Augmentation
 :::
 
-## References {.smaller}
+## Head starting of tadpoles {.smaller}
 
 ::: {.columns .pv4}
 ::: {.column width="50%"}
 
+ - pilot project 2017, expanded 2018-2020
+ - rescue eggs from stranding & restore gene flow by sourcing eggs from a different reach
+ - w/o intervention, 1 - 4% survival to metamorphosis
+
+:::
+::: {.column width="50%"}
+
+ - [With]{.purple} baskets 13.6% of cohort released as metamorphs
+ - large size because food supplementation, warm temp
+
+:::
+:::
+![](../img/sk_image_c05.jpg){.tc fig-align="center"}
+
+## {.smaller data-menu-title="Zoo headstarting" background-image=../img/sk_image_c06.jpg background-size="contain" background-position="top" background-color="#FFFFFF"}
+
+::: {.columns .pv5}
+::: {.column width="70%"}
+
+<br/><br/><br/><br/><br/>
+<br/><br/><br/>
+<br/><br/>
+
+Zoo-Rearing
+
+- Salvaged egg masses that might strand
+- Raised to juvenile and adult stages in tanks and recirculating troughs
+- Unintended breeding in tanks
+
+:::
+:::
+
+::: footer
+Augmentation
+:::
+
+## {data-menu-title="Zoo headstarting Results" background-image=../img/sk_image_c07.jpg background-size="cover" background-position="top" background-color="#FFFFFF"}
+
+
+## Incident Take Permit (ITP) {.smaller}
+
+
+ - FGC 2081(b) requires that the impact of the authorized taking shall be minimized and fully mitigated.
+
 ::: {.fragment}
-
- - PARC 2013
-   Gabrielle J. Graeter, Kurt A. Buhlmann, Lucas R. Wilkinson, J. Whitfield Gibbons
-
-:::
-::: {.fragment}
-
-![](../img/parc_2013_cover.png)
-:::
-:::
+ - Analysis includes scope of take
+    - Low (few individuals -short time period)
+    - High (many individuals-extended time period
+:::    
 
 
-::: {.column .relative width="50%"}
-::: {.fragment}
+![](../img/bear_river_tailing_flow.png){fig-align="center"}
 
- - Smithsonian 1994 
-   Heyer, W. R., M. D. Donnelly, R. W. McDiarmid, L. C. Hayek,  M. S. Foster
-
-
-![](../img/heyer_et_al_1994_cover.png)
-:::
-:::
-:::
-:::
-
-::: footer
-References
-:::
-
-## Definitions {.smaller}
-
-**Definitions**	Measuring and Monitoring Biological Diversity: Standard Methods for Amphibians.  1994.  Eds, Heyer et al.
- 
- - **Relative abundance**:  proportional representation of species in a sample
- - **Inventory**:  study of a specific area, site, or habitat to determine the number of species present (i.e. species richness)
- - **Monitoring**: study of the abundance of individuals in one or more populations of a species at a site through time
- - **Mark-recapture** techniques:  methods for determining population size that involve capturing, marking, and releasing animals, and subsequently recapturing or re-sighting them one or more times.
- - **Visual Encounter Survey (VES)**:  estimate the diversity (number of. different species) and abundance (number of different individuals) of animals at a particular location
-
-::: footer
-Definitions
-:::
-
-
-## Workshop Roadmap {.smaller}
+## Habitat Assessment {.smaller}
 
 ::: {.columns .pv4}
-::: {.column width="30%" .incremental}
- 
- - Natural and Unnatural History
- - Breeding Timing & Plasticity
- - Status Review and Listing
+::: {.column width="40%"}
 
+ [Consider]{.f2 .orange}
  
+  - Quality of habitat impacted
+  - Density of RABO population
+  - Value of impacted habitat to species (dispersal, lek site)
+  - Distance to other suitable habitat
+
+![](../img/rabo_tads_hatched.jpg){fig-align="center" width=300}
+
 :::
-::: {.column width="30%" .incremental}
- 
- - Habitat
- - Basic Ecology
- - Survey Methods
- - Conservation
- 
-:::
-::: {.column .tc .pv4 width="40%"}
-{{< li xtkehzkm trigger=loop delay=3000 colors=secondary:#2a76dd class=rc >}}
+::: {.column .tc width="60%"}
+
+![San Corpoforo](../img/San_Corpoforo.png){fig-align="center"}
 :::
 :::
 
 ::: footer
-Overview
+Conservation
 :::
 
-## Workshop Etiquette {.smaller}
+## Habitat <br />Assessment<br /> Temporally {.smaller background-image="../img/sk_mainstem_eel_above_Pillsbury_side_pool_2018_09_21.jpg" background-size="57%" background-position="right" background-color="#000000"}
 
-::: {.columns .pv4}
-::: {.column width="60%"}
-#### [Things to Do]{.green}
+::: {.columns .pv3}
+::: {.column width="40%"}
+<br>
 
-::: {.incremental}
--   Act respectfully
--   Ask for help in chat or "raise hand"
--   Turn your camera on or off as desired
--   Please mute yourself when not speaking
+[Temporal Loss Assessment]{.f2 .orange}
+
+  - Permanent vs. Temporary
+  - Duration of impacts
+  - Duration of restoration
+
+:::
+::: {.column .tc width="60%"}
+
 :::
 :::
-
-::: {.column .tc .pv5 width="40%"}
-{{< li syzdvjlt trigger=loop delay=3000 colors=secondary:#2a76dd class=rc >}}
-:::
-:::
-
 ::: footer
-Overview
+[Mainstem Eel, above Lake Pillsbury, Sept 2018]{.tr .white}
 :::
 
-## Life History I {.smaller background-color="black"}
+## Compensatory Mitigation {.smaller background-image="../img/sk_los_burros_pano.jpg" background-size="contain" background-position="bottom" background-opacity="60%" background-color="#000000"}
 
-::: {.columns .pv4}
-::: {.column .pr4 width="70%"}
+<br><br>
 
-#### The Basics
+[Full Mitigation]{.f2 .yellow}
 
-1. Adults breed in the spring ([*amplexus*]{.yellow})
-3. Females pick oviposition location
-4. External fertilization, egg masses ~2-3 weeks
-5. After hatching tadpoles cannot swim or often see
-6. Sink to bottom for 5 days, typically jet black
-7. Tadpoles require 2.5 months 18C or greater
-8. Metamorphosis in late summer/fall
+ - Management actions to control predators, competitors or pathogens
+ - Permanent conservation of essential habitat
+ - Habitat restoration
+ - Off-site creation/restoration/enhancement
+ - *and/or* off-site acquisition and protection
+ 
+ 
+## Mechanisms { background-image="../img/NFMF_upstream.jpg" background-size="cover" background-position="bottom" background-opacity="50%" background-color="#000000"}
+ 
+ - Acquisition and protection of currently unprotected functional habitat (e.g., conservation of essential habitat areas)
+
+ - Restoration or enhancement of areas with degraded ecosystem function
+
+ - Creation of functional habitat
+ 
+## Conservation Goals {.smaller}
+
+:::{.incremental}
+
+[Maintain the number and the range of impacted species by:]{.f2 .purple .b}
+
+ - creating new functional habitat, enhancing or restoring existing functional habitat, or increase function (e.g., carrying capacity) and reduce/control adverse conditions (e.g., exotic species, etc.)
+ - Conserve larger, contiguous habitat areas
+ - Conserve and restore habitat connectivity corridors (i.e., decreased habitat fragmentation) and maximize species distribution across its range
+ - Conserve and maintain associated ecological systems (i.e., including physical factors such as topography, soil, and hydrology as well as biological factors such as forage/prey, lek sites)
+ - Conserve population structures and genetics
+ - Conserve unique habitat features
+ - Consistency with recovery plan goals that contribute to de-listing criteria
 
 :::
 
-::: {.column width="30%"}
-
-![](../img/rabo_egg_mass_gos22.jpg)
-
-:::
-:::
-
-::: aside
-*Note:* There is a great amount of plasticity depending on the region and habitat.
-:::
-
-
-## *Rana boylii* Calling
-
-<!-- youtube: https://www.youtube.com/embed/MmSPTZVqTG0-->
-
-  {{< video https://www.youtube.com/embed/MmSPTZVqTG0
-          title="Rana boylii calling"
-          width="100%" height="80%" >}}
-
-
-
-
-## Resources {.smaller}
-
-::: {.columns .pv4}
-::: {.column width="60%"}
--   Here are some additional resources about the topic [TOPIC]{.b .green}
-    -   How we store and organize data
-    -   Templates for field data collection
-
-::: {.fragment .mt1}
--   Some links or survey stuff here
-    1.  Survey VES sheet
-    2.  Survey Habitat sheet
-:::
-
-::: {.fragment .mt1}
--   Summary statement [about surveys for frogs]{.b .blue}
-    -   Frogs are **X** and also can be **Y**
-:::
-:::
-
-::: {.column .tc .pv5 width="40%"}
-{{< li mgtgkkcb trigger=loop delay=3000 colors=secondary:#2a76dd class=rc >}}
-:::
-:::
-
-::: footer
-Resources
-:::
-
-
+## Questions? {background-color="#111111" background-image="../img/artsy_datasheet_rabo.jpg" background-size="cover" background-position="bottom"}

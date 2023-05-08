@@ -39,7 +39,7 @@ website:
           - text: "Survey Methods"
             href: slides/D2_rabo_03.qmd
           - text: "Conservation"
-            href: TBA
+            href: slides/D2_rabo_04.qmd
             
       - icon: github
         href: https://www.github.com/ryanpeek/rabo-workshop

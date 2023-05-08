@@ -75,18 +75,8 @@ format:
 
 [*up to a certain point*]{.f1}
 
-## [Harmful algal<br /> blooms and<br />parasites<br /> under very<br /> warm low flow<br /> conditions]{.salmon} {.smaller background-image=../img/sk_09_habs.png background-size="55%" background-position="right"}
+## [Cyanobacteria and parasites under [very warm]{.orange} low flow conditions]{.salmon} {.smaller background-image=../img/sk_09_habs_v2.jpg background-size="90%" background-position="bottom" background-color="#FFFFFF"}
 
-::: {.columns}
-::: {.column width="40%"}
-
-[Bouma-Gregson, K., Power, M. E., & Bormans, M. 2017. Rise and fall of toxic benthic freshwater cyanobacteria (*Anabaena* spp.) in the Eel river: Buoyancy and dispersal.Harmful algae,66, 79-87.]{.f3}
-
-:::
-::: {.column width="60%"}
-
-:::
-:::
 
 ::: notes
 Some climate change scenarios predict larger winter floods and drier summers, which would favor cyanobacteria proliferations. Anthropogenic water withdrawals further depress summertime river discharges, also increasing the likelihood of cyanotoxin production.
@@ -216,21 +206,17 @@ Dragonfly nymph (*Aeshna walkerii*) effect on survival (a) and growth in terms o
 D Mass and D Length are the incremental mass (mg) and length (mm) gained per day per mg and mm of starting mass and length, respectively.
 :::
 
-## Dams change algal community {.smaller}
-
-Rock Snot -- *Didymosphenia*
-
-(*Paula Furey, Amy Lind*)
+## Dams change food quality for tadpoles {.smaller}
 
 ::: {.columns}
 
-::: {.column width="49%"}
-![](../img/perils_of_rocksnot.jpg)
+::: {.column width="49%" .tc}
+![*Didymosphenia*](../img/perils_of_rocksnot.jpg)
 :::
 
-::: {.column width="49%"}
+::: {.column width="49%" .tc}
 
-![](../img/sk_image39.png)
+![](../img/sk_image43.jpg)
 
 :::
 
@@ -242,59 +228,36 @@ Knowing the importance of Epithemia and N fixing taxa to tadpole growth and surv
 
 :::
 
-## Periphyton {.smaller data-menu-title="Periphyton collection" background-image="../img/sk_image44.jpg" background-size="60%" background-position="right"}
+## {.smaller data-menu-title="Periphyton collection" background-image="../img/sk_image44r.jpg" background-size="70%" background-position="top" background-color="#FFFFFF"}
 
-::: {.columns}
 
-::: {.column width="40%"}
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
 
 Collected periphyton covered cobbles in three rivers.
 
-Raised tadpoles in growth chambers where we controlled the temperature
+Raised tadpoles in growth chambers and replicated the diurnal  temperature fluctuation of the warm peaking and cold peaking rivers.
 
-<br>
-<br>
+<br />
 
-![](../img/sk_image40.jpg)
-:::
-:::
+![](../img/sk_image44c.png){fig-align="center"}
 
-## Periphyton {.smaller data-menu-title="Periphyton collection in regulated rivers" background-image="../img/sk_image43.jpg" background-size="60%" background-position="right"}
+## {.smaller data-menu-title="Tadpole biovolume" background-image="../img/sk_image7.jpg" background-size="70%" background-position="bottom right" background-color="#FFFFFF"}
 
-::: {.columns}
+![](../img/sk_image7_chart.png){.absolute top=0 bottom=300 left=0 width=70%}
 
-::: {.column width="40%"}
-
-Collected periphyton covered cobbles in three rivers.
-
-Raised tadpoles in growth chambers where we controlled the temperature
-
-<br>
-
-<br>
-![](../img/sk_image40.jpg)
-:::
-:::
+## {.smaller data-menu-title="Growth by Epiphyte" background-image="../img/sk_image8_chart.png" background-size="contain" background-position="center" background-color="#FFFFFF"}
 
 
-## Periphyton {.smaller data-menu-title="Periphyton results" background-image="../img/sk_image45.png" background-size="contain" background-position="right"}
-
-::: {.columns}
-
-::: {.column width="40%"}
-
-Collected periphyton covered cobbles in three rivers.
-
-Raised tadpoles in growth chambers where we controlled the temperature
-
-<br>
-<br>
-
-![](../img/sk_image40.jpg)
-:::
-:::
-
-## [Flow velocity]{.blue} changes [Tadpole]{.dark-green} behavior and predation risk {.smaller background-color="#FFFFFF"}
+## [Flow velocity]{.blue} changes [Tadpole]{.dark-green} behavior and predation risk {.smaller background-color="#FFFFFF" visibility="hidden"}
 
 ::: {.columns}
 
@@ -310,7 +273,8 @@ Raised tadpoles in growth chambers where we controlled the temperature
 ::: 
 :::   
 
-## Critical <br />Velocity {.tr .smaller background-image="../img/sk_image47.png" background-size="73%" background-position="left"}
+
+## Critical <br />Velocity {.tr .smaller background-image="../img/sk_image47.png" background-size="73%" background-position="left" visibility="hidden"}
 
 ::: {.columns}
 
@@ -522,9 +486,7 @@ The take home message is that until now, not much was known about the effects of
 
 :::
 
-## {.smaller background-image="../img/sk_image87.jpg" background-size="90%" background-position="top"}
+## Summary of Drought & Disease Effects {.smaller background-image="../img/sk_image87.jpg" background-size="80%" background-position="bottom" background-color="#FFFFFF"}
 
-::: footer
-Summary of Drought & Disease Effects
-:::
+## Questions? {background-color="#111111" background-image="../img/artsy_datasheet_rabo.jpg" background-size="cover" background-position="bottom"}
 
