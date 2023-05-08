@@ -386,6 +386,40 @@ Lowe 2009: animals from san benito/fresno counties
 
 :::
 
+## Range-wide geographic patterns in historical and contemporary fungal infections in the threatened Foothill Yellow-legged Frog, *Rana boylii* {.smaller}
+
+<br />
+
+Belasen, A. M., Peek, R. A., Adams, A. J., Russell, I. D., De León, M. E., Adams, M. J., Bettaso, J, Breedveld, K. G. H., Catenazzi, A., Dillingham, C.P., Grear, D. A., Halstead, B., Johnson, P., Kleeman, P. M., Koo, M.S., Koppl, C.W., Lauder, J. D., Padgett-Flohr, G., Piovia-Scott, J., Pope, K. L., Vredenburg, V., Westphal, M., Wiseman, K., and Kupferberg, S. J.
+
+::: notes
+
+Affiliations:
+
+ - Department of Integrative Biology, University of Texas at Austin, Austin, TX, USA.
+ - Department of Ecology and Evolutionary Biology, Cornell University, Ithaca, NY, USA.
+ - Center for Watershed Sciences, UC Davis, Davis, CA, USA.
+ - Earth Research Institute, University of California, Santa Barbara, CA, USA.
+ - Department of Ecology, Evolution, and Marine Biology, University of  California, Santa Barbara, Santa Barbara, CA, USA.
+ - Genome Center, University of California, Davis, Davis, CA, USA.
+ - U.S. Geological Survey, Forest and Rangeland Ecosystem Science Center, Corvallis, OR 973303.
+ - Spring Rivers Ecological Sciences LLC, Cassel, CA, 96016, USA
+ - Department of Biological Sciences, Florida International University, Miami, FL 33199.
+ - USDA Forest Service, Plumas National Forest, Quincy, CA.
+ - U.S. Geological Survey, Western Ecological Research Center, Dixon Field Station, Dixon, CA  95620.
+ - National Park Service, Pinnacles National Park, Paicines, CA, USA.
+ Museum of Vertebrate Zoology, University of California, Berkeley, CA, USA.
+ - Sierra Streams Institute, Nevada City, CA 95959, USA. 
+ - HELIX Environmental Planning, Inc. Roseville, CA 
+ - School of Biological Sciences, Washington State University, Vancouver, WA, USA.
+ - USDA Forest Service, Pacific Southwest Research Station, Arcata, CA, USA.
+ - Department of Biology, San Francisco State University, San Francisco, CA, USA 94132
+ - Department of Herpetology, California Academy of Sciences, San Francisco, CA, USA
+ - Dept. of Integrative Biology, University of California, Berkeley, CA, USA
+
+:::
+
+
 ## {data-menu-title="Bd study: Belasen et al" background-image="../img/sk_image59.png" background-size="contain" background-position="center" background-color="#FFFFFF"}
 
 ::: notes
