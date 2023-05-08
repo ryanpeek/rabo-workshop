@@ -61,15 +61,19 @@ format:
 :::
 :::
 
-## {background-image=../img/sk_05_tadpole_seasonal.jpg background-size="contain" background-position="bottom"}
+## {data-menu-title="Algae succession" background-image=../img/sk_05_tadpole_seasonal.jpg background-size="contain" background-position="bottom"}
 
-## {background-image=../img/sk_06_algae.png background-size="contain"}
+## {data-menu-title="Cladophora epiphyte load" background-image=../img/sk_06_algae.png background-size="contain"}
 
 
 ## Periphyton and temperature affects development rate {.smaller background-image=../img/sk_07_periphyton.png background-size="contain" background-position="bottom"}
 
-## Warmer temperatures improve growth and size at metamorphosis...<br />up to a certain point {.smaller background-image=../img/sk_08_water_temp.png background-size="60%" background-position="bottom" background-color="#000000"}
+![](../img/sk_07a_periphyton.jpg){.fragment .absolute right=20 bottom=50 width=520}
 
+
+## Warmer temperatures improve growth and size at metamorphosis...{.smaller background-image=../img/sk_08_water_temp.png background-size="69%" background-position="bottom" background-color="#FFFFFF"}
+
+[*up to a certain point*]{.f1}
 
 ## [Harmful algal<br /> blooms and<br />parasites<br /> under very<br /> warm low flow<br /> conditions]{.salmon} {.smaller background-image=../img/sk_09_habs.png background-size="55%" background-position="right"}
 
@@ -82,6 +86,13 @@ format:
 ::: {.column width="60%"}
 
 :::
+:::
+
+::: notes
+Some climate change scenarios predict larger winter floods and drier summers, which would favor cyanobacteria proliferations. Anthropogenic water withdrawals further depress summertime river discharges, also increasing the likelihood of cyanotoxin production.
+For more information see http://angelo.berkeley.edu/research/res-proj/
+Parasitic copepods and trematodes also proliferate at higher temperatures, decrease size, cause malformations, and mortality
+
 :::
 
 
@@ -101,7 +112,7 @@ format:
 
 ## Impacts of Parasites {.smaller}
 
-[Avoiding warm temperatures is adaptive]{.f1 .blue}
+[*Avoiding warm temperatures is adaptive*]{.f1 .purple}
 
 ::: {.columns}
 
@@ -137,3 +148,383 @@ format:
 
 :::
 :::
+
+## Temperature <br />effects on size<br /> influence <br />predation risk {.smaller background-image="../img/sk_image34a.png" background-size="57%" background-position="right" background-color="#FFFFFF"}
+
+
+::: {.columns}
+
+::: {.column width="40%"}
+
+Reciprocal transplant experiments
+
+![](../img/sk_image35.png){width=90%}
+
+:::
+
+:::
+
+## Temperature <br />effects on size<br /> influence <br />predation risk {.smaller background-image="../img/sk_image34.png" background-size="57%" background-position="right" background-color="#FFFFFF"}
+
+
+::: {.columns}
+
+::: {.column width="40%"}
+
+Reciprocal transplant experiments
+
+![](../img/sk_image35.png){width=90%}
+
+:::
+
+:::
+
+::: notes
+Water temperature at four stream sites where tadpoles of *Rana boylii* were reared and exposed to water scorpions (*Ranatra brevicollis*) in June 
+(a) and design of reciprocal transplant predation experiment in July 
+(c) when tadpoles reared at the four sites were exposed to dragonfly nymphs (*Aeshna walkerii*) in the warmest and coldest sites. 
+Brackets and arrows indicate transplant design; symbols (b, d) indicate developmental stage and mass of tadpoles at the beginning of the predation trial periods (bold lines on x-axes a, c). 
+Each thermograph line represents the mean of three sensors placed inside enclosures at each site.
+
+:::
+
+## Predators have a bigger impact<br /> at lower temperatures {.tc .smaller background-image="../img/sk_image36.png" background-size="95%" background-position="center"}
+
+::: footer
+Landscape of fear
+:::
+
+::: notes
+
+Survival (a, b) and size-specific growth rates or D Mass (c) of 8-week-old *Rana boylii* tadpoles in the presence or absence of
+water scorpions (*Ranatra brevicollis*) in relation to mean daily water temperature over the 2 weeks of predator exposure, and as a function of
+tadpole size (n = 71 enclosures of 10 tadpoles each; error bars = 1 SE). 
+D Mass is the incremental mass (mg) gained per day per mg of starting
+mass
+:::
+
+
+## Same results with late stage<br /> tadpoles and dragonfly nymphs {.smaller background-image="../img/sk_image37.png" background-size="95%" background-position="center"}
+
+::: footer
+Landscape of fear
+:::
+
+::: notes
+
+Dragonfly nymph (*Aeshna walkerii*) effect on survival (a) and growth in terms of mass, D Mass (b), and length, D Length (c) of 10-week-old *Rana boylii* tadpoles in relation to shift in thermal regime (daily mean temperature of predator exposure and rearing temperature).
+D Mass and D Length are the incremental mass (mg) and length (mm) gained per day per mg and mm of starting mass and length, respectively.
+:::
+
+## Dams change algal community {.smaller}
+
+Rock Snot -- *Didymosphenia*
+
+(*Paula Furey, Amy Lind*)
+
+::: {.columns}
+
+::: {.column width="49%"}
+![](../img/perils_of_rocksnot.jpg)
+:::
+
+::: {.column width="49%"}
+
+![](../img/sk_image39.png)
+
+:::
+
+:::
+
+::: notes
+
+Knowing the importance of Epithemia and N fixing taxa to tadpole growth and survival, then can examine the effects of invasive diatom 
+
+:::
+
+## Periphyton {.smaller data-menu-title="Periphyton collection" background-image="../img/sk_image44.jpg" background-size="60%" background-position="right"}
+
+::: {.columns}
+
+::: {.column width="40%"}
+
+Collected periphyton covered cobbles in three rivers.
+
+Raised tadpoles in growth chambers where we controlled the temperature
+
+<br>
+<br>
+
+![](../img/sk_image40.jpg)
+:::
+:::
+
+## Periphyton {.smaller data-menu-title="Periphyton collection in regulated rivers" background-image="../img/sk_image43.jpg" background-size="60%" background-position="right"}
+
+::: {.columns}
+
+::: {.column width="40%"}
+
+Collected periphyton covered cobbles in three rivers.
+
+Raised tadpoles in growth chambers where we controlled the temperature
+
+<br>
+
+<br>
+![](../img/sk_image40.jpg)
+:::
+:::
+
+
+## Periphyton {.smaller data-menu-title="Periphyton results" background-image="../img/sk_image45.png" background-size="contain" background-position="right"}
+
+::: {.columns}
+
+::: {.column width="40%"}
+
+Collected periphyton covered cobbles in three rivers.
+
+Raised tadpoles in growth chambers where we controlled the temperature
+
+<br>
+<br>
+
+![](../img/sk_image40.jpg)
+:::
+:::
+
+## [Flow velocity]{.blue} changes [Tadpole]{.dark-green} behavior and predation risk {.smaller background-color="#FFFFFF"}
+
+::: {.columns}
+
+::: {.column width="50%"}
+
+<br><br><br>
+![](../img/sk_image46a.png)
+:::
+
+::: {.column width="50%"}
+![](../img/sk_image46b.png)
+
+::: 
+:::   
+
+## Critical <br />Velocity {.tr .smaller background-image="../img/sk_image47.png" background-size="73%" background-position="left"}
+
+::: {.columns}
+
+::: {.column width="75%"}
+:::
+::: {.column width="25%"}
+
+Vulnerability to being swept away measured in flow chambers.
+
+:::
+:::
+
+::: footer
+Amy Lind, Sarah Yarnell
+:::
+
+## Dams change thermal regime {.smaller .pv5 background-image="../img/sk_image48f.png" background-size="95%" background-position="center" background-color="#FFFFFF"}
+
+- Hypolimnetic releases of cold water
+
+![](../img/sk_image51.jpg){.absolute right=0 top=0 width=240}
+
+
+## Relationship between population size & temperature mirrors larval thermal performance {.smaller background-color="#000000"}
+
+## {data-menu-title="Summer temps by Clade and Clutch density" background-image="../img/sk_image52.png" background-size="95%" background-position="center" background-color="#FFFFFF"}
+
+## Summary {.smaller background-image="../img/sk_image55.jpg" background-size="45%" background-position="right"}
+
+::: {.columns}
+
+::: {.column width="45%"}
+
+[*R. boylii* tads are terrific grazers and thermoregulators]{.fragment}
+
+
+[Many factors influence performance]{.fragment}
+
+::: {.fragment}
+
+ - Type of periphyton
+ - Presence of competitors
+ - Presence of predators
+ - Flow velocity
+
+:::
+
+[Populations are robust where conditions for tadpoles are optimal]{.fragment}
+
+:::
+::: {.column width="55%"}
+:::
+:::
+
+## Drought-Disease <br /> Connection {.smaller background-image="../img/sk_image56.jpg" background-size="50%" background-position="right" background-color="#8B4C39"}
+
+::: {.columns}
+
+::: {.column width="40%"}
+
+ - Hana Moidu, Stephanie Carlson, Pablo Rodriguez-Lozano, UC Berkeley
+ - Robert Leidy, EPA
+ - Alessandro Catenazzi, FIU
+ - Marcia Grefsrud, CDFW
+ - Steven Bobzien, EBRPD
+ - Andrea Adams, UCSB
+
+*Ecohydrology (https://doi.org/10.1002/eco.2395)*
+
+:::
+
+:::
+
+## *R. boylii* susceptible to chytridiomycosis {.smaller}
+
+::: {.columns}
+
+::: {.column width="40%"}
+
+![M. Grefsrud ](../img/sk_image58.png){fig-align="left"}
+
+![](../img/sk_image57.jpg)
+
+:::
+
+::: {.column width="60%"}
+
+[Museum and Field Surveys]{.f2}
+
+ - *Padgett-Flohr & Hopkins (2009, 2010)*
+    - Bd+  in SF Bay Area since 1966
+
+ - *Lowe (2009)*
+    - Bd+ juvs = reduced body condition
+
+ - *Adams et al. (2017)*
+    - Bd mortality at Alameda Ck.
+    - Multiple predictors of infection
+        - bullfrog presence
+        - breeding density
+        - streamflow
+
+:::
+:::
+
+::: notes
+Davidson et al. .2003: animals from s. fork eel river
+Lowe 2009: animals from san benito/fresno counties
+
+:::
+
+## {data-menu-title="Bd study: Belasen et al" background-image="../img/sk_image59.png" background-size="contain" background-position="center" background-color="#FFFFFF"}
+
+::: notes
+Distribution of sampling sites across California and Oregon, USA over 124 years. A) Locations where Foothill Yellow-legged Frogs, Rana boylii, were sampled for infection by the fungal pathogen Batrachochytrium dendrobatidis (Bd) and assayed by PCR or histology. Museum samples are shown by diamonds and field samples by circles. Filled symbols (museum in gold, field in green) indicate Bd positive samples. Symbols may represent many samples at a single collection locality; see inset bar plots for sample sizes in all samples (top) and Bd-positive samples (bottom). R. boylii clades are circled: South Coast (gray), Central Coast (orange), North Coast (teal), Southern Sierra (green), Northern Sierra (yellow), Feather (navy blue). California Endangered Species Act (CESA) status is listed for each clade in legend as follows: EN = endangered, TH = threatened, SSC = species of special concern. B) South-to-north trend in spread of Bd (positive = filled, negative = open symbols) among museum (1897-2005, diamonds) and field samples (2005-2021, circles). Size of symbols denotes sample size at the HUC-12 (sub-watershed) level. GAM of latitude ~ capture year in positive samples is shown with black curved line and overlaid R2 value (0.133).
+
+:::
+
+## {data-menu-title="Bd clusters" background-image="../img/sk_image60.png" background-size="contain" background-position="center" background-color="#FFFFFF"}
+
+## {data-menu-title="Bd through time" background-image="../img/sk_image61.jpg" background-size="contain" background-position="center" background-color="#FFFFFF"}
+
+## Intermittent streams like Coyote and Alameda Ck comprise 66% of CA's river networks {.pv5 .smaller data-menu-title="Intermittency" background-image="../img/sk_image62.jpg" background-size="contain" background-position="center"}
+
+::: notes
+Temporary rivers like Coyote Creek, the system near San Jose California that I will be talking about today, are becoming more prevalent in regions with drying climates and increasing human demands for water.
+:::
+
+## Persistent <br /> pools are <br /> a haven for <br /> native fauna {.tl .smaller data-menu-title="Intermittency" background-image="../img/sk_image63.jpg" background-size="contain" background-position="center"}
+
+::: notes
+Temporary rivers are also biodiverse. In Coyote Creek the pools that persist during droughts are a refuge for more than 170 invertebrate taxa including California floater mussels and thirteen aquatic vertebrate species including brook lamprey, riffle sculpins, an endemic minnow, threatened Ca Red legged frogs, western pond turtles and click
+
+:::
+
+## Longest lasting <br /> pools harbor <br/> non-native <br /> bullfrogs {.tr .smaller data-menu-title="Intermittency" background-image="../img/sk_image64.png" background-size="56%" background-position="left"}
+
+<br>
+Tradeoff: 
+
+  - Dessication vs. Disease
+
+
+::: notes
+During wet winters bullfrogs move from upland cattle ponds and then when that is followed by a low precipitation year, their tadpoles can successfully over-winter in the absence of disturbance, and complete their life cycle, so in 2018 Stephanie Carlson and her group who had been monitoring the fish populations for several year started catching bullfrog tadpoles in the longest lasting pools.  This sets up a tradeoff for the native amphibians, if they breed in the most persistently wet places they face the negative effects of bullfrogs --, if they breed elsewhere they risk having their tadpoles not reach metamorphosis before the channel dewaters.  
+
+In addition to being predators and competitors, bullfrogs are also tolerant hosts of Bd.  For example, otherwise healthy looking tadpoles can be so infected with chytrid fungus that the keratin on their mouthparts (tooth rows and beak) is de-pigmented.
+
+:::
+
+## Methods {.tr .smaller background-image="../img/sk_image65.jpg" background-size="65%" background-position="left"}
+
+
+- Wade/walk channel
+- Count clutches
+- Collect swab samples
+- Map wet vs dry
+
+
+## Chytrid Results {.smaller .pv4 background-image="../img/sk_image66.jpg" background-size="95%" background-position="center"}
+
+## { data-menu-title="Intermittency & Bd" .smaller background-image="../img/sk_image67.jpg" background-size="contain" background-position="center"}
+
+## { data-menu-title="Bd load" .smaller background-image="../img/sk_image83.jpg" background-size="cover" background-position="center"}
+
+![](../img/sk_image84.jpg){.absolute right=0 bottom=0 width=520 height=300}
+
+## Conclusions {.smaller}
+
+::: {.columns}
+
+::: {.column width="60%"}
+
+*R. boylii* is susceptible to Bd
+in a multiple stressor environment
+
+ - [prevalence]{.gold .f2}
+    - Sex / stage (males)
+    - Bullfrogs (reservoir & vector)
+    - Water year
+    
+ - [load]{.blue .f2}
+    - Mean daily stream flow
+      - Dilution effect
+    - Bullfrogs
+    - Season
+    - Con-specific density
+
+:::
+::: {.column width="40%"}
+
+![](../img/sk_image86.jpg)
+
+![](../img/sk_image85.jpg)
+:::
+:::
+
+::: notes
+
+In summary, R. boylii does appear to be susceptible to Bd infection in the field when multiple stressors act together.
+Our mixed effects models showed that bullfrogs are a strong predictor of both Bd prevalence and Bd load. In addition, sexstage, particularly being a male, is a significant predictor of whether a R. boylii individual will be infected. 
+This photo shows a potential reason why males are more likely to be infected, males wrestle each other and congregate at the lek sites; male R. boylii mistake bullfrogs for large female boylii, this is a picture of a boylii in amplexus with a bullfrog. With direct contact with a known Bd reservoir like this, it is easy to imagine how males would be more infected.
+Also, there was a significant effect of water year on infection. Interestingly, even though the outbreak happened in the early water year of 2014, Bd prevalence was actually much higher in 2015, and the male effect didn’t seem to matter as much.
+We know that bullfrogs are usually asymptomatic carriers and can provide Bd  a reservoir; they can also spread bd to new regions as they disperse. We think that it is what is happening at the little Yosemite site since the year of the outbreak was the first year that bullfrogs were observed that far upstream.
+Alternatively, stress induced on native species by competition or direct predation by bullfrogs may be suppress the immune system of R. boylii and they become infected.
+When R. boylii become infected, the intensity of that infection is best predicted by stream flow, bullfrogs, season, and con-specific density. Decreasing bd loads with increasing streamflow is consistent with the hypothesis that a large volume of water dilutes the potential infective zoospore pool, and frogs can disperse throughout lotic environments in the watershed. 
+As flows decrease, ephemeral reaches go dry and pools shrink, we would expect increased density-dependent transmission rates.
+The take home message is that until now, not much was known about the effects of Bd on this species. Now we know that it is susceptible...
+
+:::
+
+## {.smaller background-image="../img/sk_image87.jpg" background-size="90%" background-position="top"}
+
+::: footer
+Summary of Drought & Disease Effects
+:::
+

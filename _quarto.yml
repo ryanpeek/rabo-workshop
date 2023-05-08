@@ -33,11 +33,11 @@ website:
             href: slides/D1_rabo_04.qmd
           - text: "---"
           - text: "Ecology"
-            href: TBA
+            href: slides/D2_rabo_01.qmd
           - text: "Climate & Phenology"
             href: TBA
           - text: "Survey Methods"
-            href: slides/rabo_07_surveys.qmd
+            href: slides/D2_rabo_03.qmd
           - text: "Conservation"
             href: TBA
             
