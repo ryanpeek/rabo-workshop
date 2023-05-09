@@ -29,7 +29,7 @@ format:
 [Elkhorn Slough CTP]{}
 :::
 
-![](../img/rabo_adult_dark_transparent.png){.absolute bottom=0 right=0 width=250}
+![](../img/rabo_adult_dark_transparent.png){.absolute bottom=0 right=0}
 :::
 
 
@@ -38,62 +38,314 @@ format:
 ::: {.columns .pv4}
 ::: {.column width="30%"}
 ::: {.tc}
-![](../img/eye_of_newt_cover)
+![](../img/rp_01.jpg)
 :::
 :::
 
 ::: {.column width="70%"}
 
- > One thing to remember is to talk to the animals. If you do, they will talk back to you. But if you don’t talk to them, they won’t talk back to you, then you won’t understand. And when you don’t understand, you will fear, and when you fear, you will destroy the animals, and if you destroy the animals you will destroy yourself
+ > The face of the water, in time, became a wonderful book—a book that was a dead language to the uneducated passenger, but which told its mind to me without reserve… And it was not a book to be read once and thrown aside, for it had a new story to tell every day
  
-[*Chief Dan George | Tseil-Waututh Nation (1899-1981)*]{.gray}
+[*Mark Twain | Two Views of the Mississippi (1883)*]{.gray}
 
 :::
 :::
 
-## Phenology {background-image="../img/ashton_trinity_rabo_breeding_timing.png" background-size="contain" background-position="center" background-color="#FFFFFF"}
+# Climate {.smaller background-color="#000000"}
+
+::: {.columns}
+
+::: {.column width="50%"}
+![](../img/shasta_dry.png){.fragment}
+:::
+::: {.column width="50%"}
+![](../img/farside_ball_thru_fish_bowl.png){.fragment}
+:::
+:::
+
+## Climate Warming {.smaller background-color="#FFFFFF" background-image="https://static01.nyt.com/images/2019/02/13/learning/NightTemperaturesLN/NightTemperaturesLN-jumbo.png?quality=75&auto=webp" background-size="contain" background-position="center"}
+
+## {background-image="https://static01.nyt.com/images/2019/02/26/learning/AmericansClimateChangeLN/AmericansClimateChangeLN-superJumbo.png?quality=75&auto=webp" background-position="center bottom" background-size="contain" background-color="#FFFFFF"}
+
+## { background-image="https://www.ioes.ucla.edu/wp-content/uploads/2017/01/ucla-ar-02-080220-final-scaled.jpg" background-position="center" background-size="contain" background-color="#FFFFFF"}
+
+## { background-image="../img/ucla-ar-02-080220-final-scaled_zoom.jpg" background-position="center" background-size="contain" background-color="#FFFFFF"}
+
+## Impacts: Shifting Environmental Cues {.smaller background-image="../img/peek_phenology_nfy_2016-08-31_128cfs.jpg" background-size="contain" background-position="center top" background-color="#000000"}
+
+::: {.columns}
+::: {.column width="62%"}
+
+![](../img/rabo_late_gos_yoy.jpg){.br-100 .fragment fragment-index=2 .absolute left=0 bottom=0 width=20%}
+:::
+::: {.column width="38%"}
+
+N Yuba Aug 31, 2016 (128 cfs)
+
+::: {.fragment fragment-index=1}
+ - Cues convey important information and trigger phenological responses
+:::
+
+:::
+:::
+
+::: footer
+
+[Timelapse video: https://vimeo.com/205278540]{.white}
+
+:::
+
+::: notes
+Cues are elements in the environment that convey important information or trigger an affective reaction.
+
+Our knowledge is quite limited about the link between local variation in climate and breeding phenology of many organisms including frogs.
+
+Rain: leads to reasonably high flows in many river systems – and these cue the initiation of spawning in many fish.
+ - Pacific salmon are known to imprint on the chemical signature of their home river
+ - Carp are invasive, they dominate many river systems, comprising an average of around 80% of the fish biomass in many areas. Use rain cue to identify critical periods (and hotspots) for removal in Australia 
+
+These are tools we can use...
+
+:::
+
+
+## Impacts: Shifting Environmental Cues {.smaller background-image="../img/peek_phenology_nfy_2017-10-24_200cfs.jpg" background-size="contain" background-position="center top" background-color="#000000"}
+
+::: {.columns}
+::: {.column width="62%"}
+
+![](../img/rabo_juveniles.jpg){.br-100 .fragment fragment-index=2 .absolute left=0 bottom=0 width=20%}
+:::
+::: {.column width="38%"}
+
+N Yuba Oct 24, 2017 (200 cfs)
+
+::: {.fragment fragment-index=1}
+ - Reliable cues have seasonal predictability
+:::
+
+:::
+:::
+
+::: footer
+Cues
+:::
+
+
+## Impacts: Shifting Environmental Cues {.smaller background-image="../img/peek_phenology_nfy_2017-01-03_600cfs.jpg" background-size="contain" background-position="center top" background-color="#000000"}
+
+::: {.columns}
+::: {.column width="62%"}
+![](../img/rabo_overwintering.jpg){.br-100 .fragment fragment-index=2 .absolute left=0 bottom=0 width=30%}
+:::
+::: {.column width="38%"}
+
+N Yuba Jan 03, 2017 (600 cfs)
+
+::: {.fragment fragment-index=1}
+ - Dams/regulation alter hydrology, water temperature & chemistry
+:::
+
+:::
+:::
+
+::: footer
+
+Cues
+
+:::
+
+## Impacts: Shifting Environmental Cues {.smaller background-image="../img/peek_phenology_nfy_2017-01-09_22kcfs.jpg" background-size="contain" background-position="center top" background-color="#000000"}
+
+::: {.columns}
+::: {.column width="55%"}
+
+:::
+::: {.column width="45%"}
+
+N Yuba Jan 09, 2017 (22,000+ cfs)
+
+::: {.fragment fragment-index=1}
+
+ - What triggers spawning?
+ - How do climate/flow alteration change these cues?
+
+:::
+
+:::
+:::
+
+::: footer
+
+Cues
+
+:::
+
+## Flow alteration changes foodweb length {.smaller visibility="hidden"}
+
+::: {.columns}
+::: {.column width="65%"}
+
+![](../img/macneale_et_al_2010.png){.tc}
+:::
+::: {.column width="35%"}
+
+Higher ramping rates (regulation) were found to be linked to a reduction of the lotic food web length between macroinverts and fish by the equivalent of one trophic level  (Marty et al. 2009)
+
+:::
+:::
+
+# Phenology { background-color="#000000"}
+
+ - [Seasonality]{.light-blue} is a measure of distinct within-year conditions or events (e.g., fall, winter, spring)
+
+ - [Predictability]{.orange} is the regularity of recurrence annually
+
+## { background-color="#000000"}
+
+ > ["*Species life histories are finely tuned to capitalize on specialized temporal niches associated with climatic variability*" (Chesson 2000, Chase 2011).]{.white} 
+
+![](../img/rabo_stoic.jpg){fig-align="center"}
+
+::: notes
+
+Altered flow regimes (climate or otherwise) have affected freshwater species that evolved under natural flow patterns by limiting connectivity, reducing flow cues, and eliminating habitat.
+
+Species life histories are finely tuned to capitalize on specialized temporal niches associated with climatic variability (Chesson 2000, Chase 2011). 
+
+“Seasonality is the occurrence of certain obvious biotic and abiotic events or groups of events within a definite limited period or periods of the astronomic (solar, calendar) year.” Essentially, this represents the degree to which within-year conditions are distinct. Lieth (1974:5)
+
+“Predictability is the regularity of recurrence of the within cycle (e.g., annual) distribution of events across multiple cycles”
+:::
+
+## RABO Breeding Plasticity {.smaller background-image="../img/nfa_initiation_of_oviposition.png" background-size="74%" background-position="center bottom" background-color="#FFFFFF"}
+
+## RABO Breeding Plasticity {.smaller background-image="../img/nfa_hydrovariation_2011.png" background-size="90%" background-position="center bottom" background-color="#FFFFFF"}
+
+## {.smaller background-image="../img/nfa_hydrovariation_2012.png" background-size="90%" background-position="center bottom" background-color="#FFFFFF"}
+
+## {.smaller background-image="../img/nfa_hydrovariation_2013.png" background-size="90%" background-position="center bottom" background-color="#FFFFFF"}
+
+## {.smaller background-image="../img/nfa_hydrovariation_2014.png" background-size="90%" background-position="center bottom" background-color="#FFFFFF"}
+
+## {.smaller background-image="../img/nfa_hydrovariation_2015.png" background-size="90%" background-position="center bottom" background-color="#FFFFFF"}
+
+## {.smaller background-image="../img/nfa_hydrovariation_2016.png" background-size="90%" background-position="center bottom" background-color="#FFFFFF"}
+
+## {.smaller background-image="../img/nfa_hydrovariation_breeding_timing.png" background-size="90%" background-position="center" background-color="#FFFFFF"}
+
+
+## Coastal vs. Sierra? {.smaller background-image="../img/rap_breeding_timing.png" background-size="75%" background-position="center bottom" background-color="#FFFFFF"}
+
+
+## Flow Predictability vs. Seasonality {data-menu-title="Seasonality vs Predictability: Pre" .smaller background-image="../img/seasonality_predam.png" background-size="contain" background-position="center" background-color="#001B44"}
+
+## Flow Predictability vs. Seasonality {data-menu-title="Seasonality vs Predictability: Post" .smaller background-image="../img/seasonality_postdam.png" background-size="contain" background-position="center" background-color="#001B44"}
+
+## {background-image="../img/rubicon_asynchrony.png" background-size="contain" background-position="center" background-color="#FFFFFF"}
+
+::: notes
+This can happen in flow
+:::
+
+## Aseasonal stage change... {.smaller background-image="../img/aseasonal_cues_egg_stranding.png" background-size="80%" background-position="center" background-color="#FFFFFF"}
+
+
+## {background-image="../img/ashton_trinity_rabo_breeding_timing.png" background-size="contain" background-position="center" background-color="#FFFFFF"}
 
 ::: footer
 D. Ashton
 :::
 
-## Phenology {background-image="../img/ashton_trinity_rabo_breeding_timing_pts.png" background-size="contain" background-position="center" background-color="#FFFFFF"}
+::: notes
+Or in temperature
+:::
+
+## {background-image="../img/ashton_trinity_rabo_breeding_timing_pts.png" background-size="contain" background-position="center" background-color="#FFFFFF"}
 
 ::: footer
 D. Ashton
 :::
 
+## Connectivity & Fragmentation {.smaller background-image="../img/fragmentation_glacial_scales.jpg" background-size="contain" background-position="center" background-color="#000000"}
 
+::: notes
+So one can imagine in a river network if there are cues to move at certain times that organisms evolved over many eons, shifts in these cues can have dramatic impacts, both direct and indirect.
 
-## Phenology {.smaller}
+ - Direct impacts may include shifts in connectivity between breeding and refugia
+ - Indirect impacts may include shifts in when food is available, or making food webs less resilient to environmental extremes (i.e., drought, fire)
 
-::: {.columns .pv4}
-::: {.column width="30%" .incremental}
- 
- - Natural and Unnatural History
- - Breeding Timing & Plasticity
- - Status Review and Listing
+For RABO, the most direct are the impacts from flow flucutations on egg mass/rearing.
 
- 
 :::
-::: {.column width="30%" .incremental}
- 
- - Habitat
- - Basic Ecology
- - Survey Methods
- - Conservation
- 
-:::
-::: {.column .tc .pv4 width="40%"}
-{{< li xtkehzkm trigger=loop delay=3000 colors=secondary:#2a76dd class=rc >}}
-:::
+
+## PCA: <br /> Sierras {.tr .smaller background-image="../img/peek_genetics_01.png" background-size="75%" background-position="center" background-color="#FFFFFF"}
+
+::: notes
+Anomalous pattern in regulated watershed compared to other watersheds of equal geographic proximity and ecology (MFA)
 :::
 
 ::: footer
-Overview
+Peek (2018)
+:::
+
+## [NFA]{.blue} {.tr .smaller background-image="../img/peek_genetics_02_nfa.png" background-size="75%" background-position="center" background-color="#FFFFFF"}
+
+<br/><br/>
+<br/><br/>
+<br/><br/>
+<br/><br/>
+
+<center>
+- Unimpaired pattern is more <br/>mixed and less structured
+</center>
+
+::: footer
+Peek (2018)
+:::
+
+## [MFA]{.dark-red} {.tr .smaller background-image="../img/peek_genetics_03_mfa.png" background-size="75%" background-position="center" background-color="#FFFFFF"}
+
+
+::: footer
+Peek (2018)
 :::
 
 
-## Resources {.smaller}
+
+
+## Summary
+
+ - Flow can be a flexible spawning cue for phenology
+ - Declining populations struggle with mismatches from flow alteration & climate change
+ - These impacts may be exacerbated by...
+ 
+::: {.columns}
+::: {.column width="30%"}
+![](../img/sk_image85.jpg){.br-100}
+:::
+
+::: {.column width="40%"}
+![](../img/MosquitoFire_compress.jpg)
+:::
+
+::: {.column width="30%"}
+![](../img/sk_01_algae_mat.png){.br-100}
+:::
+:::
+
+# Pop Quiz!
+
+## How many <br /> frogs do you see? {.smaller background-image="../img/rabo_on_wet_seep.jpg" background-size="contain" background-position="right" background-color="#000000"}
+
+## How many <br /> frogs do you see? {.smaller background-image="../img/rabo_on_wet_seep_circled.jpg" background-size="contain" background-position="right" background-color="#000000"}
+
+::: {.fragment}
+
+ - Did you get 11?
+
+:::
+
+
 
 ## Questions? {background-color="#111111" background-image="../img/artsy_datasheet_rabo.jpg" background-size="cover" background-position="bottom"}
