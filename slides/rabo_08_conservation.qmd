@@ -208,7 +208,7 @@ Augmentation
 ## {data-menu-title="Zoo headstarting Results" background-image=../img/sk_image_c07.jpg background-size="cover" background-position="top" background-color="#FFFFFF"}
 
 
-## Incident Take Permit (ITP) {.smaller}
+## Incidental Take Permit (ITP) {.smaller}
 
 
  - FGC 2081(b) requires that the impact of the authorized taking shall be minimized and fully mitigated.
