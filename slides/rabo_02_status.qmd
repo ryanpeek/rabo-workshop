@@ -317,16 +317,16 @@ USFWS Status
 USFWS Status
 :::
 
-## CDFW Comparison to USFWS {.smaller}
+## North Feather: CDFW vs. USFWS {.smaller}
 
 ::: {.columns .pv4}
 ::: {.column width="49%"}
-[**Endangered**]{.dark-red}
+[**Threatened**]{.orange}
 ![](../img/clade_dfw_feather.jpg)
 :::
 
 ::: {.column width="49%"}
-[**Endangered**]{.dark-red}
+[**Threatened**]{.orange}
 ![](../img/clade_usfws_nsierra-feather.png){fig-width="92%"}
 :::
 :::
@@ -350,7 +350,7 @@ USFWS Status
 :::
 
 
-## CDFW Comparison to USFWS {.smaller}
+## Southern Sierra: CDFW vs. USFWS {.smaller}
 
 ::: {.columns .pv4}
 ::: {.column width="49%"}
@@ -384,7 +384,7 @@ USFWS Status
 :::
 
 
-## CDFW Comparison to USFWS {.smaller}
+## South Coast: CDFW vs. USFWS {.smaller}
 
 ::: {.columns .pv4}
 ::: {.column width="49%"}
@@ -417,7 +417,7 @@ USFWS Status
 :::
 
 
-## CDFW Comparison to USFWS {.smaller}
+## Central Coast: CDFW vs. USFWS {.smaller}
 
 ::: {.columns .pv4}
 ::: {.column width="49%"}
@@ -611,7 +611,7 @@ Permitting
 Permitting
 :::
 
-## Breeding Habitat Creation/Enhancement & Long Term Management {.smaller}
+## Breeding Habitat Creation/Enhancement & Long Term Management (cont) {.smaller}
 
  4. Provide a recent preliminary title report, initial hazardous materials survey report, (or other reports approved by CDFW that provide similar information) and other necessary documents for the RABO Habitat Plan.
  5. If, after a minimum of 3 breeding seasons, the analysis and monitoring at the Project site shows RABO breeding within the Project Area is not successful or has declined relative to control locations, then:
