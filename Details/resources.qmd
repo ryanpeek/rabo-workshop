@@ -27,11 +27,13 @@ editor_options:
 
 **Larva** – The aquatic free-swimming gilled stage of development beginning after emergence from the embryonic jelly coat and ending at metamorphosis. 
 
-**Metamorph** – The brief and transient period of development between aquatic larval development and the amphibious juvenile stage. Metamorphs are intermediate in morphology they may still have part or all of their tails,. Metamorphs are usually detected in and around breeding ponds in spring and summer. Preferred synonym is **young of year**.
+**Metamorph** – The brief and transient period of development between aquatic larval development and the amphibious juvenile stage. Metamorphs are intermediate in morphology they may still have part or all of their tails,. Metamorphs are usually detected in and around breeding areas in spring and summer. Preferred synonym is **young of year**.
 
 **Metamorphosis** – The process of transformation from an aquatic larva to a terrestrial juvenile. During this process gills and tail fins are resorbed and coloration and the overall morphology begins to change to the terrestrial form. Larvae beginning metamorphosis can be detected by inspection of their gills and tail fin. 
 
-**Subadult** – A term essentially meaning the same thing as juvenile, above. Preferred synonym is "**juvenile**.
+**Subadult** – A term essentially meaning the same thing as juvenile, above. Preferred synonym is "**juvenile**".
+
+**Young-of-year (YOY)** – A recently metamorphosed individual from the same year it existed as a larva. Usually detected in and around breeding reaches in spring and summer.
 
 ## Download Bibliography
 
