@@ -67,7 +67,7 @@ format:
 
 ## {background-image="https://static01.nyt.com/images/2019/02/26/learning/AmericansClimateChangeLN/AmericansClimateChangeLN-superJumbo.png?quality=75&auto=webp" background-position="center bottom" background-size="contain" background-color="#FFFFFF"}
 
-## { background-image="https://www.ioes.ucla.edu/wp-content/uploads/2017/01/ucla-ar-02-080220-final-scaled.jpg" background-position="center" background-size="contain" background-color="#FFFFFF"}
+## { background-image="../img/UCLA-Whiplash-Graphic-042018.jpg" background-position="center" background-size="contain" background-color="#FFFFFF"}
 
 ## { background-image="../img/ucla-ar-02-080220-final-scaled_zoom.jpg" background-position="center" background-size="contain" background-color="#FFFFFF"}
 
