@@ -64,7 +64,7 @@ Marcia Grefsrud | Alan Striegle
 ::: {.fragment}
 #### **Background**
 
--   [Statewide Wildlife Drought Resiliency Coordinator]{.b .green}, *CDFW*
+-   [Senior Environmental Scientist (Specialist)]{.b .green}, *CDFW*
 -   Postdoctoral Scholar, *UC Davis*
 -   Aquatic Scientist, *USFS*
 -   Fish & Wildlife Biologist, *Stillwater Sciences*
@@ -72,9 +72,9 @@ Marcia Grefsrud | Alan Striegle
 ::: {.fragment .mt1}
 #### **Research/Expertise**
 
--   Aquatic Ecology
+-   Biodiversity Monitoring
 -   Conservation Genomics
--   River Regulation / Geomorphology
+-   River Ecology / Geomorphology
 -   [Data Science]{.b} and Education
 :::
 :::

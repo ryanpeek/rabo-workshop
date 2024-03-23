@@ -19,7 +19,7 @@ format:
     code-copy: true
     pagetitle: "RABO Status"
     author-meta: "Marcia Grefsrud"
-    date-meta: "2023-05-09"
+    date-meta: "2024-03-25"
     footer: "[RABO Workshop 2023](http://www.elkhornsloughctp.org/training/show_train_detail.php?TRAIN_ID=Ec66CMJ)"
 editor_options: 
   chunk_output_type: console
@@ -29,7 +29,7 @@ editor_options:
 # [Status]{.blue} of <br />of Foothill Yellow-Legged Frogs (*Rana boylii*)
 
 ::: {.my-grey}
-[Status | 2023-05-09]{}<br />
+[Status | 2024-03-25]{}<br />
 [Marcia Grefsrud | Elkhorn Slough CTP]{}
 :::
 
@@ -178,7 +178,7 @@ Recovery is the process of restoring endangered and threatened species to the po
 - Status Review 
 - Fish and Game Commission vote to advance to candidacy June 21, 2017
 - Jul 7, 2017, [**projects within foothill yellow-legged frog habitat need authorization for take**]{.dark-blue} if take could not be avoided
-- Federal ESA listing expected June 15 (USFWS 2023)
+- Federal [ESA listing Sept 28, 2023](https://ecos.fws.gov/ecp/species/5133)
 
 
 ::: footer
@@ -215,7 +215,7 @@ CDFW Status
 
 ## Feather River {.smaller background-image="../img/clade_dfw_feather.jpg"  background-size="48%" background-position="right"}
 
- - [**Threatened**]{.orange}
+ - [**CESA Threatened**]{.orange}
 
 ::: footer
 CDFW Status
@@ -224,7 +224,7 @@ CDFW Status
 
 ## North Sierra (NE) {.smaller background-image="../img/clade_dfw_north_sierra.jpg"  background-size="48%" background-position="right"}
 
- - [**Threatened**]{.orange}
+ - [**CESA Threatened**]{.orange}
 
 ::: footer
 CDFW Status
@@ -233,7 +233,7 @@ CDFW Status
 
 ## Southern Sierra (E) {.smaller background-image="../img/clade_dfw_south_sierra.jpg"  background-size="48%" background-position="right"}
 
- - [**Endangered**]{.dark-red}
+ - [**CESA Endangered**]{.dark-red}
 
 ::: footer
 CDFW Status
@@ -242,7 +242,7 @@ CDFW Status
 
 ## Central Coast (W) {.smaller background-image="../img/clade_dfw_central_coast.jpg"  background-size="48%" background-position="right"}
 
- - [**Endangered**]{.dark-red}
+ - [**CESA Endangered**]{.dark-red}
 
 ::: footer
 CDFW Status
@@ -251,7 +251,7 @@ CDFW Status
 
 ## South Coast (SW) {.smaller background-image="../img/clade_dfw_south_coast.jpg"  background-size="48%" background-position="right"}
 
- - [**Endangered**]{.dark-red}
+ - [**CESA Endangered**]{.dark-red}
 
 ::: footer
 CDFW Status
@@ -286,15 +286,15 @@ USFWS Status
 :::
 
 
-## Federal Proposal {.smaller background-image="../img/clade_usfws_all_w_boundaries.png"  background-size="50%" background-position="right"}
+## Federal Listing Status {.smaller background-image="../img/clade_usfws_all_w_boundaries.png"  background-size="50%" background-position="right"}
 
 ::: {.columns .pv4}
 ::: {.column width="50%" .incremental}
 
  - North Coast and North Sierra not warranted at this time
-    - _**CDFW determined the Northeast Sierra/Northern Sierra to be threatened**_
+    - _**CDFW determined the Northeast Sierra/Northern Sierra to be [threatened]{.orange}**_
  - FWS maps follow historic range
- - Critical habitat has not been determined (likely Fall 2023)
+ - Critical habitat has not been determined (Summer 2024)
 :::
 :::
 
@@ -308,7 +308,7 @@ USFWS Status
 ::: {.columns .pv4}
 ::: {.column width="50%" .incremental}
 
- - [**Threatened**]{.orange}
+ - [**ESA Threatened**]{.orange}
  - includes proposed 4(d) Rule
 :::
 :::
@@ -340,7 +340,7 @@ USFWS Status
 ::: {.columns .pv4}
 ::: {.column width="50%" .incremental}
 
- - [**Endangered**]{.dark-red}
+ - [**ESA Endangered**]{.dark-red}
  
 :::
 :::
@@ -374,7 +374,7 @@ USFWS Status
 ::: {.columns .pv4}
 ::: {.column width="50%" .incremental}
 
- - [**Endangered**]{.dark-red}
+ - [**ESA Endangered**]{.dark-red}
  
 :::
 :::
@@ -407,7 +407,7 @@ USFWS Status
 ::: {.columns .pv4}
 ::: {.column width="50%" .incremental}
 
- - [**Threatened**]{.orange}
+ - [**ESA Threatened**]{.orange}
  
 :::
 :::
