@@ -2,6 +2,7 @@
 .Rhistory
 .RData
 .Ruserdata
+rabo-workshop.Rproj
 /.quarto/
 .DS_Store
 /_examples/
