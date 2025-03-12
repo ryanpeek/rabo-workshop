@@ -19,6 +19,8 @@ website:
             href: Details/schedule.qmd
           - text: "Resources"
             href: Details/resources.qmd
+          - text: "Clades"
+            href: Details/clades.qmd
       - text: "Slides"
         menu:
           - text: "Intro"

@@ -7,7 +7,7 @@ format:
     toc-title: Contents
     toc-location: right
     df-print: paged
-bibliography: ../data/rabo_references.bib
+bibliography: ../data/rabo_references_2025.bib
 editor_options: 
   chunk_output_type: console
 ---
@@ -37,7 +37,7 @@ editor_options:
 
 ## Download Bibliography
 
-{{< downloadthis ../data/rabo_references.bib dname="rabo_bibliography" label="Download .bib" icon="database-fill-down" type="info" >}}
+{{< downloadthis ../data/rabo_references_2025.bib dname="rabo_bibliography" label="Download .bib" icon="database-fill-down" type="info" >}}
 
 
 ## Bibliography

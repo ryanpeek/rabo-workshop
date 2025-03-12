@@ -1,5 +1,5 @@
 ---
-title: "Habitat"
+title: "Clades"
 format:
   html:
     css: ../styles.css
@@ -8,14 +8,7 @@ editor_options:
   chunk_output_type: console
 ---
 
-<iframe class="slide-deck" src="./rabo_04_habitat.html" title="Habitat Slides">
-</iframe>
-
-*Note.* To view the slideshow in full screen mode, click inside it and press the "f" key on your keyboard.<br />
-You can also use the menu by clicking on the icon at the bottom-left of each slide.
-
-<!--
-## Map of Habitat Types
+## Map of Clades
 
 ```{r clades}
 #| echo: false
@@ -78,4 +71,3 @@ map_l
 
 ```
 
--->
