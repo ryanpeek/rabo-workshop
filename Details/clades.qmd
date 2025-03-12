@@ -1,0 +1,73 @@
+---
+title: "Clades"
+format:
+  html:
+    css: ../styles.css
+    code-link: false
+editor_options: 
+  chunk_output_type: console
+---
+
+## Map of Clades
+
+```{r clades}
+#| echo: false
+#| eval: false
+#| message: false
+#| warning: false
+
+suppressPackageStartupMessages({
+  library(sf);
+  library(leaflet);
+  library(leafem);
+  library(leaflet.extras);
+  library(leafpop);
+  library(here);
+  library(tidyverse)
+})
+
+rb_clades <- readr::read_rds(here("data/rb_clades_sf.rds")) %>% 
+  st_transform(4326)
+rb_clades$clad_col <- viridis::viridis(6)
+
+rb_sites <- read_csv(here("data/rb_sites_distinct.csv")) %>% 
+  st_as_sf(coords=c("lon","lat"), crs=4326, remove=FALSE) %>% 
+  # filter to just sites with url
+  filter(!is.na(img_url))
+
+#mapview::mapview(rb_sites) + mapview::mapview(rb_clades, zcol="Clade")
+
+map_l <- leaflet() %>%
+  addTiles() %>%
+  addProviderTiles("Esri.WorldImagery", group = "Aerial") %>%
+  addProviderTiles("Esri.WorldTopoMap", group = "Topo") %>% 
+  addCircleMarkers(data = rb_sites, group = "Sites", 
+                   clusterOptions = markerClusterOptions(), 
+                   clusterId = "HU_8_Name") %>%
+  addPopupImages(image = rb_sites$img_url, group = "Sites") %>% 
+  addPolygons(data=rb_clades, group="Clades", stroke=FALSE, 
+              fillColor= rb_clades$clad_col, fillOpacity = 0.5 ) %>% 
+  # add scale bar
+  addMeasure(position = "topright",
+             primaryLengthUnit = "meters",
+             primaryAreaUnit = "sqmeters",
+             activeColor = "#3D535D",
+             completedColor = "#7D4479") %>%
+  addLayersControl(
+    baseGroups = c("Topo", "Aerial"),
+    overlayGroups = c("Sites", "Clades"),
+    options = layersControlOptions(collapsed = T)) %>% 
+  addFullscreenControl()
+
+```
+
+```{r mapl}
+#| echo: false
+#| eval: false
+#| message: false
+#| warning: false
+
+map_l
+
+```
+
