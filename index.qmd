@@ -10,7 +10,7 @@ Workshop materials cover the [**life history**]{.dark-green}, [**habitat use**]{
 Survey methodology and field techniques for monitoring the species are also be covered. This workshop provides an understanding of how water management, population decline, and landscape change have impacted the species, and what it will mean for biologists monitoring the species.
 \
 
-Developed and taught by [Ryan Peek](https://github.com/ryanpeek), Sarah Kupferberg, Marcia Grefsrud, and Alan Striegle for the [Elkhorn Slough Coastal Training Program Series](http://www.elkhornsloughctp.org/training/show_train_detail.php?TRAIN_ID=Ec66CMJ).
+Content developed and taught by Ryan Peek, Sarah Kupferberg, Marcia Grefsrud, and Alan Striegle for the [Elkhorn Slough Coastal Training Program Series](http://www.elkhornsloughctp.org/training/show_train_detail.php?TRAIN_ID=Ec66CMJ), website developed and maintained by R. Peek.
 
 ![*Rana boylii*, image by R. Peek](img/rabo_icon.png){fig-align="center" height=400}
 
