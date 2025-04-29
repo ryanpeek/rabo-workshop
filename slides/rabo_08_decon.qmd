@@ -1,0 +1,186 @@
+---
+format: 
+  revealjs:
+    css: ../styles.css
+    slide-number: true
+    show-slide-number: all
+    preview-links: auto
+    self-contained: true
+    multiplex: false
+    progress: true
+    history: true
+    hash-type: number
+    logo: ../img/rabo_icon_color.png
+    theme: [default, ../rabo.scss]
+    code-block-background: true
+    highlight-style: ayu-mirage
+    code-link: false
+    code-copy: true
+    pagetitle: "Field Decontamination"
+    author-meta: "Ryan Peek"
+    date-meta: "2025-04-28"
+---
+
+::: {.my-title}
+# [Decontamination]{.orange} [Methods]{.blue}
+
+::: {.my-grey}
+[2025-05-09]{}<br />
+[Elkhorn Slough CTP]{}
+:::
+
+![](../img/rabo_adult_dark_transparent.png){.absolute bottom=0 right=0 width=250}
+:::
+
+<!-- Overview -->
+
+## Overview {.smaller}
+
+::: {.columns .pv4}
+::: {.column width="30%"}
+::: {.tc}
+![](../img/hazwoper-decontamination-full.jpg ){.br-100}
+
+Decon<br /> 
+:::
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="65%"}
+::: {.fragment .incremental}
+
+ - Decontamination Process 
+ - Equipment
+ - Conditions & Situations
+ - Implementation
+
+:::
+:::
+:::
+
+::: footer
+Overview
+:::
+
+
+# Decontamination Process {background-color="#111111" background-image="../img/decon_steps.png" background-size="contain" background-position="bottom"}
+
+
+## Decon {.smaller}
+
+::: {.incremental}
+ - Decontamination between and after sites is [critical]{.b .orange}
+ - Before leaving a field site, thoroughly remove all organic matter (i.e., mud, algae, plants) from nets, sampling gear, boots/boot tread, clothing
+ - Be especially cognizant of gear that came into contact with water or aquatic sediments
+ 
+![](../img/muddy_boots.jpg){.br-100 fig-align="center" width=50%}
+
+:::
+
+## Decon Steps
+
+::: {.f2 .incremental}
+
+ 1. Wear appropriate PPE (gloves, safety goggles):
+      a. for all options listed, avoid getting concentrated, pre-solution chemical on your skin/eyes/cloths (See SDS for details)
+ 2. Pre-rinse with water [and scrub]{.b .orange} before cleaning with solution
+ 3. Clean with solution using appropriate dilution (Bleach, Quat, Virkon-S)
+ 4. Allow solution to sit for necessary time (depends on treatment, usually at least 5 minutes)
+ 5. Rinse off using clean water
+
+:::
+
+::: footer
+Decon
+:::
+
+## Decon Options 
+
+<!-- ![](../img/decon_chart_options.jpg){.r-stretch fig-align="center"}
+-->
+
+Two recent summaries of decontamination treatment options, their efficacy for various pathogens, and associated citations can be found here:
+ 
+::: {.incremental}
+ 
+  - Pathogen Surveillance in Herpetofaunal Populations: Guidance on Study Design, Sample Collection, Biosecurity, and Intervention Strategies (2017): [**see table at end of paper**](http://www.parcplace.org/wp-content/uploads/2017/08/Grayetal2017-1.pdf)
+  
+  - [CDFW Aquatic Invasive Species Decontamination Protocol]( https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=43333)
+
+:::
+
+## Decon: Bleach {.smaller}
+
+Recent guidance (see [here](https://parcplace.org/wp-content/uploads/2024/02/Bletz.etal_.2023_NEPARCdecon1.pdf) and [here](https://parcplace.org/wp-content/uploads/2023/12/Amping-up-Biosecurity-for-Herps.pdf)) recommend much higher concentrations of bleach...
+
+ - [**Bleach at 1:20 concentration**]{.orange}: works well but hard on gear
+ - Soak for minimum 5 min (10 min is ideal)
+ - If exposed to air or sunlight the diluted solution will only last ~5 days
+ - dispose of any unused bleach from an open bottle after 1 month, and inactivated quickly by organic material and sunlight so make a fresh batch if dirty!
+ - For half a 5 gallon bucket, use 16 oz or 2 CUPS of standard concentrated household bleach
+
+![](https://upload.wikimedia.org/wikipedia/commons/d/d3/Clorox_Bleach_products.jpg){.br-100 fig-align="center"}
+
+::: notes
+
+ - In fresh opaque container, will remain active for 1 month. If older, dispose and get new.
+ - If exposed to sunlight or air, it will only last ~5 days.
+ - Can use a 1:20 solution 5% solution for 5 min, which is about 3/4 C or 6 oz per gallon of water (see [Chellman & McKenny MYLF NPS document](https://www.fws.gov/sites/default/files/documents/MYLF%20Attachment%204_Decon%20Protocol.pdf).
+ - Can use trash bag and transport water from water body upland to decon site.
+
+:::
+
+## Decon: Quat {.smaller}
+
+ - [Quat-128 (%5 DDAC) or Quat-256 (10% DDAC)]{.b .orange}: 
+    - To make 0.01% solution, (.25 oz / 0.5 TBSP / 7.5 mL) per gallon of water
+    - With Quat 256, can use a 15 gallon tub with about 60 ml (2 oz) of quat
+  - [Soak gear at least 5 minutes, 10 minutes ideal]{.b .orange}
+ - If exposed to air or sunlight, the solution should be changed out at least once a month if using an opaque spray bottle
+ - For half a 5 gallon bucket, need about 0.7 oz / 4 teaspoons / 20 mL)
+
+![](../img/quat128.jpg){.br-100 fig-align="center"}
+
+::: notes
+
+ - In fresh opaque container, will remain active for 1 month. If older, dispose and get new.
+ - If exposed to sunlight or air, it will only last ~5 days.
+ - Can use a 1:20 solution 5% solution for 5 min, which is about 3/4 C or 6 oz per gallon of water (see [Chellman & McKenny MYLF NPS document](https://www.fws.gov/sites/default/files/documents/MYLF%20Attachment%204_Decon%20Protocol.pdf).
+ - Can use trash bag and transport water from water body upland to decon site.
+
+:::
+
+## Decon: Virkon-S ![](../img/Virkon-S.jpg){.br-100 .absolute width=170px right=200px top=-40px}
+
+ 
+ - Virkon-S (21.4% potassium peroxymonosulfate) (1.3 oz. / ~2.5 tablespoons) per gallon of water to make 1% solution
+ - Soak gear for at least 2 minutes (5 minutes ideal)
+ - Once solution is made, lasts about a week
+ - For half of 5-gallon bucket, use about 3.25 oz or 6.5 tablespoons of powder
+ - [Avoid contact of the powder with skin and clothing; very harmful if you get the concentrated powder in your eyes]{.b .red}
+
+## Multiple Decontamination Methods Recommended! {.smaller}
+
+[*Especially if transitioning between office/lab/field between sites*:]{.orange .b}
+
+::: {.incremental}
+
+ - Not all decontamination methods are appropriate for all circumstances
+ - Choose the decontamination method(s) appropriate for the equipment being decontaminated and site-specific considerations
+ - When possible, opt for the method effective for the most AIS and pathogens as possible
+ - If multiple methods must be used, perform them sequentially, and never mix chemicals
+ - [Great methods: chemical, then dry in hot sun for 24+ hours; or chemical, then freeze for 24+ hours]{.b .blue}
+
+:::
+
+## Decon Resources 
+
+ - [**PARC Overview of Disinfection Protocols**](https://northeastparc.org/docs/NEPARC-Field-Equipment-Disinfection-Protocol.pdf): 
+
+ - [CDFW Aquatic Invasive Species Decontamination Protocol](https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=43333)
+
+ - [PARC Herpetofaunal Disease Factsheets & Resources](https://parcplace.org/species/herpetofaunal-disease-resources/): great “one stop shop” for lots of great information about biosecurity and decontamination 
+
+## Questions? {background-color="#111111" background-image="../img/artsy_datasheet_rabo.jpg" background-size="cover" background-position="bottom"}

@@ -76,7 +76,6 @@ Snorkeling<br />
  - Equipment
  - Conditions vs. Survey Techniques
  - Other Methods
- - Decontamination
 
 :::
 :::
@@ -299,6 +298,7 @@ Definitions
 
 ::: {.fragment .f2}
  - Polarized glasses
+ - Binoculars
  - Ruler/calipers
  - Temperature / WQ probe
  - Measuring tape
@@ -501,92 +501,6 @@ cumulative frequency curves from the SF Eel to show that a well timed survey 3-4
  - Filter a lot of water
  - Clean/sterile replicates
  - Cover more ground (but not proof of absence)
-:::
-
-# Decontamination {background-color="#111111" background-image="../img/decon_steps.png" background-size="contain" background-position="bottom"}
-
-
-## Decon {.smaller}
-
-::: {.columns .pv4}
-::: {.column width="47%" .incremental}
- - Decontamination between and after sites is [critical]{.b .orange}
- - Before leaving a field site, thoroughly remove all organic matter (i.e., mud, algae, plants) from nets, sampling gear, boots/boot tread, clothing
- - Be especially cognizant of gear that came into contact with water or aquatic sediments
- 
-![](../img/muddy_boots.jpg){.br-100 fig-align="center" width=70%}
-
-:::
-
-::: {.column .tc .pv5 width="10%" .incremental}
-:::
-
-::: {.column .tc .pv5 width="43%" .incremental}
-
-::: fragment
-[**Decon Steps**]{.f2}
-:::
-
- 1. Pre-rinse with water before cleaning with solution
- 2. Clean with solution using appropriate dilution (Bleach, Quat)
- 3. Allow solution to sit for necessary time (depends on treatment)
- 4. Rinse off using hot water
- 5. Wear appropriate PPE
-
-:::
-
-:::
-
-::: footer
-Decon
-:::
-
-## Decon Options {.smaller}
-
-![](../img/decon_chart_options.jpg){.r-stretch fig-align="center"}
-
-## Decon: Bleach {.smaller}
-
- - [**Bleach at 1:32 concentration**]{.orange} for 15 min works well, though hard on gear
- - If exposed to air or sunlight, will only last ~5 days
- - For half a 5 gallon bucket, need about 10 oz or 1.25 CUPS
-
-![](../img/dilution_table_bleach.jpg){fig-align="center"}
-
-::: notes
-
- - In fresh opaque container, will remain active for 1 month. If older, dispose and get new.
- - If exposed to sunlight or air, it will only last ~5 days.
- - Can use a 1:20 solution 5% solution for 5 min, which is about 3/4 C or 6 oz per gallon of water (see [Chellman & McKenny MYLF NPS document](https://www.fws.gov/sites/default/files/documents/MYLF%20Attachment%204_Decon%20Protocol.pdf).
- - Can use trash bag and transport water from water body upland to decon site.
-
-:::
-
-## Decon: Quat-128 {.smaller}
-
- - [**Quat-128 (%5 DDAC)** (.25 oz / 0.5 TBSP / 7.5 mL) per gallon of water]{.orange} to make 0.01% solution
- - If exposed to air or sunlight, will only last ~5 days
- - For half a 5 gallon bucket, need about 10 oz or 1.25 CUPS
-
-![](../img/quat128.jpg){fig-align="center"}
-
-::: notes
-
- - In fresh opaque container, will remain active for 1 month. If older, dispose and get new.
- - If exposed to sunlight or air, it will only last ~5 days.
- - Can use a 1:20 solution 5% solution for 5 min, which is about 3/4 C or 6 oz per gallon of water (see [Chellman & McKenny MYLF NPS document](https://www.fws.gov/sites/default/files/documents/MYLF%20Attachment%204_Decon%20Protocol.pdf).
- - Can use trash bag and transport water from water body upland to decon site.
-
-:::
-
-
-## Decon Resources {.smaller}
-
- - PARC has a nice overview and [**.PDF here**](http://www.northeastparc.org/products/pdfs/NEPARC_Pub_2014-02_Disinfection_Protocol.pdf): 
-
- - The [**MYLF Decon Strategy**](https://www.fws.gov/sites/default/files/documents/MYLF%20Attachment%204_Decon%20Protocol.pdf) from the NPS (Chellman & McKenny) 
-
-
-![](../img/parc_decon_sheet.png){fig-align="center" width=80%}  
+:::  
 
 ## Questions? {background-color="#111111" background-image="../img/artsy_datasheet_rabo.jpg" background-size="cover" background-position="bottom"}
