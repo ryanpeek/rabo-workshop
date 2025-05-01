@@ -81,20 +81,30 @@ Overview
 
 ## Decon Steps
 
-::: {.f2 .incremental}
+::: {.f1 .incremental}
 
  1. Wear appropriate PPE (gloves, safety goggles):
       a. for all options listed, avoid getting concentrated, pre-solution chemical on your skin/eyes/cloths (See SDS for details)
  2. Pre-rinse with water [and scrub]{.b .orange} before cleaning with solution
  3. Clean with solution using appropriate dilution (Bleach, Quat, Virkon-S)
+
+:::
+
+
+## Decon Steps
+
+::: {.f1 .incremental}
+
  4. Allow solution to sit for necessary time (depends on treatment, usually at least 5 minutes)
  5. Rinse off using clean water
+ 6. If disposing diluted contaminant solution in the field, do so 200+ ft (60m) away from any water sources/culverts/storm drains or ditches.
 
 :::
 
 ::: footer
 Decon
 :::
+
 
 ## Decon Options 
 
@@ -113,12 +123,12 @@ Two recent summaries of decontamination treatment options, their efficacy for va
 
 ## Decon: Bleach {.smaller}
 
-Recent guidance (see [here](https://parcplace.org/wp-content/uploads/2024/02/Bletz.etal_.2023_NEPARCdecon1.pdf) and [here](https://parcplace.org/wp-content/uploads/2023/12/Amping-up-Biosecurity-for-Herps.pdf)) recommend much higher concentrations of bleach...
+Recent guidance (see [here](https://parcplace.org/wp-content/uploads/2024/02/Bletz.etal_.2023_NEPARCdecon1.pdf) and [here](https://parcplace.org/wp-content/uploads/2023/12/Amping-up-Biosecurity-for-Herps.pdf)) recommend much higher concentrations of bleach to properly decon against *Bsal* (*Batrachochytrium salamandrivorans*), though it has not been detected in N. America yet
 
  - [**Bleach at 1:20 concentration**]{.orange}: works well but hard on gear
  - Soak for minimum 5 min (10 min is ideal)
  - If exposed to air or sunlight the diluted solution will only last ~5 days
- - dispose of any unused bleach from an open bottle after 1 month, and inactivated quickly by organic material and sunlight so make a fresh batch if dirty!
+ - Dispose of any unused bleach from an open bottle after 1 month, and inactivated quickly by organic material and sunlight so make a fresh batch if dirty!
  - For half a 5 gallon bucket, use 16 oz or 2 CUPS of standard concentrated household bleach
 
 ![](https://upload.wikimedia.org/wikipedia/commons/d/d3/Clorox_Bleach_products.jpg){.br-100 fig-align="center"}
@@ -171,7 +181,7 @@ Recent guidance (see [here](https://parcplace.org/wp-content/uploads/2024/02/Ble
  - Choose the decontamination method(s) appropriate for the equipment being decontaminated and site-specific considerations
  - When possible, opt for the method effective for the most AIS and pathogens as possible
  - If multiple methods must be used, perform them sequentially, and never mix chemicals
- - [Great methods: chemical, then dry in hot sun for 24+ hours; or chemical, then freeze for 24+ hours]{.b .blue}
+ - [Ideal approach: chemical, then dry in hot sun for 24+ hours; or chemical, then freeze for 24+ hours]{.b .blue}
 
 :::
 
@@ -181,6 +191,6 @@ Recent guidance (see [here](https://parcplace.org/wp-content/uploads/2024/02/Ble
 
  - [CDFW Aquatic Invasive Species Decontamination Protocol](https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=43333)
 
- - [PARC Herpetofaunal Disease Factsheets & Resources](https://parcplace.org/species/herpetofaunal-disease-resources/): great “one stop shop” for lots of great information about biosecurity and decontamination 
+ - [PARC Herpetofaunal Disease Factsheets & Resources](https://parcplace.org/species/herpetofaunal-disease-resources/): “one stop shop” for lots of great information about biosecurity and decontamination 
 
 ## Questions? {background-color="#111111" background-image="../img/artsy_datasheet_rabo.jpg" background-size="cover" background-position="bottom"}
