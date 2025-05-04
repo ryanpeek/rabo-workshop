@@ -18,7 +18,7 @@ format:
     code-copy: true
     pagetitle: "RABO Larval Ecology"
     author-meta: "Sarah Kupferberg"
-    date-meta: "2023-05-09"
+    date-meta: "2025-05-09"
 ---
 
 ::: {.my-title}
