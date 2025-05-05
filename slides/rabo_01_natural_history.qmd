@@ -18,7 +18,7 @@ format:
     code-copy: true
     pagetitle: "RABO Natural History"
     author-meta: "Ryan Peek"
-    date-meta: "2023-05-09"
+    date-meta: "2025-05-09"
 editor_options: 
   chunk_output_type: console
 ---
@@ -27,11 +27,6 @@ editor_options:
 ::: {.my-title}
 
 ## [Natural History of <br />Foothill Yellow-Legged Frogs (*Rana boylii*)]{.r-fit-text}{background-image="../img/bear_river_tailing_flow.png" background-size="contain" background-position="bottom" background-opacity="0.95" background-color="#fff69f"}
-
-::: {.gray}
-[Ryan Peek | 2023-05-09]{}<br />
-
-:::
 
 ![](../img/rabo_icon_color_lg.png){.absolute top=100 right=100 width=150}
 

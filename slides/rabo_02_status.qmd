@@ -19,8 +19,7 @@ format:
     code-copy: true
     pagetitle: "RABO Status"
     author-meta: "Marcia Grefsrud"
-    date-meta: "2024-03-25"
-    footer: "[RABO Workshop 2023](http://www.elkhornsloughctp.org/training/show_train_detail.php?TRAIN_ID=Ec66CMJ)"
+    date-meta: "2025-03-25"
 editor_options: 
   chunk_output_type: console
 ---
@@ -29,7 +28,7 @@ editor_options:
 # [Status]{.blue} of <br />of Foothill Yellow-Legged Frogs (*Rana boylii*)
 
 ::: {.my-grey}
-[Status | 2024-03-25]{}<br />
+[2025-05-09]{}<br />
 [Marcia Grefsrud | Elkhorn Slough CTP]{}
 :::
 

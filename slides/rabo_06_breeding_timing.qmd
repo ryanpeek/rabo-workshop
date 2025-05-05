@@ -25,8 +25,8 @@ format:
 # [Climate]{.orange} and [Phenology]{.blue}
 
 ::: {.my-grey}
-[Ryan Peek | 2023-05-09]{}<br />
-[Elkhorn Slough CTP]{}
+[Ryan Peek | 2025-05-09]{}<br />
+[Elkhorn Slough RTEP]{}
 :::
 
 ![](../img/rabo_adult_dark_transparent.png){.absolute bottom=0 right=0}

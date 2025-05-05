@@ -18,14 +18,14 @@ format:
     code-copy: true
     pagetitle: "RABO Conservation"
     author-meta: "Ryan Peek"
-    date-meta: "2023-05-09"
+    date-meta: "2025-05-09"
 ---
 
 ::: {.my-title}
 # [Conservation]{.orange} & [Management]{.blue}
 
 ::: {.my-grey}
-[Elkhorn Slough CTP | 2023-05-09]{}<br />
+[Elkhorn Slough RTEP | 2025-05-09]{}<br />
 :::
 
 ![](../img/rabo_adult_dark_transparent.png){.absolute bottom=0 right=0}

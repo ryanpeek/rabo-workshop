@@ -18,7 +18,7 @@ format:
     code-copy: true
     pagetitle: "RABO Unnatural History"
     author-meta: "Ryan Peek"
-    date-meta: "2023-05-09"
+    date-meta: "2025-05-09"
 editor_options: 
   chunk_output_type: console
 ---
@@ -29,10 +29,6 @@ editor_options:
 ## [Unnatural History]{.gold}<br /> of Foothill Yellow-Legged Frogs{background-color="#111111" background-image="../img/simulated_sat_1851_mark_clark.jpg" background-position="right" background-size="contain"}
 
 <br>
-
-::: {.light-gray}
-[Ryan Peek | 2023-05-09]{}<br />
-:::
 
 ::: fragment
 

@@ -25,7 +25,7 @@ format:
 # [Tadpoles]{.orange} in <br> [agal based]{.green} food webs
 
 ::: {.my-grey}
-[Sarah Kupferberg | 2023-05-09]{}<br />
+[Sarah Kupferberg | 2025-05-09]{}<br />
 [Elkhorn Slough CTP]{}
 :::
 

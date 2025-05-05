@@ -18,7 +18,7 @@ format:
     code-copy: true
     pagetitle: "RABO Intro"
     author-meta: "Ryan Peek"
-    date-meta: "2023-05-09"
+    date-meta: "2025-05-09"
 editor_options: 
   chunk_output_type: console
 ---
@@ -30,9 +30,9 @@ editor_options:
 <br>
 
 ::: {.my-gray}
-[2023-05-09 | [Elkhorn Slough CTP](http://www.elkhornsloughctp.org/training/show_train_detail.php?TRAIN_ID=Ec66CMJ)]{}<br />
+[2025-05-09 | [Elkhorn Slough RTEP](https://www.eventbrite.com/e/ecology-of-foothill-yellow-legged-frog-tickets-1292111884429)]{}<br />
 Ryan Peek | Sarah Kupferberg <br />
-Marcia Grefsrud | Alan Striegle
+Alan Striegle | Laura Patterson | Isaac Chellman
 :::
 
 ![](../img/rabo_adult_dark_transparent.png){.absolute bottom=200 right=0 width=250}
