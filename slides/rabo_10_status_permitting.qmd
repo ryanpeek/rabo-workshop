@@ -1,0 +1,427 @@
+---
+format: 
+  revealjs:
+    css: ../styles.css
+    slide-number: c/t
+    show-slide-number: all
+    preview-links: auto
+    self-contained: true
+    multiplex: false
+    incremental: true
+    progress: true
+    history: true
+    hash-type: number
+    logo: ../img/rabo_icon_color.png
+    theme: "../rabo.scss"
+    code-block-background: true
+    highlight-style: ayu-mirage
+    code-link: false
+    code-copy: true
+    pagetitle: "RABO Status"
+    author-meta: "Laura Patterson"
+    date-meta: "2025-03-25"
+editor_options: 
+  chunk_output_type: console
+---
+
+::: {.my-title}
+# [Status]{.blue} of <br />of Foothill Yellow-Legged Frogs (*Rana boylii*)
+
+::: {.my-grey}
+[2025-05-09]{}<br />
+[Laura Patterson | CDFW]{}<br />
+[Statewide Amphibian & Reptile Conservation Coordinator]{}<br />
+[Wildlife Diversity Program]{}
+
+:::
+
+![](../img/rabo_adult_dark_transparent.png){.absolute top=-160 right=-10 width=200}
+:::
+
+## Overview
+
+::: {.columns .pv4}
+
+::: {.column width="60%" }
+
+::: {style="font-size: 80%;"}
+
+ - [Status of the Species in California]{.b .blue}
+    - Listing history and determinations
+    - Status definitions and designations
+ - CDFW Authority to Permit Take
+    - Relevant statues and regulations
+ - CDFW Take Authorizations
+    - Purpose and permit types
+    - Application information
+    - Permit type considerations
+ - Take Aways
+
+:::
+:::
+
+::: {.column width="40%"}
+
+::: {style="text-align:center; font-size:80%;"}
+![*Rana boylii* images courtesy of Gary Nafis (californiaherps.com)](../img/rabo_nafis_01.jpg)
+:::
+
+:::
+
+:::
+
+
+## Listing History
+
+::: {style="font-size:73%;"}
+
+|                                                                | **Federal ESA** | **California ESA** |
+|:---------------------------------------------------------------------|:-------------:|:----------------:|
+| Center for Biological Diversity Petition to List as Threatened      | 7/11/2012   | 12/14/2016     |
+| 90-Day Finding - Petitioned Action May Be Warranted                 | 7/1/2015    | 6/21/2017      |
+| Candidate for Listing                                               |     -       | 7/7/2017       |
+| CDFW Status Review & Listing Recommendation                         |     -       | 9/20/2019      |
+| USFWS Species Status Assessment & Proposed Rule                     | 12/28/2021  |    -           |
+| USFWS Final Rule / Fish and Game Commission Findings.               | 8/29/2023   | 3/10/2020      |
+| 4(d) Rule                                                           | 8/29/2023   |    -           |
+| Critical Habitat                                                    | 1/14/2025   |    -           |
+
+: {tbl-colwidths="[60,20,20]"}
+
+:::
+
+##  Status in California {.smaller .r-stretch background-image="../img/clade_dfw_boundaries.jpg"  background-size="47%" background-position="right"}
+
+::: {.columns}
+::: {.column width="50%"}
+
+::: {.nonincremental}
+ - North Coast – pop. 1
+   - [Species of Special Concern]{.blue .b}
+ - Feather River – pop. 2
+   - CESA & ESA: [Threatened]{.orange .b}
+ - Northern Sierra – pop. 3
+   - CESA: [Threatened]{.orange .b}
+ - Central Coast – pop. 4
+   - CESA: [Endangered]{.dark-red .b}, ESA: [Threatened]{.orange .b}
+ - Southern Sierra – pop. 5
+   - CESA & ESA: [Endangered]{.dark-red .b}
+ - South Coast – pop. 6
+   - CESA & ESA: [Endangered]{.dark-red .b}
+:::
+
+:::
+::: {.column width="50%"}
+
+:::
+
+:::
+
+::: footer
+::: {style="text-align:right"}
+CDFW (2020) &nbsp; <br>Foothill Yellow-legged Frog Status Review &nbsp;
+:::
+:::
+
+## CESA Definitions
+
+::: {style="font-size: 88%;"}
+
+ - [**Endangered**]{.dark-red}: A native species or subspecies of bird, mammal, fish<sup>+</sup>, amphibian, reptile, or plant which is in <b>serious danger of becoming extinct throughout all, or a significant portion, of its range</b> due to one or more causes, including loss of habitat, change in habitat, overexploitation, predation, competition, or disease  (<sup>+</sup> includes invertebrates)
+ - [**Threatened**]{.orange}: A native species or subspecies of a bird, mammal, fish, amphibian, reptile, or plant that, although <b>not presently threatened with extinction, is likely to become an endangered species in the foreseeable future</b> in the absence of the special protection and management efforts required by the California Endangered Species Act (CESA).
+
+:::
+
+## Administrative Status Designation {.smaller}
+
+[**California Species of Special Concern (SSC)**]{.f2 .blue}
+
+ - Carries no formal legal status; however, SSCs should be considered during the environmental review process.
+    - The California Environmental Quality Act (CEQA) requires lead agencies to evaluate and disclose impacts from "projects" in the State. Section 15380 of the CEQA Guidelines indicates that SSCs should be included in project impact analyses if they can be shown to meet the criteria of sensitivity outlined therein.
+ - [The intent of designating SSCs is to:]{.purple}
+    - Focus attention on animals at conservation risk by the Department, other State, local and Federal governmental entities, regulators, land managers, planners, consulting biologists, and others;
+    - Stimulate research on poorly known species; and
+    - Achieve conservation and recovery of these animals before they meet CESA criteria for listing as [threatened]{.orange} or [endangered]{.dark-red}.
+
+## Sources of CDFW Authority
+
+::: {.columns .pv4}
+::: {.column width="70%"}
+::: {.nonincremental}
+
+::: {style="font-size: 110%;"}
+**Statutory:**
+:::
+
+::: {style="font-size: 87%;"}
+
+ - Enacted by the Legisature and Governor
+ - Intention: what, why, who
+ - Fish and Game Code (FGC)
+
+:::
+
+::: {style="font-size: 110%;"}
+**Regulatory:**
+:::
+
+::: {style="font-size: 87%;"}
+
+ - Adopted by the Fish and Game Commission 
+ - Implementation: how
+ - California Code of Regulations Title 14: Natural Resources (14 CCR)
+
+:::
+
+:::
+:::
+
+::: {.column width="30%"}
+![](../img/rabo_nafis_02.jpg){fig-alt="*Rana boylii*" .br-100 .absolute left=660 right=0 bottom=0 top=0 height="45%" style="margin: auto auto;"}
+:::
+:::
+
+## "Take" Statues: Fish and Game Code {.smaller}
+
+ - [Definition of “Take”]{.f2}
+
+    - § 86: Hunt, pursue, catch, capture, or kill, or attempt to do so
+
+ - [General Take Prohibition]{.f2}
+
+    - § 2000: It is unlawful to [take]{.b .f2 .purple} a bird, mammal, fish, reptile, or amphibian except as provided in this code or in a regulation adopted pursuant to this code
+
+ - [CESA Take Prohibitions]{.f2}
+
+    - § 2080: No person or public agency shall import into this state, export out of this state, or [take]{.b .f2 .purple}, possess, purchase, or sell within this state, any species, or any part or product thereof, that the commission determines to be an endangered species or a threatened species…except as otherwise provided in this chapter…
+    - § 2085: CESA provisions also apply to candidate species
+
+
+
+## [“Take” Regulations: CCR Title 14]{style="font-size: 85%; font-weight: bold;"}
+
+[Ch 5: Native Reptiles and Amphibians  § 40(a): General Prohibition]{.b .navy}
+
+::: {style="font-size: 85%;"}
+It is unlawful to capture, collect, kill or injure, possess, purchase, propagate, sell, transport, import or export any native reptile or amphibian, or part thereof, except as provided in this chapter, Chapter 2 of this subdivision relating to sportfishing and frogging, sections 650, 670.7, 783 of these regulations or as otherwise provided in the Fish and Game Code or these regulations.
+:::
+
+## [“Take” Regulations: CCR Title 14]{style="font-size: 82%; font-weight: bold;"}
+
+::: {.nonincremental}
+
+[Purpose of “take” and species status determine the requisite permit type]{style="font-size: 85%;" .navy .b}
+
+::: {style="font-size: 78%;"}
+ - “this chapter” = Chapter 5: [*Commercial (mostly)*]{.b .dark-pink}
+ - Chapter 2: Sportfishing & Frogging: [*Recreational*]{.b .dark-pink}
+ - [§ 650: Scientific Collecting Permits]{.purple .b}
+    - Scientific, educational and/or propagation
+ -  § 670.7: Fully Protected Species MOUs
+    - Scientific research, including recovery efforts
+ -  [§ 783: CESA MOUs]{.b .purple}
+    - Scientific, educational and/or management
+ - or as otherwise provided…
+
+::: 
+:::
+
+## Scientific Collecting Permits {.smaller}
+
+:::{.nonincremental}
+
+### [COVERAGE]{.f2}
+
+::: {style="font-size: 90%;"}
+
+ - Required for species with no State legal protected status
+    - Includes SSCs (e.g., North Coast clade) and non-native species
+    - Excludes CESA listed/candidate species and fully protected species
+ - Required for incidental take during covered activities (bycatch)
+    - Required for possession (not just “take”)
+
+:::
+
+### [TYPES]{.f2}
+
+::: {style="font-size: 90%;"}
+
+ - [General Use:]{.purple} streamlined, inexpensive, but extremely limited
+    - Research and educational activities involving common species within a single CDFW review program (Inland Fisheries, Marine, or Terrestrial Wildlife) using standardized methods with lower risk of accidental injury or mortality. 
+ - [Specific Use:]{.purple} everything else
+ - [Student]{.purple} (1-year term); Individual or Entity (3-year term)
+
+:::
+:::
+
+## [Scientific Collecting Permit Application]{style="font-size: 75%; font-weight: bold;"}
+
+::: {.columns .pv4}
+::: {.column width="65%"}
+::: {.nonincremental}
+
+::: {style="font-size: 78%;"}
+
+[(https://wildlife.ca.gov/Licensing/Scientific-Collecting)](https://wildlife.ca.gov/Licensing/Scientific-Collecting)
+
+ - Online application through SCP Portal
+    - New, renewals, and amendments
+ - Regulations and Forms
+ - Pre-Application Guide
+ - Permit types
+ - Account creation
+ - Qualification documentation
+ - Reporting requirements
+ - Fee rates
+
+:::
+:::
+:::
+
+::: {.column width="30%"}
+![](../img/rabo_nafis_03.jpg){fig-alt="*Rana boylii*" .br-100 .absolute left=660 right=0 bottom=0 top=0 height="48%" style="margin: auto auto;"}
+:::
+:::
+
+
+## [CESA Take Permits]{style="font-size: 75%; font-weight: bold;"}
+
+::: {.columns .pv4}
+::: {.column width="80%"}
+::: {.nonincremental}
+
+::: {style="font-size: 70%;"}
+
+[(https://wildlife.ca.gov/Conservation/CESA/Permitting)](https://wildlife.ca.gov/Conservation/CESA/Permitting)
+
+ - Permitting Overview, Fees, and Permit Types
+    - Memorandums of Understanding ([MOU]{.purple}): FGC §2081(a)
+    - Incidental Take Permits ([ITP]{.purple}): FGC §2081(b)
+    - Consistency Determinations ([CD]{.purple}): FGC §2080.1
+    - Natural Community Conservation Plan Permits ([NCCPP]{.purple}): FGC §2835
+    - Voluntary Local Agreements ([VLP]{.purple}): FGC §§ 2086-2089
+    - Safe Harbor Agreements ([SHA]{.purple}): FGC §§ 2089.2-2089.26
+
+[(https://wildlife.ca.gov/Conservation/Cutting-Green-Tape/RMP)](https://wildlife.ca.gov/Conservation/Cutting-Green-Tape/RMP)
+
+ - [*NEW*]{.green .b} Restoration Management Plan ([RMP]{.purple}): FGC § 1672(b)
+    - January 2025: Take coverage for all species + LSAA compliance
+
+:::
+:::
+:::
+
+::: {.column width="20%"}
+![](../img/rabo_eggs_light_fold.jpg){fig-alt="*Rana boylii*" .br-100 .absolute left=700 right=0 bottom=400 top=0 height="30%" style="margin: auto auto;"}
+:::
+:::
+
+## [CESA MOU Application]{style="font-size: 69%; font-weight: bold;"} {.scrollable .r-stretch background-image="../img/cesa_mou.png"  background-size="49%" background-position="right"}
+
+::: {.columns .pv4}
+::: {.column width="54%"}
+::: {.nonincremental}
+
+::: {style="font-size: 70%;"}
+
+ - Intentional “take” for scientific, educational and/or management activities
+ - No online application portal or fees
+    - Can submit with SCP application
+ - Issued by the Wildlife Branch (for terrestrial wildlife)
+ - General Guidance
+    - Be as comprehensive as possible to minimize confusion and need for amendments
+    - Submit application as early as possible
+    - Immediately notify CESA MOU Coordinator if submitted through SCP Portal
+    - If renewing or amending, ensure compliance with existing permit terms and conditions
+    - Co-listed species: forward federal permit upon receipt – MOU will be issued afterward
+
+
+:::
+:::
+:::
+:::
+
+## Other CESA Take Applications
+
+::: {style="font-size: 80%;"}
+*“or as otherwise provided in the Fish and Game Code or these regulations”*
+:::
+
+::: {style="font-size: 70%;"}
+
+ - Incidental to an otherwise lawful activity<sup>+</sup>
+ - Online application through Environmental Permit
+ - Information Management System (EPIMS)
+ - Issued by the Regional Office associated with the project location
+ - Streamlined permits for certain projects
+ - CDs with ESA Section 7 or 10 permit
+ - <sup>+</sup>RMPs for qualifying restoration projects
+    - Can also include intentional take (e.g., post-restoration monitoring to determine effectiveness)
+    - Currently no associated fees
+
+:::
+
+
+![](../img/rabo_nafis_04.jpg){.absolute left=800 right=0 bottom=100 top=50 height="40%" style="margin: auto auto;"}
+
+
+## Broad Definition of Propagation {.smaller}
+
+::: {style="font-size: 130%;"}
+
+“Propagation" means captive breeding, captive rearing, and other activities that help sustain or increase wildlife populations for scientific, conservation, management, or educational purposes, such as:
+
+:::
+
+::: {style="font-size: 115%;"}
+
+ - Removal of non-native, invasive, or detrimental wildlife to improve or restore ecosystem or habitat conditions, or otherwise enhance the sustainability of native wildlife or other species.
+ - Management responses necessary to prevent catastrophic wildlife population losses from drought, mudslides, wildfires, disease outbreaks, and other natural or man-made disasters, or to capture, temporarily possess, and relocate wildlife to avoid harm or mortality in connection with otherwise lawful activities.
+
+:::
+
+## [Permits for Common Activities]{style="font-size: 90%;"}{.scrollable}
+
+What is the purpose, and is the species CESA protected?
+
+::: {style="font-size: 72%;"}
+
+ - Species surveys<sup>[+]{.b .purple}</sup> 
+    - Scientific research: SCP and/or MOU
+    - Education/training: SCP or MOU
+    - Pre-project biological impact assessments: SCP or MOU
+    - Post-project effectiveness monitoring: SCP, MOU, or RMP
+ - Movement out of harm’s way
+    - General projects: SCP, ITP, NCCPP, etc.
+    - Habitat restoration projects: SCP, MOU, or RMP
+    - Emergency (natural disaster/drought) rescues: SCP or MOU
+
+ - <sup>+</sup>[Passive surveys (e.g., VES) with no handling do not require a permit]{.b .purple}
+
+:::
+
+## Take Aways
+
+::: {.columns .pv4}
+
+::: {.column width="55%"}
+
+::: {.nonincremental}
+
+ - State and federal listing status consistent except Northern Sierra clade/DPS
+ - Take and possession always require a permit from CDFW
+ - The purpose for the take and the regulatory status of the species determine the permit type required
+
+:::
+:::
+
+::: {.column width="45%"}
+
+![](../img/rabo_nafis_05.jpg){.br-100 .absolute left=600 right=10 bottom=150 top=0 height="60%" style="margin: auto auto;"}
+
+
+:::
+
+:::
+
+## Questions? {background-color="#111111" background-image="../img/artsy_datasheet_rabo.jpg" background-size="cover" background-position="bottom"}
