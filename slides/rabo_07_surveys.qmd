@@ -18,14 +18,14 @@ format:
     code-copy: true
     pagetitle: "RABO Survey Methods"
     author-meta: "Ryan Peek"
-    date-meta: "2025-05-11"
+    date-meta: "2025-05-12"
 ---
 
 ::: {.my-title}
 # [Survey]{.orange} [Methods]{.blue}
 
 ::: {.my-grey}
-[2025-05-11]{}<br />
+[2025-05-12]{}<br />
 [Elkhorn Slough RTEP]{}
 :::
 
