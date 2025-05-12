@@ -137,7 +137,7 @@ CDFW (2020) &nbsp; <br>Foothill Yellow-legged Frog Status Review &nbsp;
 [**California Species of Special Concern (SSC)**]{.f2 .blue}
 
  - Carries no formal legal status; however, SSCs should be considered during the environmental review process.
-    - The California Environmental Quality Act (CEQA) requires lead agencies to evaluate and disclose impacts from "projects" in the State. Section 15380 of the CEQA Guidelines indicates that SSCs should be included in project impact analyses if they can be shown to meet the criteria of sensitivity outlined therein.
+    - The California Environmental Quality Act (CEQA) requires lead agencies to evaluate and disclose impacts from "projects" in the State. Section 15380 of the CEQA Guidelines indicates that species should be included in project impact analyses if they can be shown to meet the criteria of sensitivity outlined therein.
  - [The intent of designating SSCs is to:]{.purple}
     - Focus attention on animals at conservation risk by the Department, other State, local and Federal governmental entities, regulators, land managers, planners, consulting biologists, and others;
     - Stimulate research on poorly known species; and
@@ -177,7 +177,7 @@ CDFW (2020) &nbsp; <br>Foothill Yellow-legged Frog Status Review &nbsp;
 :::
 
 ::: {.column width="30%"}
-![](../img/rabo_nafis_02.jpg){fig-alt="*Rana boylii*" .br-100 .absolute left=660 right=0 bottom=0 top=0 height="45%" style="margin: auto auto;"}
+![](../img/rabo_nafis_02.jpg){fig-alt="*Rana boylii*" .absolute left=660 right=0 bottom=0 top=0 height="40%" style="margin: auto auto;"}
 :::
 :::
 
@@ -279,7 +279,7 @@ It is unlawful to capture, collect, kill or injure, possess, purchase, propagate
 :::
 
 ::: {.column width="30%"}
-![](../img/rabo_nafis_03.jpg){fig-alt="*Rana boylii*" .br-100 .absolute left=660 right=0 bottom=0 top=0 height="48%" style="margin: auto auto;"}
+![](../img/rabo_nafis_03.jpg){fig-alt="*Rana boylii*" .absolute left=660 right=0 bottom=0 top=0 height="48%" style="margin: auto auto;"}
 :::
 :::
 
@@ -290,7 +290,7 @@ It is unlawful to capture, collect, kill or injure, possess, purchase, propagate
 ::: {.column width="80%"}
 ::: {.nonincremental}
 
-::: {style="font-size: 70%;"}
+::: {style="font-size: 65%;"}
 
 [(https://wildlife.ca.gov/Conservation/CESA/Permitting)](https://wildlife.ca.gov/Conservation/CESA/Permitting)
 
@@ -311,18 +311,15 @@ It is unlawful to capture, collect, kill or injure, possess, purchase, propagate
 :::
 :::
 
-::: {.column width="20%"}
-![](../img/rabo_eggs_light_fold.jpg){fig-alt="*Rana boylii*" .br-100 .absolute left=700 right=0 bottom=400 top=0 height="30%" style="margin: auto auto;"}
-:::
 :::
 
-## [CESA MOU Application]{style="font-size: 69%; font-weight: bold;"} {.scrollable .r-stretch background-image="../img/cesa_mou.png"  background-size="49%" background-position="right"}
+## [CESA MOU Application]{style="font-size: 65%; font-weight: bold;"} {.scrollable .r-stretch background-image="../img/cesa_mou.png"  background-size="45%" background-position="right"}
 
 ::: {.columns .pv4}
 ::: {.column width="54%"}
 ::: {.nonincremental}
 
-::: {style="font-size: 70%;"}
+::: {style="font-size: 60%;"}
 
  - Intentional “take” for scientific, educational and/or management activities
  - No online application portal or fees
@@ -393,7 +390,7 @@ What is the purpose, and is the species CESA protected?
     - Post-project effectiveness monitoring: SCP, MOU, or RMP
  - Movement out of harm’s way
     - General projects: SCP, ITP, NCCPP, etc.
-    - Habitat restoration projects: SCP, MOU, or RMP
+    - Habitat restoration projects: SCP and/or MOU, or RMP
     - Emergency (natural disaster/drought) rescues: SCP or MOU
 
  - <sup>+</sup>[Passive surveys (e.g., VES) with no handling do not require a permit]{.b .purple}
@@ -409,15 +406,15 @@ What is the purpose, and is the species CESA protected?
 ::: {.nonincremental}
 
  - State and federal listing status consistent except Northern Sierra clade/DPS
- - Take and possession always require a permit from CDFW
- - The purpose for the take and the regulatory status of the species determine the permit type required
+ - Take and possession always require a permit from CDFW regardless of location in CA
+ - The purpose for the take or possession and the regulatory status of the species determine the permit type required
 
 :::
 :::
 
 ::: {.column width="45%"}
 
-![](../img/rabo_nafis_05.jpg){.br-100 .absolute left=600 right=10 bottom=150 top=0 height="60%" style="margin: auto auto;"}
+![](../img/rabo_nafis_05.jpg){.absolute left=600 right=10 bottom=150 top=0 height="50%" style="margin: auto auto;"}
 
 
 :::
