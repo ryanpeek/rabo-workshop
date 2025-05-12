@@ -7,7 +7,7 @@ format:
     preview-links: auto
     self-contained: true
     multiplex: false
-    incremental: true
+    incremental: false
     progress: true
     history: true
     hash-type: number
