@@ -351,10 +351,10 @@ It is unlawful to capture, collect, kill or injure, possess, purchase, propagate
  - Information Management System (EPIMS)
  - Issued by the Regional Office associated with the project location
  - Streamlined permits for certain projects
- - CDs with ESA Section 7 or 10 permit
- - <sup>+</sup>RMPs for qualifying restoration projects
-    - Can also include intentional take (e.g., post-restoration monitoring to determine effectiveness)
-    - Currently no associated fees
+    - CDs with ESA Section 7 or 10 permit
+    - <sup>+</sup>RMPs for qualifying restoration projects
+        - Can also include intentional take (e.g., post-restoration monitoring to determine effectiveness)
+        - Currently no associated fees
 
 :::
 
