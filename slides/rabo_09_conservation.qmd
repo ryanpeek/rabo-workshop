@@ -141,6 +141,51 @@ Deconstruction did not have a long-lasting impact.]{.f2}
 Dam Removal
 :::
 
+# And...
+
+## Monitoring &nbsp;<br />Results {background-image=../img/sk_benbow00.png background-size="contain" background-position="right" background-color="#CDECFF"}
+
+
+## Control vs. Impact {style="text-align:left"}
+
+::: {.columns .pv4}
+
+::: {.column width="32%"}
+![](../img/sk_benbow01.png)
+:::
+::: {.column width="4%"}
+
+:::
+::: {.column width="54%"}
+
+![](../img/sk_benbow01b.png){.absolute right=-30 bottom=55 width="72%"}
+:::
+:::
+
+## {data-menu-title="Control vs Impact" background-image=../img/sk_benbow02.png background-size="contain" background-position="middle"}
+
+## {data-menu-title="R on R" background-image=../img/sk_benbow03.jpg background-size="contain" background-position="bottom"}
+
+::: r-fit-text
+
+[*Did dam removal truly benefit the population when the biggest increase occurred prior to demolition?*]{.f1}
+:::
+
+## Alternative hypothesis:{.smaller}
+
+![](../img/sk_benbow04a.jpg){.absolute left=-40 bottom=0 width="33%"}
+
+![](../img/sk_benbow04b.jpg){.absolute left=340 bottom=0 width="33%"}
+
+Intense recreation impairs survival of tadpoles, metamorphs
+
+Release from stressor detectable with 3-yr lag
+
+![](../img/sk_benbow04c.jpg){.absolute right=-40 bottom=0 width="35%"}
+
+## {data-menu-title="alt hyp" background-image=../img/sk_benbow05.png background-size="contain" background-position="center" background-color="#CDECFF"}
+
+
 ## Augment threatened populations {.smaller}
 
 ::: {.columns .pv4}
@@ -207,6 +252,7 @@ Augmentation
 
 ## {data-menu-title="Zoo headstarting Results" background-image=../img/sk_image_c07.jpg background-size="cover" background-position="top" background-color="#FFFFFF"}
 
+<!--
 
 ## Incidental Take Permit (ITP) {.smaller}
 
@@ -304,5 +350,7 @@ Conservation
  - Consistency with recovery plan goals that contribute to de-listing criteria
 
 :::
+
+-->
 
 ## Questions? {background-color="#111111" background-image="../img/artsy_datasheet_rabo.jpg" background-size="cover" background-position="bottom"}
