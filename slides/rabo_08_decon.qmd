@@ -17,15 +17,15 @@ format:
     code-link: false
     code-copy: true
     pagetitle: "Field Decontamination"
-    author-meta: "Ryan Peek"
-    date-meta: "2025-04-28"
+    author-meta: "IC & RP"
+    date-meta: "2026-05-01"
 ---
 
 ::: {.my-title}
 # [Decontamination]{.orange} [Methods]{.blue}
 
 ::: {.my-grey}
-[2025-05-12]{}<br />
+[2026-05-01]{}<br />
 [Elkhorn Slough CTP]{}
 :::
 
@@ -71,32 +71,32 @@ Overview
 ## Decon {.smaller}
 
 ::: {.incremental}
- - Decontamination between and after sites is [critical]{.b .orange}
- - Before leaving a field site, thoroughly remove all organic matter (i.e., mud, algae, plants) from nets, sampling gear, boots/boot tread, clothing
- - Be especially cognizant of gear that came into contact with water or aquatic sediments
+ - Decontamination before moving between drainages, or otherwise hydrologically disconnected sites is [critical]{.b .orange}
+ - Gray et al. (2017) recommend decontamination between sites >350m apart. Another approach: delineating sites  based on geographic features associated with habitat use of host species
+ - A general rule: biosecurity protocols should be implemented any time personnel enter a vehicle to travel to a different location (Gray et al. 2017)
  
-![](../img/muddy_boots.jpg){.br-100 fig-align="center" width=50%}
+![](../img/muddy_boots.jpg){.br-100 fig-align="center" width=35%}
 
 :::
 
 ## Decon Steps
 
-::: {.f1 .incremental}
+::: {.f2 .incremental}
 
  1. Wear appropriate PPE (gloves, safety goggles):
       a. for all options listed, avoid getting concentrated, pre-solution chemical on your skin/eyes/cloths (See SDS for details)
- 2. Pre-rinse with water [and scrub]{.b .orange} before cleaning with solution
- 3. Clean with solution using appropriate dilution (Bleach, Quat, Virkon-S)
+ 2. Pre-rinse with water [and scrub to remove mud and organic debris]{.b .orange} before cleaning with solution
+ 3. Clean with solution using appropriate dilution (Bleach, Quat, Virkon-S; **Ethanol should be used at bottle concentration**)
 
 :::
 
 
 ## Decon Steps
 
-::: {.f1 .incremental}
+::: {.f2 .incremental}
 
  4. Allow solution to sit for necessary time (depends on treatment, usually at least 5 minutes)
- 5. Rinse off using clean water
+ 5. Rinse off using clean water (i.e., municipal or treated)
  6. If disposing diluted contaminant solution in the field, do so 200+ ft (60m) away from any water sources/culverts/storm drains or ditches.
 
 :::
@@ -123,12 +123,15 @@ Two recent summaries of decontamination treatment options, their efficacy for va
 
 ## Decon: Bleach {.smaller}
 
-Recent guidance (see [here](https://parcplace.org/wp-content/uploads/2024/02/Bletz.etal_.2023_NEPARCdecon1.pdf) and [here](https://parcplace.org/wp-content/uploads/2023/12/Amping-up-Biosecurity-for-Herps.pdf)) recommend much higher concentrations of bleach to properly decon against *Bsal* (*Batrachochytrium salamandrivorans*), though it has not been detected in N. America yet
+Recent guidance (see [here](https://parcplace.org/wp-content/uploads/2024/02/Bletz.etal_.2023_NEPARCdecon1.pdf) and [here](https://parcplace.org/wp-content/uploads/2023/12/Amping-up-Biosecurity-for-Herps.pdf)) recommends much higher concentrations of bleach [**concentrations of 1.6% sodium hypochlorite (NaOCl)**]{.orange} to properly decon against *Bsal* (*Batrachochytrium salamandrivorans*), though it has not been detected in N. America yet.
+
+For example at those concentrations about 30 oz. of disinfecting/germicidal bleach (~7.5-8.25% NaOCl) would be needed **_per gallon_** of water.
 
  - [**Bleach at 1:20 concentration**]{.orange}: works well but hard on gear
  - Soak for minimum 5 min (10 min is ideal)
  - If exposed to air or sunlight the diluted solution will only last ~5 days
- - Dispose of any unused bleach from an open bottle after 1 month, and inactivated quickly by organic material and sunlight so make a fresh batch if dirty!
+ - Dispose of any unused bleach from an open bottle after 1 month
+ - Bleach is inactivated quickly by organic material and sunlight so make a fresh batch if dirty!
  - For half a 5 gallon bucket, use 16 oz or 2 CUPS of standard concentrated household bleach
 
 ![](https://upload.wikimedia.org/wikipedia/commons/d/d3/Clorox_Bleach_products.jpg){.br-100 fig-align="center"}
@@ -148,8 +151,9 @@ Recent guidance (see [here](https://parcplace.org/wp-content/uploads/2024/02/Ble
     - To make 0.01% solution, (.25 oz / 0.5 TBSP / 7.5 mL) per gallon of water
     - With Quat 256, can use a 15 gallon tub with about 60 ml (2 oz) of quat
   - [Soak gear at least 5 minutes, 10 minutes ideal]{.b .orange}
- - If exposed to air or sunlight, the solution should be changed out at least once a month if using an opaque spray bottle
- - For half a 5 gallon bucket, need about 0.7 oz / 4 teaspoons / 20 mL)
+ - Solution should be changed out [at least once a month]{.b .orange}
+ - If using a pump style spray bottle, use an opaque bottle to reduce exposure to sunlight
+ - For half a 5 gallon bucket, need about 0.7 oz / 4 teaspoons / 20 mL
 
 ![](../img/quat128.jpg){.br-100 fig-align="center"}
 
@@ -170,6 +174,13 @@ Recent guidance (see [here](https://parcplace.org/wp-content/uploads/2024/02/Ble
  - Once solution is made, lasts about a week
  - For half of 5-gallon bucket, use about 3.25 oz or 6.5 tablespoons of powder
  - [Avoid contact of the powder with skin and clothing; very harmful if you get the concentrated powder in your eyes]{.b .red}
+
+## Decon: Ethanol ![](../img/ethanol_bottle.jpg){.br-100 .absolute width=170px right=200px top=-40px}
+
+ 
+ - Ethanol (70% or greater)
+ - Use to decontaminate delicate equipment
+ - Common examples include measuring boards, calipers, rulers, scissors, tweezers, etc
 
 ## Multiple Decontamination Methods Recommended! {.smaller}
 

@@ -6,27 +6,27 @@ title: "Schedule"
 
 ## Class Day 1
 
-09:00am--12:30pm (May 09, 2025)
+09:00am--12:30pm (Apr 30, 2026)
 
   - 9:00--9:05 Intro/Overview
   - 9:05--9:50 Natural History
   - 9:50--10:00 BREAK
-  - 10:00--10:50 Ecology/Tadpoles
+  - 10:00--10:50 Ecology & Tadpoles
   - 10:50--11:00 BREAK
-  - 11:00--11:45 Unnatural History
-  - 11:45--11:55 BREAK
-  - 11:55--12:25 Habitat
+  - 11:00--11:35 Unnatural History
+  - 11:35--12:25 Habitat
   - 12:25--12:30 Wrap Up
 
 ## Class Day 2
 
-09:00am--12:30pm (May 12, 2025)
+09:00am--12:30pm (May 1, 2026)
 
-  - 9:00--9:05 Re-Intro
-  - 9:05--9:35 Habitat (cont)
-  - 9:35--10:05 Status and Listing
-  - 10:05--10:15 BREAK
-  - 10:15--11:00 Survey Methods
+  - 9:00--9:05 Welcome Back
+  - 9:05--9:30 Habitat (cont)
+  - 9:30--9:45 Status & Policy
+  - 9:45--10:00 Management
+  - 10:00--10:10 BREAK
+  - 10:10--11:00 Survey Methods
   - 11:00--11:20 Decon
   - 11:20--11:30 BREAK
   - 11:30--12:15 Conservation/Phenology
@@ -35,8 +35,8 @@ title: "Schedule"
     
 ## Field Day I & II at [Sunol Wilderness Regional Preserve](https://www.ebparks.org/parks/sunol)
 
-I:  9:00am – 12:15pm (May 15, 2025)
-II: 1:00pm – 4:15pm (May 15, 2025)
+I:  9:00am – 12:15pm (May 4, 2025)
+II: 1:00pm – 4:15pm (May 4, 2025)
 
   -   Survey Methods
   -   Habitat Assessment
