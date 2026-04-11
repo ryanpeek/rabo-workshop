@@ -18,7 +18,7 @@ format:
     code-copy: true
     pagetitle: "RABO Intro"
     author-meta: "Ryan Peek"
-    date-meta: "2025-05-09"
+    date-meta: "2026-04-30"
 editor_options: 
   chunk_output_type: console
 ---
@@ -32,7 +32,8 @@ editor_options:
 ::: {.my-gray}
 [2025-05-09 | [Elkhorn Slough RTEP](https://www.eventbrite.com/e/ecology-of-foothill-yellow-legged-frog-tickets-1292111884429)]{}<br />
 Ryan Peek | Sarah Kupferberg <br />
-Alan Striegle | Laura Patterson | Isaac Chellman
+Alan Striegle | Laura Patterson <br />
+Isaac Chellman | Marcia Grefsrud
 :::
 
 ![](../img/rabo_adult_dark_transparent.png){.absolute bottom=200 right=0 width=250}
@@ -53,7 +54,6 @@ Alan Striegle | Laura Patterson | Isaac Chellman
 ::: {.tc}
 ![](../img/ryan_gill_netting_seki.png ){.br-100}
 
-**Ryan Peek**, PhD<br /> [ryanpeek.org](https://ryanpeek.org)<br /> [ryan.peek[at]wildlife.ca.gov](mailto:ryan.peek@wildlife.ca.gov)
 :::
 :::
 
@@ -62,20 +62,11 @@ Alan Striegle | Laura Patterson | Isaac Chellman
 
 ::: {.column width="60%"}
 ::: {.fragment}
-#### **Background**
+### [**Background**]{.b .green}
 
--   [Senior Environmental Scientist (Specialist)]{.b .green}, *CDFW*
--   Postdoctoral Scholar, *UC Davis*
--   Aquatic Scientist, *USFS*
--   Fish & Wildlife Biologist, *Stillwater Sciences*
-:::
-::: {.fragment .mt1}
-#### **Research/Expertise**
-
--   Biodiversity Monitoring
--   Conservation Genomics
--   River Ecology / Geomorphology
--   [Data Science]{.b} and Education
+- Represented by CDFW, Academia/Consulting, SFPUC
+- Combined frog experience likely >100 years
+- Range of expertise from ecology to genetics to conservation and permitting!
 :::
 :::
 :::
