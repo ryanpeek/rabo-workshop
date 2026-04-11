@@ -23,20 +23,19 @@ title: "Schedule"
 
   - 9:00--9:05 Welcome Back
   - 9:05--9:30 Habitat (cont)
-  - 9:30--9:45 Status & Policy
-  - 9:45--10:00 Management
-  - 10:00--10:10 BREAK
-  - 10:10--11:00 Survey Methods
-  - 11:00--11:20 Decon
-  - 11:20--11:30 BREAK
-  - 11:30--12:15 Conservation/Phenology
-  - 12:15--12:30 Q&A/Wrap Up 
+  - 9:30--9:50 Status & Permitting
+  - 9:50--10:10 Avoidance & Mitigation
+  - 10:10--10:15 BREAK
+  - 10:15--10:45 Conservation & Management  
+  - 10:45--11:35 Survey Methods
+  - 11:35--11:40 BREAK
+  - 11:40--12:10 Decon
+  - 12:10--12:30 Q&A/Wrap Up 
 
-    
 ## Field Day I & II at [Sunol Wilderness Regional Preserve](https://www.ebparks.org/parks/sunol)
 
-I:  9:00am – 12:15pm (May 4, 2025)
-II: 1:00pm – 4:15pm (May 4, 2025)
+I:  9:00am – 12:15pm (May 4, 2026)
+II: 1:00pm – 4:15pm (May 4, 2026)
 
   -   Survey Methods
   -   Habitat Assessment
