@@ -1,0 +1,70 @@
+---
+format: 
+  revealjs:
+    css: ../styles.css
+    slide-number: c/t
+    show-slide-number: all
+    preview-links: auto
+    self-contained: true
+    multiplex: false
+    incremental: true
+    progress: true
+    history: true
+    hash-type: number
+    logo: ../img/rabo_icon_color.png
+    theme: "../rabo.scss"
+    code-block-background: true
+    highlight-style: ayu-mirage
+    code-link: false
+    code-copy: true
+    pagetitle: "RABO Avoidance & Mitigation"
+    author-meta: "Marcia Grefsrud"
+    date-meta: "2026-05-01"
+editor_options: 
+  chunk_output_type: console
+---
+
+::: {.my-title}
+
+## [<br> Foothill Yellow-Legged Frog <br> Avoidance, Minimization & Mitigation]{.r-fit-text}{background-image="../img/rabo_adult_dark_transparent.png" background-size="contain" background-position="bottom" background-opacity="0.25"}
+
+<br>
+Marcia Grefsrud | Environmental Scientist, CDFW
+
+![](../img/CDFW-Insignia-146x193.png){.absolute bottom="0" right="0" width="100"}
+
+:::
+
+##  {background-image="../img/mg_2026_mitigation/Slide2.png"  background-size="98%"}
+
+##  {background-image="../img/mg_2026_mitigation/Slide3.png"  background-size="98%"}
+
+##  {background-image="../img/mg_2026_mitigation/Slide4.png"  background-size="98%"}
+
+##  {background-image="../img/mg_2026_mitigation/Slide5.png"  background-size="98%"}
+
+##  {background-image="../img/mg_2026_mitigation/Slide6.png"  background-size="98%"}
+
+##  {background-image="../img/mg_2026_mitigation/Slide7.png"  background-size="98%"}
+
+##  {background-image="../img/mg_2026_mitigation/Slide8.png"  background-size="98%"}
+
+##  {background-image="../img/mg_2026_mitigation/Slide9.png"  background-size="98%"}
+
+##  {background-image="../img/mg_2026_mitigation/Slide10.png"  background-size="98%"}
+
+##  {background-image="../img/mg_2026_mitigation/Slide11.png"  background-size="98%"}
+ 
+##  {background-image="../img/mg_2026_mitigation/Slide12.png"  background-size="98%"}
+ 
+##  {background-image="../img/mg_2026_mitigation/Slide13.png"  background-size="98%"}
+
+##  {background-image="../img/mg_2026_mitigation/Slide14.png"  background-size="98%"}
+
+##  {background-image="../img/mg_2026_mitigation/Slide15.png"  background-size="98%"}
+
+##  {background-image="../img/mg_2026_mitigation/Slide16.png"  background-size="98%"}
+
+##  {background-image="../img/mg_2026_mitigation/Slide17.png"  background-size="98%"}
+
+##  {background-image="../img/mg_2026_mitigation/Slide18.png"  background-size="98%"}

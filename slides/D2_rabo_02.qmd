@@ -1,11 +1,11 @@
 ---
-title: "Climate & Phenology"
+title: "Avoidance & Mitigation"
 format:
   html:
     css: ../styles.css
 ---
 
-<iframe class="slide-deck" src="./rabo_06_breeding_timing.html" title="Climate & Phenology Slides">
+<iframe class="slide-deck" src="./rabo_avoidance_mitigation.html" title="Larval Ecology Slides">
 </iframe>
 
 *Note.* To view the slideshow in full screen mode, click inside it and press the "f" key on your keyboard.<br />
