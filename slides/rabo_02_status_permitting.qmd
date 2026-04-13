@@ -1,0 +1,53 @@
+---
+format: 
+  revealjs:
+    css: ../styles.css
+    slide-number: c/t
+    show-slide-number: all
+    preview-links: auto
+    self-contained: true
+    multiplex: false
+    incremental: true
+    progress: true
+    history: true
+    hash-type: number
+    logo: ../img/rabo_icon_color.png
+    theme: "../rabo.scss"
+    code-block-background: true
+    highlight-style: ayu-mirage
+    code-link: false
+    code-copy: true
+    pagetitle: "RABO Status & Permitting"
+    author-meta: "Laura Patterson"
+    date-meta: "2026-05-01"
+editor_options: 
+  chunk_output_type: console
+---
+
+##  {background-image="../img/lp_2026/Slide1.png"  background-size="98%"}
+
+![](../img/rabo_adult_dark_transparent.png){.absolute bottom=0 left=0 width=150}
+
+##  {background-image="../img/lp_2026/Slide2.png"  background-size="98%"}
+
+##  {background-image="../img/lp_2026/Slide3.png"  background-size="98%"}
+
+##  {background-image="../img/lp_2026/Slide4.png"  background-size="98%"}
+
+##  {background-image="../img/lp_2026/Slide5.png"  background-size="98%"}
+
+##  {background-image="../img/lp_2026/Slide6.png"  background-size="98%"}
+
+##  {background-image="../img/lp_2026/Slide7.png"  background-size="98%"}
+
+##  {background-image="../img/lp_2026/Slide8.png"  background-size="98%"}
+
+##  {background-image="../img/lp_2026/Slide9.png"  background-size="98%"}
+
+##  {background-image="../img/lp_2026/Slide10.png"  background-size="98%"}
+
+##  {background-image="../img/lp_2026/Slide11.png"  background-size="98%"}
+ 
+##  {background-image="../img/lp_2026/Slide12.png"  background-size="98%"}
+ 
+## Questions? {background-color="#111111" background-image="../img/artsy_datasheet_rabo.jpg" background-size="cover" background-position="bottom"}

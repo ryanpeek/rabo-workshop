@@ -1,11 +1,11 @@
 ---
-title: "Status"
+title: "Status & Permitting"
 format:
   html:
     css: ../styles.css
 ---
 
-<iframe class="slide-deck" src="./rabo_10_status_permitting.html" title="Status Slides">
+<iframe class="slide-deck" src="./rabo_02_status_permitting.html" title="Status & Permitting Slides">
 </iframe>
 
 *Note.* To view the slideshow in full screen mode, click inside it and press the "f" key on your keyboard.<br />
