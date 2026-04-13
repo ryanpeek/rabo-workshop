@@ -24,17 +24,16 @@ editor_options:
 ---
 
 ::: {.my-title background-color="#111111"}
-# [Welcome to the <br /> Foothill Yellow-Legged Frog<br />(*Rana boylii*) Workshop!]{.r-fit-text .light-yellow}{background-image="../img/nfa_iowa_hill_pano_reduced.jpg" background-size="contain" background-position="top" background-opacity="0.85" background-color="#fff69f"}
+# [Welcome to the <br /> Foothill Yellow-Legged Frog<br />(*Rana boylii*) Workshop!]{.r-fit-text .dark-gray}{background-image="../img/nfa_iowa_hill_pano_reduced.jpg" background-size="contain" background-position="top" background-opacity="0.7" background-color="#EEEEEE"}
 
 <br>
 <br>
 
-::: {.my-gray}
-[2025-05-09 | [Elkhorn Slough RTEP](https://www.eventbrite.com/e/ecology-of-foothill-yellow-legged-frog-tickets-1292111884429)]{}<br />
+
+[2026-04-30 | [Elkhorn Slough RTEP](https://www.eventbrite.com/e/ecology-of-foothill-yellow-legged-frog-tickets-1292111884429)]{}<br />
 Ryan Peek | Sarah Kupferberg <br />
 Alan Striegle | Laura Patterson <br />
 Isaac Chellman | Marcia Grefsrud
-:::
 
 ![](../img/rabo_adult_dark_transparent.png){.absolute bottom=200 right=0 width=250}
 <br>
