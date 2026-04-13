@@ -32,8 +32,10 @@ website:
           - text: "Habitat"
             href: slides/D1_rabo_04.qmd
           - text: "---"
-          - text: "Status"
-            href: slides/D1_rabo_02.qmd
+          - text: "Status & Permitting"
+            href: slides/D2_rabo_01.qmd
+          - text: "Avoidance & Mitigation"
+            href: slides/D1_rabo_02b.qmd
           - text: "Climate & Phenology"
             href: slides/D2_rabo_02.qmd
           - text: "Survey Methods"
