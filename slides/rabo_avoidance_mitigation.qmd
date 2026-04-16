@@ -68,3 +68,11 @@ Marcia Grefsrud | Environmental Scientist, CDFW
 ##  {background-image="../img/mg_2026_mitigation/Slide17.png"  background-size="98%"}
 
 ##  {background-image="../img/mg_2026_mitigation/Slide18.png"  background-size="98%"}
+
+##  {background-image="../img/mg_2026_mitigation/Slide19.png"  background-size="98%"}
+
+##  {background-image="../img/mg_2026_mitigation/Slide20.png"  background-size="98%"}
+
+##  {background-image="../img/mg_2026_mitigation/Slide21.png"  background-size="98%"}
+
+##  {background-image="../img/mg_2026_mitigation/Slide22.png"  background-size="98%"}
