@@ -20,9 +20,9 @@ Content developed and taught by Ryan Peek, Sarah Kupferberg, Alan Striegle, Marc
 
 ![Tidy datasheet](img/artsy_datasheet_rabo.jpg){fig-alt="a datasheet close up showing a grid with row after row of 'RABO' in pencil" fig-align="right" width=400}
 
-![Gravid female](img/chellman_Gravid female FYLF at Steephollow.jpg){fig-alt="A gravid female FYLF at Steephollow Creek" fig-align="right" width=400}
+![Gravid female (photo: Isaac Chellman)](img/chellman_Gravid female FYLF at Steephollow.jpg){fig-alt="A gravid female FYLF at Steephollow Creek" fig-align="right" width=400}
 
-![Juvenile RABO](img/chellman_Subadult FYLF at Greenhorn.jpg){fig-alt="a rana boylii juvenile frog sitting in water" fig-align="right" width=400}
+![Juvenile RABO (photo: Isaac Chellman)](img/chellman_Subadult FYLF at Greenhorn.jpg){fig-alt="a rana boylii juvenile frog sitting in water" fig-align="right" width=400}
 :::
 
 ------------------------------------------------------------------------
