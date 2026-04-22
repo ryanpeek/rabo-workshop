@@ -31,9 +31,9 @@ editor_options:
 
 **Metamorphosis** – The process of transformation from an aquatic larva to a terrestrial juvenile. During this process gills and tail fins are resorbed and coloration and the overall morphology begins to change to the terrestrial form. Larvae beginning metamorphosis can be detected by inspection of their gills and tail fin. 
 
-**Subadult** – A term essentially meaning the same thing as juvenile, above. Preferred synonym is "**juvenile**".
+**Subadult** – The definition is "An immature individual that has not yet reached full adult development but has passed the juvenile stage". For simplicity, preferred term to use is "**juvenile** instead of subadult.
 
-**Young-of-year (YOY)** – A recently metamorphosed individual from the same year it existed as a larva. Usually detected in and around breeding reaches in spring and summer.
+**Young-of-year (YOY)** – A recently metamorphosed individual from the same year it existed as larvae. Usually detected in and around breeding reaches summer and fall. Sizes can vary widely, but can be extremely small (10 mm)
 
 ## Download Bibliography
 
