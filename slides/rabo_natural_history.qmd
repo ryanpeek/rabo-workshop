@@ -133,7 +133,7 @@ Freshwater Ecosystems
 
 ::: {.fragment .incremental}
 
- - **We still don't know much**
+ - **There is still much we don't know...**
  - Amphibians are declining faster than can be documented
 
 :::
@@ -343,6 +343,15 @@ Natural History: Adults
 ::: footer
 Natural History: Adults
 :::
+
+## Frog Songs
+
+ - Amazing diversity of calls!
+
+ - Release/chuckle/croaks: <audio controls src="data/20260330_030000_release_chuckle_croak.wav"></audio>
+
+ - Pulsed chuckles: <audio controls src="data/20260323_000000_chuckle_pulse_croak.wav"></audio>
+
 
 
 ## {.smaller data-menu-title="Amplexus & Oviposition" background-image="../img/rabo_amplexus.jpg" background-size="cover" background-position="center" background-opacity="0.95" background-color="#001B44"}
