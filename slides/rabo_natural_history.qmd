@@ -352,7 +352,7 @@ Natural History: Adults
 
  - Pulsed chuckles: <audio controls src="https://github.com/ryanpeek/rabo-workshop/raw/refs/heads/main/data/20260323_000000_chuckle_pulse_croak.wav"></audio>
 
-![](img/20260330_030000_release_chuckle_croak_cropped.png){fig-align="center" width=72%}
+![](../img/20260330_030000_release_chuckle_croak_cropped.png){fig-align="center" width=72%}
 
 
 ## {.smaller data-menu-title="Amplexus & Oviposition" background-image="../img/rabo_amplexus.jpg" background-size="cover" background-position="center" background-opacity="0.95" background-color="#001B44"}
@@ -666,7 +666,7 @@ Natural History: YOY
  
  - [**Young of the year**]{.orange} — seen only in the late summer and fall (approximately August–October); easily distinguished due to small size compared to conspecifics at that time of year
  
- - [**Juvenile**]{.purple} — small individuals seen in the spring and early summer that do not exhibit secondary sex characteristics (i.e., gravid, nuptial pads)
+ - [**Juvenile**]{.purple} — small individuals, often seen in the spring and early summer that do not exhibit secondary sex characteristics (i.e., gravid, nuptial pads)
  
  - [**Adult**]{.navy} — large individuals (2–3+ years old) that exhibit secondary sexual characteristics
 
