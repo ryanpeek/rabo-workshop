@@ -25,7 +25,7 @@ format:
 # [Conservation]{.orange} & [Management]{.blue}
 
 ::: {.my-grey}
-[Elkhorn Slough RTEP | 2025-05-12]{}<br />
+[Elkhorn Slough RTEP | 2026-05-01]{}<br />
 :::
 
 ![](../img/rabo_adult_dark_transparent.png){.absolute bottom=0 right=0}
