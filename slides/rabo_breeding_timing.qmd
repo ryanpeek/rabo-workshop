@@ -18,7 +18,7 @@ format:
     code-copy: true
     pagetitle: "RABO Climate Phenology"
     author-meta: "Ryan Peek"
-    date-meta: "2025-05-09"
+    date-meta: "2026-05-01"
 ---
 
 ::: {.my-title}
