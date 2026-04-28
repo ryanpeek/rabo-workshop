@@ -18,7 +18,7 @@ format:
     code-copy: true
     pagetitle: "RABO Conservation"
     author-meta: "Ryan Peek"
-    date-meta: "2025-05-12"
+    date-meta: "2026-05-01"
 ---
 
 ::: {.my-title}
@@ -57,20 +57,22 @@ Wangari Maathai, Kenyan peace activist and environmentalist, who in 2004 became 
 
 ## Conservation Strategies
 
+ - Headstarting / Augmentation /Translocation
  - Removal of dams / Flow Management in RABO habitat
- - Augmentation / Translocation
  - Watershed protection
- - Stream Habitat and Nonnative Species Management
+ - Invasive Species Management
  - Watershed Scale Management
  - Population and Habitat Monitoring
- - Improve gene flow & connectivity
+ - Gene Flow & connectivity
+
+## {.smaller data-menu-title="Headstarting" background-image=../img/sk_rabo_headstarting_Slide1.png background-size="contain" background-position="top" background-color="#000000"}
+
 
 ## {.smaller data-menu-title="Dam removal" background-image=../img/sk_image_c001.jpg background-size="contain" background-position="top" background-color="#FFFFFF"}
 
 ::: footer
 [Dam Removal]{.f2 .black}
 :::
-
 
 ## {.smaller data-menu-title="Dam removal: 2" background-image=../img/sk_image_c002.jpg background-size="contain" background-position="top" background-color="#000000"}
 
