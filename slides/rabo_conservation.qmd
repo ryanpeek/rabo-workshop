@@ -16,13 +16,13 @@ format:
     highlight-style: ayu-mirage
     code-link: false
     code-copy: true
-    pagetitle: "RABO Conservation"
+    pagetitle: "RABO Applied Conservation"
     author-meta: "Ryan Peek"
     date-meta: "2026-05-01"
 ---
 
 ::: {.my-title}
-# [Conservation]{.orange} & [Management]{.blue}
+# [Applying Conservation]{.orange}
 
 ::: {.my-grey}
 [Elkhorn Slough RTEP | 2026-05-01]{}<br />
@@ -64,9 +64,6 @@ Wangari Maathai, Kenyan peace activist and environmentalist, who in 2004 became 
  - Watershed Scale Management
  - Population and Habitat Monitoring
  - Gene Flow & connectivity
-
-## {.smaller data-menu-title="Headstarting" background-image=../img/sk_rabo_headstarting_Slide1.png background-size="contain" background-position="top" background-color="#000000"}
-
 
 ## {.smaller data-menu-title="Dam removal" background-image=../img/sk_image_c001.jpg background-size="contain" background-position="top" background-color="#FFFFFF"}
 
@@ -254,105 +251,8 @@ Augmentation
 
 ## {data-menu-title="Zoo headstarting Results" background-image=../img/sk_image_c07.jpg background-size="cover" background-position="top" background-color="#FFFFFF"}
 
-<!--
 
-## Incidental Take Permit (ITP) {.smaller}
+## {.smaller data-menu-title="Headstarting" background-image=../img/sk_rabo_headstarting_Slide_thru_2026.png background-size="contain" background-position="top" background-color="#000000"}
 
-
- - FGC 2081(b) requires that the impact of the authorized taking shall be minimized and fully mitigated.
-
-::: {.fragment}
- - Analysis includes scope of take
-    - Low (few individuals -short time period)
-    - High (many individuals-extended time period
-:::    
-
-
-![](../img/bear_river_tailing_flow.png){fig-align="center"}
-
-## Habitat Assessment {.smaller}
-
-::: {.columns .pv4}
-::: {.column width="40%"}
-
- [Consider]{.f2 .orange}
- 
-  - Quality of habitat impacted
-  - Density of RABO population
-  - Value of impacted habitat to species (dispersal, lek site)
-  - Distance to other suitable habitat
-
-![](../img/rabo_tads_hatched.jpg){fig-align="center" width=300}
-
-:::
-::: {.column .tc width="60%"}
-
-![San Corpoforo](../img/San_Corpoforo.png){fig-align="center"}
-:::
-:::
-
-::: footer
-Conservation
-:::
-
-## Habitat <br />Assessment<br /> Temporally {.smaller background-image="../img/sk_mainstem_eel_above_Pillsbury_side_pool_2018_09_21.jpg" background-size="57%" background-position="right" background-color="#000000"}
-
-::: {.columns .pv3}
-::: {.column width="40%"}
-<br>
-
-[Temporal Loss Assessment]{.f2 .orange}
-
-  - Permanent vs. Temporary
-  - Duration of impacts
-  - Duration of restoration
-
-:::
-::: {.column .tc width="60%"}
-
-:::
-:::
-::: footer
-[Mainstem Eel, above Lake Pillsbury, Sept 2018]{.tr .white}
-:::
-
-## Compensatory Mitigation {.smaller background-image="../img/sk_los_burros_pano.jpg" background-size="contain" background-position="bottom" background-opacity="60%" background-color="#000000"}
-
-<br><br>
-
-[Full Mitigation]{.f2 .yellow}
-
- - Management actions to control predators, competitors or pathogens
- - Permanent conservation of essential habitat
- - Habitat restoration
- - Off-site creation/restoration/enhancement
- - *and/or* off-site acquisition and protection
- 
- 
-## Mechanisms { background-image="../img/NFMF_upstream.jpg" background-size="cover" background-position="bottom" background-opacity="50%" background-color="#000000"}
- 
- - Acquisition and protection of currently unprotected functional habitat (e.g., conservation of essential habitat areas)
-
- - Restoration or enhancement of areas with degraded ecosystem function
-
- - Creation of functional habitat
- 
-## Conservation Goals {.smaller}
-
-:::{.incremental}
-
-[Maintain the number and the range of impacted species by:]{.f2 .purple .b}
-
- - creating new functional habitat, enhancing or restoring existing functional habitat, or increase function (e.g., carrying capacity) and reduce/control adverse conditions (e.g., exotic species, etc.)
- - Conserve larger, contiguous habitat areas
- - Conserve and restore habitat connectivity corridors (i.e., decreased habitat fragmentation) and maximize species distribution across its range
- - Conserve and maintain associated ecological systems (i.e., including physical factors such as topography, soil, and hydrology as well as biological factors such as forage/prey, lek sites)
- - Conserve population structures and genetics
- - Conserve unique habitat features
- - Consistency with recovery plan goals that contribute to de-listing criteria
-
-:::
-
--->
 
 ## Questions? {background-color="#111111" background-image="../img/artsy_datasheet_rabo.jpg" background-size="cover" background-position="bottom"}
